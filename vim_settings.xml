@@ -131,17 +131,17 @@
         <mark key="^" line="34" column="84" />
         <mark key="." line="34" column="84" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556176035337">
-        <mark key="[" line="388" column="33" />
-        <mark key="]" line="388" column="37" />
-        <mark key="^" line="388" column="37" />
-        <mark key="." line="388" column="37" />
+      <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556176209957">
+        <mark key="[" line="359" column="32" />
+        <mark key="]" line="359" column="36" />
+        <mark key="^" line="359" column="36" />
+        <mark key="." line="359" column="36" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1556003174058">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="121" column="10" />
-        <mark key="." line="87" column="0" />
+      <file name="/Volumes/SSD/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1556177518885">
+        <mark key="[" line="111" column="22" />
+        <mark key="]" line="111" column="22" />
+        <mark key="^" line="111" column="22" />
+        <mark key="." line="111" column="22" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/avatar.spec.ts" timestamp="1556084245682">
         <mark key="[" line="5" column="0" />
@@ -161,11 +161,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1556098323543">
-        <mark key="[" line="420" column="9" />
-        <mark key="]" line="334" column="34" />
-        <mark key="^" line="334" column="34" />
-        <mark key="." line="334" column="34" />
+      <file name="/Volumes/SSD/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1556177449523">
+        <mark key="[" line="565" column="56" />
+        <mark key="]" line="565" column="60" />
+        <mark key="^" line="565" column="60" />
+        <mark key="." line="565" column="60" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/friend.spec.ts" timestamp="1556084162792">
         <mark key="[" line="132" column="12" />
@@ -327,35 +327,34 @@
         <text>stock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhciBtaW4gZmxvYXQzMiA9IDAuMQoJdmFyIG1heCBmbG9hdDMyID0gOS45Cg==</text>
+        <text encoding="base64">CQkicnVuZV9zbG90X2lkXzEiOiB7bWluVmFsdWU6ICZyYW5nZVZhbHVlezF9fSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
+      <register name="1" type="8">
+        <text>enum2Slice(Proto.HairType_Enum_name, true)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
+      <register name="2" type="8">
+        <text>レアイリティ</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
+      <register name="3" type="8">
+        <text>レアイリティ</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oYmxlc3NpbmcsIG1heCwgYWRkUmFuaykK</text>
+      <register name="4" type="8">
+        <text>レアイリティ</text>
       </register>
-      <register name="5" type="8">
-        <text>32
-32</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQGFwaVBhcmFtIHt1aW50MzJ9IHJhcml0eSDjg6zjgqLjgqTjg6rjg4bjgqMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBtYXggZmxvYXQ2NCA9IDEwOTIzODc5NDAK</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBtaW4gZmxvYXQ2NCA9IDEyMzEK</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdFJhbmRVSW50NjQodCAqdGVzdGluZy5UKSB7Cgl2YXIgbWluIHVpbnQ2NCA9IDEyMzEKCXZhciBtYXggdWludDY0ID0gMTA5MjM4Nzk0MAoJZm9yIGkgOj0gMDsgaSA8IDEwMDAwOyBpKysgewoJCXZhbCA6PSBSYW5kVUludDY0KG1pbiwgbWF4KQoJCWlmIHZhbCA+IG1heCB7CgkJCXQuRXJyb3JmKCJtaW4gdmFsdWUgZXJyb3IgZ290ID0gJXYsIHdhbnQgJXYiLCB2YWwsIG1heCkKCQl9CgkJaWYgdmFsIDwgbWluIHsKCQkJdC5FcnJvcmYoIm1pbiB2YWx1ZSBlcnJvciBnb3QgPSAldiwgd2FudCAldiIsIHZhbCwgbWluKQoJCX0KCX0KfQo=</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oYmxlc3NpbmcsIG1heCwgYWRkUmFuaykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
