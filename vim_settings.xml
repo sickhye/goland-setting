@@ -107,8 +107,6 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/node_modules/chai-http/types/index.d.ts" timestamp="1556084680223" />
-      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/anima.spec.ts" timestamp="1556084439282" />
       <file name="/Volumes/SSD/go/src/virgo-server/models/user/equipment.go" timestamp="1556005231766">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -137,7 +135,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/node_modules/@types/superagent/index.d.ts" timestamp="1556085262949" />
       <file name="/Volumes/SSD/go/src/virgo-server/models/master/item.go" timestamp="1556098876929">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="45" />
@@ -436,5 +433,8 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
