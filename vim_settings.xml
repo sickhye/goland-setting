@@ -88,11 +88,12 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="42" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556172397169">
+      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556173859774">
         <mark key="'" line="134" column="6" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+        <mark key="[" line="205" column="32" />
+        <mark key="]" line="205" column="32" />
+        <mark key="." line="205" column="32" />
+        <mark key="^" line="205" column="31" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.ts" timestamp="1555568479597">
         <mark key="[" line="23" column="6" />
@@ -308,8 +309,8 @@
       <jump line="136" column="6" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -321,31 +322,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgYWZ0ZXJfaXRlbSA9IHBsYXllci5TdG9yZWREYXRhLmdldEl0ZW0oKS5nZXRMaXN0TWFwKCkuZ2V0KG1hdGVyaWFsX2lkKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXJfaXRlbSkubm90Lm51bGw7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSkuZXEoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygrK3RyeV9jb3VudCwgYWZ0ZXIuZ2V0SWQoKSwgYWZ0ZXIuZ2V0RW5oYW5jZW1lbnQoKSwgZW5oYW5jZW1lbnRfcmFuay5nZXRFcXVpcG1lbnRDYXRlZ29yeSgpLCBhZnRlcl9pdGVtLmdldEl0ZW1JZCgpLCBhZnRlcl9pdGVtLmdldFF1YW50aXR5KCksZW5oYW5jZW1lbnRfcmFuay5nZXRSZXF1aXJlZE1hdGVyaWFsUXVhbnRpdHkoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oZGF0YSwgYmVmb3JlUmFuaywgYWZ0ZXJSYW5rKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>(Math.floor(Math.random() * Math.floor(50))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWF0ZXJpYWxfaWQpOwo=</text>
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oZGF0YSwgYmVmb3JlUmFuaywgYWZ0ZXJSYW5rKQo=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">Lm1hcCh4PT54LmdldElkKCkp</text>
+        <text>(Math.floor(Math.random() * Math.floor(50))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWF0ZXJpYWxfaWQpOwo=</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">Lm1hcCh4PT54LmdldElkKCkp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
