@@ -9,11 +9,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1556183606872">
-        <mark key="[" line="315" column="21" />
-        <mark key="]" line="315" column="21" />
-        <mark key="." line="315" column="21" />
-        <mark key="^" line="315" column="37" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1556187018146">
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="16" />
+        <mark key="." line="65" column="16" />
+        <mark key="^" line="62" column="84" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_protect.go" timestamp="1556076481778">
         <mark key="[" line="1" column="0" />
@@ -224,16 +224,15 @@
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556076714215">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556186178153">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="63" column="73" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556187055288">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="49" />
+        <mark key="." line="68" column="49" />
+        <mark key="^" line="68" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="17" filename="/Volumes/SSD/go/src/virgo-server/.drone.yml" />
-      <jump line="11" column="17" filename="/Volumes/SSD/go/src/virgo-server/.drone.yml" />
       <jump line="0" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/database/master/dbconf.yml" />
       <jump line="0" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/database/misc/dbconf.yml" />
       <jump line="4" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/database/user/dbconf.yml" />
@@ -332,46 +331,48 @@
       <jump line="155" column="9" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="193" column="19" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/go/src/virgo-server/models/master/item.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">aXRlbSBtYXBbdWludDMyXXVpbnQzMiwg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">bHVwaSA=</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gR2V0RXF1aXBtZW50TGV2ZWxVcE1hdGVyaWFsIOijheWCmeODrOODmeODq+OCouODg+ODl+e0oOadkApmdW5jIChsICpJdGVtTGlzdCkgR2V0RXF1aXBtZW50TGV2ZWxVcE1hdGVyaWFsKGVxdWlwbWVudFJhcml0eSB1aW50MzIsIGVxdWlwbWVudENhdGVnb3J5IHVpbnQzMikgKCpJdGVtLCBlcnJvcikgewoJZm9yIF8sIGUgOj0gcmFuZ2UgbC5lbGVtZW50cyB7CgkJaWYgZS5UeXBlICE9IHVpbnQzMihQcm90by5JdGVtQ2F0ZWdvcnlfRXF1aXBtZW50TGV2ZWxVcE1hdGVyaWFsKSB7CgkJCWNvbnRpbnVlCgkJfQoJCWlmIGUuUmFyaXR5ICE9IGVxdWlwbWVudFJhcml0eSB7CgkJCWNvbnRpbnVlCgkJfQoJCWlmIGUuU3ViQ2F0ZWdvcnkgIT0gZXF1aXBtZW50Q2F0ZWdvcnkgewoJCQljb250aW51ZQoJCX0KCQlyZXR1cm4gZSwgbmlsCgl9CglyZXR1cm4gbmlsLCBhcHAuRXJyKAoJCWFwcC5QYXJhbUVycm9yLAoJCWZtdC5FcnJvcmYoImVxdWlwbWVudCBpdGVtIG1hc3RlciBpcyBub3QgZXhpc3RzIGNhdGVnb3J5OiAlZCByYXJpdHk6JWQiLCBlcXVpcG1lbnRDYXRlZ29yeSwgZXF1aXBtZW50UmFyaXR5KSwKCSkKfQo=</text>
+        <text encoding="base64">KSAoY29zdCB1aW50NjQsIGl0ZW0gbWFwW3VpbnQzMl11aW50MzIsIGJlZm9yZVJhcml0eSB1aW50MzIsIGFmdGVyUmFyaXR5IHVpbnQzMiwgZXJyIGVycm9yKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">aXRlbSBtYXBbdWludDMyXXVpbnQzMiwg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KSAoY29zdCB1aW50NjQsIGVyciBlcnJvcikgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">aXRlbSBtYXBbdWludDMyXXVpbnQzMiwg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CSkgKGNvc3QgdWludDY0LCBlcnIgZXJyb3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBlLlJhcml0eSAhPSBlcXVpcG1lbnRSYXJpdHkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29udGludWUK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiBlLlJhcml0eSAhPSBlcXVpcG1lbnRSYXJpdHkgewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
