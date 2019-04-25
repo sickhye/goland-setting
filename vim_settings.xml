@@ -9,6 +9,12 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1556183606872">
+        <mark key="[" line="315" column="21" />
+        <mark key="]" line="315" column="21" />
+        <mark key="." line="315" column="21" />
+        <mark key="^" line="315" column="37" />
+      </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_protect.go" timestamp="1556076481778">
         <mark key="[" line="1" column="0" />
       </file>
@@ -20,6 +26,10 @@
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_sell.go" timestamp="1556076532002">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_enhance.go" timestamp="1556183064794">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="33" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1555669276553">
         <mark key="[" line="29" column="33" />
@@ -204,6 +214,12 @@
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556076714215">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556183635047">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="48" column="4" filename="/Volumes/SSD/go/src/virgo-server/.drone.yml" />
@@ -308,44 +324,44 @@
       <jump line="193" column="19" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>equipment_list[1][1].id</text>
+      <register name="&quot;" type="4">
+        <text>Mst</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>Mst</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaS5yZXF1ZXN0KGFwcCkKICAgICAgICAgICAgLnBvc3QoJy9lcXVpcG1lbnQvcHJvdGVjdC91bmxvY2snKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFwcC5FcnIoCgkJCQlhcHAuUHJvY2Vzc0Vycm9yLAo=</text>
       </register>
       <register name="1" type="8">
-        <text>equipment_list[1][1].id</text>
+        <text>rank:%d</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRMaXN0LnNvcnQoKCkgPT4gLjUgLSBNYXRoLnJhbmRvbSgpKTsK</text>
+        <text encoding="base64">CQkJCQl1c2VyRXF1aXBtZW50LlJhcml0eSwK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQl1c2VyRXF1aXBtZW50LlJhcml0eSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aWYgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IobGV0IGVxdWlwbWVudCBvZiBlcXVpcG1lbnRfbGlzdCkgewo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFwcC5FcnIoYXBwLlByb2Nlc3NFcnJvciwgIiIpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>toObject().listMap</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJcmV0dXJuIGVycgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZXF1aXBtZW50ID0gZXF1aXBtZW50X2xpc3QuZmluZCh4ID0+IHhbMV0uPT0gMSk7Cg==</text>
+        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="8">
+        <text>equipmentGroup.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
