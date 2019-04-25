@@ -88,12 +88,11 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="42" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556170373906">
+      <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556172397169">
         <mark key="'" line="134" column="6" />
-        <mark key="[" line="192" column="20" />
-        <mark key="]" line="192" column="20" />
-        <mark key="^" line="192" column="21" />
-        <mark key="." line="192" column="20" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.ts" timestamp="1555568479597">
         <mark key="[" line="23" column="6" />
@@ -124,10 +123,10 @@
         <mark key="^" line="34" column="84" />
         <mark key="." line="34" column="84" />
       </file>
-      <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556169024869">
-        <mark key="[" line="168" column="28" />
-        <mark key="]" line="168" column="28" />
-        <mark key="." line="168" column="28" />
+      <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556171856027">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1556003174058">
         <mark key="[" line="87" column="0" />
@@ -309,44 +308,44 @@
       <jump line="136" column="6" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJldHVybiB1aW50MzIocmFuZC5JbnRuKGludChtYXgtbWluKSkpICsgbWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgYWZ0ZXJfaXRlbSA9IHBsYXllci5TdG9yZWREYXRhLmdldEl0ZW0oKS5nZXRMaXN0TWFwKCkuZ2V0KG1hdGVyaWFsX2lkKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXJfaXRlbSkubm90Lm51bGw7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSkuZXEoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCsrdHJ5X2NvdW50LCBhZnRlci5nZXRJZCgpLCBhZnRlci5nZXRFbmhhbmNlbWVudCgpLCBlbmhhbmNlbWVudF9yYW5rLmdldEVxdWlwbWVudENhdGVnb3J5KCksIGFmdGVyX2l0ZW0uZ2V0SXRlbUlkKCksIGFmdGVyX2l0ZW0uZ2V0UXVhbnRpdHkoKSxlbmhhbmNlbWVudF9yYW5rLmdldFJlcXVpcmVkTWF0ZXJpYWxRdWFudGl0eSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsZXNzaW5nID0gMDsK</text>
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oZGF0YSwgYmVmb3JlUmFuaywgYWZ0ZXJSYW5rKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGVyaWFsX2lkID0gZW5oYW5jZW1lbnRfcmFuay5nZXRNYXRlcmlhbElkKCk7Cg==</text>
+      <register name="3" type="8">
+        <text>(Math.floor(Math.random() * Math.floor(50))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJlZm9yZV9lbmhhbmNlX3JhbmsgPT0gMCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g57Sg5p2Q44Ki44Kk44OG44Og6L+95YqgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWF0ZXJpYWxfaWQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1hdGVyaWFsX2lkID0gZW5oYW5jZW1lbnRfcmFuay5nZXRCbGVzc2luZ01hdGVyaWFsSWQoKTsK</text>
+      <register name="6" type="8">
+        <text encoding="base64">Lm1hcCh4PT54LmdldElkKCkp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiByYW5kLlVpbnQ2NCgpKihtYXgtbWluKSArIG1pbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="8">
-        <text>Uint32n(int(max-min)) + min</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiByYW5kLkludChpbnQobWF4KS1taW4pICsgbWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
