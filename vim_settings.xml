@@ -9,11 +9,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1556187018146">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="16" />
-        <mark key="^" line="62" column="84" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1556193596539">
+        <mark key="[" line="62" column="104" />
+        <mark key="]" line="62" column="113" />
+        <mark key="." line="62" column="113" />
+        <mark key="^" line="62" column="113" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_protect.go" timestamp="1556076481778">
         <mark key="[" line="1" column="0" />
@@ -228,12 +228,11 @@
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556076714215">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556191059788">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1556193559009">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="95" column="82" />
-        <mark key="]" line="95" column="83" />
-        <mark key="." line="95" column="83" />
-        <mark key="^" line="95" column="83" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -339,11 +338,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQliCg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
@@ -352,31 +351,31 @@
         <text encoding="base64">CQljb25zdGFudExpc3QuRmxvYXQoImVxdWlwbWVudF9ldm9sdXRpb25fc3VjY2Vzc19yYXRlIiwgYXBwLk5vdyhjdHgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQliCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlrbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb3QgOj0gYXBwLlJhbmRGbG9hdDMyKDAsIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiBsb3QgPCBtYXN0ZXJDb2xsZWN0aW9uLmV2b2x1dGlvbi4gCg==</text>
+        <text encoding="base64">CQlrbGwK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">aXRlbSBtYXBbdWludDMyXXVpbnQzMiwg</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlsb3QgOj0gYXBwLlJhbmRGbG9hdDMyKDAsIDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KSAoY29zdCB1aW50NjQsIGVyciBlcnJvcikgewo=</text>
+        <text encoding="base64">CQlpZiBsb3QgPCBtYXN0ZXJDb2xsZWN0aW9uLmV2b2x1dGlvbi4gCg==</text>
       </register>
       <register name="8" type="8">
         <text encoding="base64">aXRlbSBtYXBbdWludDMyXXVpbnQzMiwg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSkgKGNvc3QgdWludDY0LCBlcnIgZXJyb3IpCg==</text>
+        <text encoding="base64">KSAoY29zdCB1aW50NjQsIGVyciBlcnJvcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
