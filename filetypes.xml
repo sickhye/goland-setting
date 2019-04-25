@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="" type="Native" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <removed_mapping pattern="message.jet" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="photon_auth.go" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="go.mod" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
