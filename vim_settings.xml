@@ -39,6 +39,7 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1556180818433" />
       <file name="/Volumes/SSD/go/src/virgo-server/infrastructures/cache/cache_manager.go" timestamp="1555573701754">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="18" column="60" />
