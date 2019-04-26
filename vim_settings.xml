@@ -27,6 +27,11 @@
         <mark key="^" line="18" column="60" />
         <mark key="." line="18" column="60" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/ranking.spec.ts" timestamp="1556263289103">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/friend_controller.go" timestamp="1555662571234">
         <mark key="[" line="152" column="49" />
         <mark key="]" line="152" column="49" />
@@ -127,6 +132,7 @@
         <mark key="]" line="70" column="14" />
         <mark key="." line="70" column="14" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/player.ts" timestamp="1556263236595" />
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_protect.go" timestamp="1556076481778">
         <mark key="[" line="1" column="0" />
       </file>
@@ -186,7 +192,7 @@
         <mark key="^" line="248" column="19" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556260993054">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556263681941">
         <mark key="[" line="305" column="45" />
         <mark key="]" line="311" column="77" />
         <mark key="." line="311" column="77" />
@@ -249,6 +255,12 @@
         <mark key="]" line="148" column="82" />
         <mark key="^" line="148" column="82" />
         <mark key="." line="148" column="82" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/player.spec.ts" timestamp="1556263360278">
+        <mark key="[" line="159" column="50" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="158" column="15" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase_enhance.go" timestamp="1556077787925">
         <mark key="[" line="95" column="55" />
@@ -375,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNkIC4uLzsgXAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0UGxheWVyOiBQbGF5ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>Plaa</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
@@ -387,31 +399,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXIuZ2V0RXZvbHV0aW9uQ29ycmVjdGlvblJhdGUoKSkuZXEoYmVmb3JlX2NvcnJlY3Rpb25fcmF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNkIC4uLzsgXAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0UGxheWVyOiBQbGF5ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRzZm10IC1yOyBcCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBtYWtlVGFyZ2V0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRzOyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>装備素材進化</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQGFwaVBhcmFtIHt1aW50MzJ9IGJvb3N0X2l0ZW1faWQg5oiQ5Yqf546H44Ki44OD44OX44Ki44Kk44OG44OgSUQK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFrZVRhcmdldCA9IGFzeW5jICgpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGFwaVBhcmFtIHtib29sfSBibGVzc2luZyDnpZ3npo/jgqLjgqTjg4bjg6Dkvb/nlKjmnInnhKEK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFrZVRhcmdldDogKCkgPT4gUHJvbWlzZTx2b2lkPjsK</text>
       </register>
-      <register name="7" type="8">
-        <text>装備強化</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRXJyb3IgfSBmcm9tICcuL3Byb3RvL1Bjb21tb24vY29tbW9uX3BiJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzdWNjZXNzID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0UGxheWVyOiBQbGF5ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0UGxheWVySURzLnB1c2godGFyZ2V0UGxheWVyLlBsYXllcklEKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
