@@ -153,10 +153,11 @@
         <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1556180818433" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556253383107">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="41" />
-        <mark key="." line="258" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1556256308039">
+        <mark key="[" line="246" column="26" />
+        <mark key="]" line="246" column="26" />
+        <mark key="." line="246" column="26" />
+        <mark key="^" line="246" column="24" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/infrastructures/cache/memcache_handler.go" timestamp="1555573775619">
         <mark key="[" line="54" column="4" />
@@ -360,11 +361,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZXF1aXBtZW50X2lkOiBudW1iZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
@@ -373,31 +374,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeC5nZXRUeXBlKCkgPT0gYWxsLkl0ZW1DYXRlZ29yeS5FbnVtLkVRVUlQTUVOVEVWT0xVVElPTk1BVEVSSUFMICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZXF1aXBtZW50X2lkOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlvLfljJblrp/ooYwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVxdWlwbWVudF9pZCA9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJib29zdF9pdGVtX2lkIiwgYm9vc3RfaXRlbV9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcXVpcG1lbnRfaWQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJibGVzc2luZyIsIGJsZXNzaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZXF1aXBtZW50X2lkOiBudW1iZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVxdWlwbWVudF9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlvLfljJblrp/ooYwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJib29zdF9pdGVtX2lkIiwgYm9vc3RfaXRlbV9pZCkK</text>
       </register>
-      <register name="7" type="8">
-        <text>all.ItemCategory.Enum.EQUIPMENTEVOLUTIONMATERIAL</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJibGVzc2luZyIsIGJsZXNzaW5nKQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>enhancement_rank.getRequiredBoostQuantity()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVxdWlwbWVudF9pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOe0oOadkOOCouOCpOODhuODoOOAgeODq+ODlOOCkui/veWKoAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
