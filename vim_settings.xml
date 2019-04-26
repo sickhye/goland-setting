@@ -186,11 +186,11 @@
         <mark key="^" line="248" column="19" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556253250111">
-        <mark key="[" line="216" column="79" />
-        <mark key="]" line="217" column="12" />
-        <mark key="^" line="217" column="12" />
-        <mark key="." line="217" column="12" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556260993054">
+        <mark key="[" line="305" column="45" />
+        <mark key="]" line="311" column="77" />
+        <mark key="." line="311" column="77" />
+        <mark key="^" line="311" column="77" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.ts" timestamp="1555568479597">
         <mark key="[" line="23" column="6" />
@@ -263,6 +263,12 @@
         <mark key="]" line="136" column="27" />
         <mark key="." line="136" column="27" />
         <mark key="^" line="136" column="27" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/Makefile" timestamp="1556261181526">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="204" column="23" />
+        <mark key="." line="205" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -368,11 +374,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNkIC4uLzsgXAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>stock</text>
@@ -381,31 +387,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXIuZ2V0RXZvbHV0aW9uQ29ycmVjdGlvblJhdGUoKSkuZXEoYmVmb3JlX2NvcnJlY3Rpb25fcmF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzdWNjZXNzID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CWNkIC4uLzsgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CXRzZm10IC1yOyBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CXRzOyBcCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyYXJpdHkgKQo=</text>
+      <register name="4" type="8">
+        <text>装備素材進化</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJhcml0eSwgYWZ0ZXIuZ2V0SWQoKSwgYWZ0ZXIuZ2V0UmFyaXR5KCkpOwo=</text>
+        <text encoding="base64">ICogQGFwaVBhcmFtIHt1aW50MzJ9IGJvb3N0X2l0ZW1faWQg5oiQ5Yqf546H44Ki44OD44OX44Ki44Kk44OG44OgSUQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFmdGVyX3Jhcml0eSA9IGFmdGVyLmdldFJhcml0eSgpOwo=</text>
+        <text encoding="base64">ICogQGFwaVBhcmFtIHtib29sfSBibGVzc2luZyDnpZ3npo/jgqLjgqTjg4bjg6Dkvb/nlKjmnInnhKEK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBhZnRlcl9yYXJpdHkgPSByYXJpdHk7Cg==</text>
+      <register name="7" type="8">
+        <text>装備強化</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXIuZ2V0RXZvbHV0aW9uQ29ycmVjdGlvblJhdGUoKSkuZXEoYmVmb3JlX2NvcnJlY3Rpb25fcmF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzdWNjZXNzID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>before_correction_rate</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
