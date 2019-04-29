@@ -246,12 +246,12 @@
         <mark key="^" line="248" column="19" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556531044780">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556532266568">
         <mark key="'" line="584" column="24" />
-        <mark key="[" line="617" column="85" />
-        <mark key="]" line="618" column="12" />
-        <mark key="." line="618" column="12" />
-        <mark key="^" line="618" column="12" />
+        <mark key="[" line="578" column="31" />
+        <mark key="]" line="581" column="30" />
+        <mark key="." line="581" column="30" />
+        <mark key="^" line="581" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_forge.go" timestamp="1556503770312">
         <mark key="[" line="87" column="0" />
@@ -451,11 +451,11 @@
       <jump line="584" column="24" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>struct {</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGV0YWNoIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZSA=</text>
+        <text encoding="base64">ZGV0YWNoIA==</text>
       </register>
       <register name="/" type="4">
         <text>rume</text>
