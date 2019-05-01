@@ -60,6 +60,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/job.puml" timestamp="1556680220987">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_equipment_usecase.go" timestamp="1556333274965">
         <mark key="[" line="141" column="49" />
         <mark key="]" line="141" column="52" />
@@ -71,6 +77,12 @@
         <mark key="]" line="152" column="49" />
         <mark key="^" line="152" column="53" />
         <mark key="." line="152" column="49" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sample.puml" timestamp="1556683265464">
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="9" />
+        <mark key="." line="101" column="9" />
+        <mark key="^" line="101" column="9" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/usecases/input/equipment_input.go" timestamp="1556082526489">
         <mark key="[" line="87" column="23" />
@@ -523,10 +535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogKCJpbnZlbnRvcnlfc2xvdHMiLCAibHVwaSIsICJ0b3BheiIsICJtaWxlYWdlIiwgImd1aWxkX2NvaW4iLCAieWVsbCIsICJibHVlX3NraWxsX3BvaW50IiwgInJlZF9za2lsbF9wb2ludCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRMaXN0TWFwXD4=</text>
@@ -535,28 +547,28 @@
         <text encoding="base64">CQlNaWxlYWdlOjAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogKCJpbnZlbnRvcnlfc2xvdHMiLCAibHVwaSIsICJ0b3BheiIsICJtaWxlYWdlIiwgImd1aWxkX2NvaW4iLCAieWVsbCIsICJibHVlX3NraWxsX3BvaW50IiwgInJlZF9za2lsbF9wb2ludCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="2" type="8">
+        <text>シ</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oY29zdCwgaXRlbSwgYWZ0ZGRlckxldmVsLCBhZnRlckV4cCwgZGVzdHJveVJ1bmVJRCkK</text>
+      <register name="3" type="8">
+        <text>ミ</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmllbGQoIml0ZW02IiwgdXJfaXRlbV9xdWFudGl0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmllbGQoIml0ZW01Iiwgc3JfaXRlbV9xdWFudGl0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmllbGQoIml0ZW00IiwgaHJfaXRlbV9xdWFudGl0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmllbGQoIml0ZW0zIiwgcl9pdGVtX3F1YW50aXR5KQo=</text>
+        <text encoding="base64">IHJhbmtkaXI9TFI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmllbGQoIml0ZW0yIiwgaG5faXRlbV9xdWFudGl0eSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
