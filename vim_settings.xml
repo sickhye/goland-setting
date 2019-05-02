@@ -107,11 +107,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1556698522654">
-        <mark key="[" line="73" column="33" />
-        <mark key="]" line="73" column="35" />
-        <mark key="." line="73" column="35" />
-        <mark key="^" line="73" column="35" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1556775378018">
+        <mark key="[" line="125" column="24" />
+        <mark key="]" line="125" column="26" />
+        <mark key="." line="125" column="26" />
+        <mark key="^" line="125" column="26" />
       </file>
       <file name="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556082669787">
         <mark key="[" line="158" column="57" />
@@ -498,43 +498,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>G</text>
+        <text encoding="base64">cmVzZXQg</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text encoding="base64">cmVzZXQg</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkmZi5Kb2JTa2lsbElEOiBiaW5kaW5nLkZpZWxkewoJCQlGb3JtOiAgICAgImpvYl9za2lsbF9pZCIsCgkJCVJlcXVpcmVkOiB0cnVlLAoJCX0sCg==</text>
+        <text encoding="base64">LyoqCiAqIEBhcGkge3Bvc3R9IC9qb2Ivc2tpbGwvcmVzZXQg44K444On44OW44K544Kt44Or44Oq44K744OD44OICiAqIEBhcGlWZXJzaW9uIDEuMC4wCiAqIEBhcGlVc2UgQXBpQXV0aAogKiBAYXBpTmFtZSBKb2JTa2lsbFJlc2V0CiAqIEBhcGlHcm91cCBKb2IKICogQGFwaVBhcmFtIHt1aW50MzJ9IGpvYl9pZCDjgrjjg6fjg5ZJRAogKiBAYXBpUGFyYW0ge3VpbnQzMn0gam9iX3NraWxsX2lkIOOCuOODp+ODluOCueOCreODq0lECiAqIEBhcGlTdWNjZXNzIHtwcm90b30gQVBJIDxhIGhyZWY9Ii9zdGF0aWMvcHJvdG8uaHRtbCNQcm90by5Ob2NvbnRlbnQiPlByb3RvLk5vY29udGVudDwvYT4KICovCmZ1bmMgKGNvbnRyb2xsZXIgKmpvYkNvbnRyb2xsZXIpIFNraWxsRW5oYW5jZSgpIGh0dHAuSGFuZGxlckZ1bmMgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICogQGFwaVBhcmFtIHt1aW50MzJ9IGpvYl9za2lsbF9pZCDjgrjjg6fjg5bjgrnjgq3jg6tJRAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ZnVuYyAoY29udHJvbGxlciAqam9iQ29udHJvbGxlcikgU2tpbGxFbmhhbmNlKCkgaHR0cC5IYW5kbGVyRnVuYyB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUpvYlNraWxsSUQgICAgICAgICB1aW50MzIK</text>
+        <text encoding="base64">ICogQGFwaU5hbWUgSm9iQWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUpvYlNraWxsR0x2R3JvdXBJRCB1aW50MzIK</text>
+        <text encoding="base64">ZnVuYyAoY29udHJvbGxlciAqam9iQ29udHJvbGxlcikgU2tpbGxMZWFybigpIGh0dHAuSGFuZGxlckZ1bmMgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVNraWxsSUQgdWludDMyCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CUpvYlNraWxsSUQgICAgICAgICB1aW50MzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSwK</text>
+        <text encoding="base64">CUpvYlNraWxsR0x2R3JvdXBJRCB1aW50MzIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSwK</text>
+        <text encoding="base64">CVNraWxsSUQgdWludDMyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/TreeIndex/g</text>
