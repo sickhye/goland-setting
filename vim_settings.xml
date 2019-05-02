@@ -42,10 +42,11 @@
         <mark key="^" line="379" column="119" />
         <mark key="." line="379" column="119" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" timestamp="1556797930907">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" timestamp="1556798784145">
+        <mark key="[" line="159" column="72" />
+        <mark key="]" line="159" column="27" />
+        <mark key="." line="159" column="27" />
+        <mark key="^" line="159" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/master/item.go" timestamp="1556777509748">
         <mark key="'" line="113" column="41" />
@@ -252,44 +253,44 @@
       <jump line="65" column="7" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnRfam9iX3NraWxsX2xldmVsLCBtYXhfam9iX3NraWxsX2xldmVsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgam9iX3NraWxsX2x2X21hc3Rlcl9saXN0ID0gIG1hc3Rlci5BbGwuZ2V0Sm9iU2tpbEx2bExpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGFmdGVyX2pvYl9za2lsbCA9IHN0b3JlZERhdGEuZ2V0Sm9iU2tpbGwoKS50b09iamVjdCgpLmFkZE1hcC5maW5kKHggPT4geFsxXS5za2lsbElkID09IGpvYl9za2lsbF9pZCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnRfam9iX3NraWxsX2xldmVsLCBtYXhfam9iX3NraWxsX2xldmVsKTsK</text>
+      <register name="1" type="8">
+        <text>.toObject().addMap;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text encoding="base64">LmZpbmQoeCA9PiB4WzFdLnNraWxsSWQgPT0gam9iX3NraWxsX2lkKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAoeCA9PiB4LmdldEx2KCkpLnJlZHVjZSgoYSwgYikgPT4gYSA+IGIgPyBhIDogYik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWF4X2pvYl9za2lsbF9sZXZlbCA9IGpvYl9za2lsbF9sdl9tYXN0ZXJfbGlzdC5maWx0ZXIoeCA9PiB4LmdldEpvYlNraWxsSWQoKSA9PSBqb2Jfc2tpbGxfaWQpLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgam9iX2x2X21hc3Rlcl9saXN0ID0gbWFzdGVyLkFsbC5nZXRKb2JMdkdyb3VwTGlzdCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgam9iX2x2X21hc3Rlcl9saXN0ID0gbWFzdGVyLkFsbC5nZXRKb2JMdkdyb3VwTGlzdCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnRfam9iX3NraWxsX2xldmVsLCBtYXhfam9iX3NraWxsX2xldmVsKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAoeCA9PiB4LmdldEx2KCkpLnJlZHVjZSgoYSwgYikgPT4gYSA+IGIgPyBhIDogYik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbWF4X2pvYl9za2lsbF9sZXZlbCA9IGpvYl9za2lsbF9sdl9tYXN0ZXJfbGlzdC5maWx0ZXIoeCA9PiB4LmdldEpvYlNraWxsSWQoKSA9PSBqb2Jfc2tpbGxfaWQpLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgam9iX2x2X21hc3Rlcl9saXN0ID0gbWFzdGVyLkFsbC5nZXRKb2JMdkdyb3VwTGlzdCgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgam9iX2x2X21hc3Rlcl9saXN0ID0gbWFzdGVyLkFsbC5nZXRKb2JMdkdyb3VwTGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnRfam9iX3NraWxsX2xldmVsLCBtYXhfam9iX3NraWxsX2xldmVsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
