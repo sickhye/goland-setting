@@ -42,6 +42,12 @@
         <mark key="^" line="379" column="119" />
         <mark key="." line="379" column="119" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1557190653109">
+        <mark key="[" line="173" column="31" />
+        <mark key="]" line="173" column="39" />
+        <mark key="^" line="173" column="39" />
+        <mark key="." line="173" column="39" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" timestamp="1556798784145">
         <mark key="[" line="159" column="72" />
         <mark key="]" line="159" column="27" />
@@ -254,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>FreeCoin</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>FreeCoin</text>
       </register>
       <register name="/" type="4">
         <text>Map</text>
