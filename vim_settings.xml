@@ -5,13 +5,14 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557212930067">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557215182110">
         <mark key="u" line="29" column="68" />
-        <mark key="'" line="161" column="38" />
-        <mark key="[" line="104" column="5" />
+        <mark key="'" line="171" column="38" />
+        <mark key="[" line="180" column="32" />
         <mark key="m" line="29" column="68" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+        <mark key="]" line="180" column="36" />
+        <mark key="." line="180" column="36" />
+        <mark key="^" line="180" column="36" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1557211004664">
         <mark key="'" line="90" column="8" />
@@ -281,46 +282,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Del</text>
+        <text encoding="base64">c2tpbGwg</text>
       </register>
       <register name="-" type="4">
-        <text>Del</text>
+        <text encoding="base64">c2tpbGwg</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBhcHAuRXJyKAoJCQkJCWFwcC5Qcm9jZXNzRXJyb3IsCgkJCQkJZm10LkVycm9yZigiZXF1aXBtZW50IGlzIG5vdCBleGl0c3RzIDolZCIsIHNsb3RJRFtrXSksCgkJCQkpCg==</text>
+        <text encoding="base64">CQkJaWYgXywgb2sgOj0gam9iU2tpbGxEdXBlW3Nsb3RJRFtrXV07IG9rIHsKCQkJCXJldHVybiBhcHAuRXJyKAoJCQkJCWFwcC5Qcm9jZXNzRXJyb3IsCgkJCQkJZm10LkVycm9yZigiam9iIHNraWxsIGlzIGR1cGUgaWR4OiVkIHNraWxsX2lkOiVkIiwgaysxLCBqb2JTa2lsbElEKSwKCQkJCSkKCQkJfSBlbHNlIHsKCQkJCWpvYlNraWxsRHVwZVtzbG90SURba11dID0gdHJ1ZQoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllcXVpcG1lbnRNYXBbZS5JRF0gPSBmYWxzZQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVxdWlwbWVudER1cGUgOj0gbWFrZShtYXBbdWludDY0XWJvb2wpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZXF1aXBtZW50TWFwW2UuSURdID0gdHJ1ZQo=</text>
+        <text encoding="base64">CWZvciBfLCBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmIGUuSUQgPT0gZS5XZWFwb25Ta2lsbExldmVsID09IGNvbnRpbnVlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJZm9yIF8sIGUgOj0gcmFuZ2UgZXF1aXBtZW50IHsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQllcXVpcG1lbnRNYXBbZS5JRF0gPSBmYWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZXF1aXBtZW50TWFwW2UuSURdID0gdHJ1ZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>121,130s/Type/ID/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -374,8 +375,8 @@
         <entry>75</entry>
         <entry>%s/Row/TreeLevel/g</entry>
         <entry>%s/Column/TreeIndex/g</entry>
-        <entry>w</entry>
         <entry>121,130s/Type/ID/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
