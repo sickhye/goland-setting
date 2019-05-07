@@ -5,14 +5,12 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557223853400">
-        <mark key="u" line="29" column="68" />
-        <mark key="'" line="175" column="38" />
-        <mark key="[" line="164" column="50" />
-        <mark key="m" line="29" column="68" />
-        <mark key="]" line="164" column="56" />
-        <mark key="." line="164" column="56" />
-        <mark key="^" line="164" column="56" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557227940328">
+        <mark key="'" line="187" column="38" />
+        <mark key="[" line="101" column="62" />
+        <mark key="]" line="103" column="17" />
+        <mark key="^" line="103" column="17" />
+        <mark key="." line="103" column="17" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1557211004664">
         <mark key="'" line="90" column="8" />
@@ -283,24 +281,34 @@
       <jump line="769" column="2" filename="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>,
-,
-,
-,
-,
-,</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpZWxkKCJzdWJfYWNjZXNzb3J5MSIsIFswLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAwXSkK</text>
+        <text encoding="base64">ZnVuYyAoaW50ZXJhY3RvciAqam9iQ29tbWFuZEludGVyYWN0b3IpIFNldCgK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ZnVuYwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IGVsc2Ugew==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">IGVsc2Ugew==</text>
+      </register>
+      <register name="6" type="8">
         <text>,
 ,
 ,
@@ -308,29 +316,14 @@
 ,
 ,</text>
       </register>
-      <register name="2" type="8">
+      <register name="7" type="8">
         <text encoding="base64">IDAKIDAKIDAKIDAKIDAKIDA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmZpZWxkKCJzdWJfYWNjZXNzb3J5MSIsIFswLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAwXSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpZWxkKCJzbG90X2lkIiwgaGVhZF9pZCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpZWxkKCJzbG90X2lkIiwgaGVhZF9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
