@@ -5,20 +5,20 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557209973169">
-        <mark key="u" line="24" column="68" />
-        <mark key="[" line="24" column="68" />
-        <mark key="]" line="24" column="67" />
-        <mark key="m" line="24" column="68" />
-        <mark key="^" line="24" column="67" />
-        <mark key="." line="24" column="67" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1557212930067">
+        <mark key="u" line="29" column="68" />
+        <mark key="'" line="161" column="38" />
+        <mark key="[" line="104" column="5" />
+        <mark key="m" line="29" column="68" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1557206687285">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1557211004664">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="248" column="11" />
-        <mark key="]" line="248" column="16" />
-        <mark key="." line="248" column="16" />
-        <mark key="^" line="248" column="16" />
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="74" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1556797419380">
         <mark key="'" line="100" column="43" />
@@ -90,11 +90,11 @@
         <mark key="." line="101" column="9" />
         <mark key="^" line="101" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1557209261526">
-        <mark key="[" line="541" column="13" />
-        <mark key="]" line="542" column="116" />
-        <mark key="." line="542" column="116" />
-        <mark key="^" line="542" column="116" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1557211260224">
+        <mark key="[" line="564" column="16" />
+        <mark key="]" line="564" column="22" />
+        <mark key="." line="564" column="22" />
+        <mark key="^" line="564" column="22" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/rune_controller.go" timestamp="1556790592780">
         <mark key="[" line="92" column="0" />
@@ -178,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="21" filename="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase.go" />
-      <jump line="58" column="0" filename="/Volumes/SSD/go/src/virgo-server/usecases/player_usecase.go" />
       <jump line="586" column="0" filename="/Volumes/SSD/go/src/virgo-server/usecases/player_usecase.go" />
       <jump line="60" column="98" filename="/Volumes/SSD/go/src/virgo-server/usecases/player_usecase.go" />
       <jump line="589" column="54" filename="/Volumes/SSD/go/src/virgo-server/usecases/player_usecase.go" />
@@ -278,63 +276,64 @@
       <jump line="234" column="12" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
       <jump line="89" column="6" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
       <jump line="90" column="8" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
+      <jump line="129" column="39" filename="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" />
+      <jump line="159" column="38" filename="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uint64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>uint64</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Debug</text>
+        <text>Type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWpvYklEIHVpbnQzMiwK</text>
+        <text encoding="base64">CQkJCXJldHVybiBhcHAuRXJyKAoJCQkJCWFwcC5Qcm9jZXNzRXJyb3IsCgkJCQkJZm10LkVycm9yZigiZXF1aXBtZW50IGlzIG5vdCBleGl0c3RzIDolZCIsIHNsb3RJRFtrXSksCgkJCQkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>job.JobEquipmentIdx</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQllcXVpcG1lbnRNYXBbZS5JRF0gPSBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGJyLkVxKCJpc19kZWxldGVkIiwgMCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZGJyLkVxKCJpZHgiLCBpZHgpLAo=</text>
+        <text encoding="base64">CQkJZXF1aXBtZW50TWFwW2UuSURdID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGJyLkVxKCJqb2JfaWQiLCBqb2JJRCksCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmIGUuSUQgPT0gZS5XZWFwb25Ta2lsbExldmVsID09IGNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIF8sIGUgOj0gcmFuZ2UgZXF1aXBtZW50IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>121,130s/Type/ID/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Debug</last-search>
+      <last-search>Type</last-search>
       <last-offset />
-      <last-pattern>Debug</last-pattern>
-      <last-replace>TreeIndex</last-replace>
-      <last-substitute>Column</last-substitute>
+      <last-pattern>Type</last-pattern>
+      <last-replace>ID</last-replace>
+      <last-substitute>Type</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rune_slot</entry>
         <entry>_slot_</entry>
         <entry>Raire</entry>
         <entry>Rarity</entry>
@@ -354,9 +353,9 @@
         <entry>Map</entry>
         <entry>JobEquipmentDel</entry>
         <entry>Debug</entry>
+        <entry>Type</entry>
       </history-search>
       <history-cmd>
-        <entry>98s/,/,\\n/g</entry>
         <entry>98s/,/,\\r\n/g</entry>
         <entry>98s/,/,\\\n/g</entry>
         <entry>%159,180s/Evolution/LimitBreak/g</entry>
@@ -376,6 +375,7 @@
         <entry>%s/Row/TreeLevel/g</entry>
         <entry>%s/Column/TreeIndex/g</entry>
         <entry>w</entry>
+        <entry>121,130s/Type/ID/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
