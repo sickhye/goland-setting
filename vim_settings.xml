@@ -69,6 +69,12 @@
         <mark key="." line="1367" column="0" />
         <mark key="^" line="2094" column="36" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1557378325646">
+        <mark key="[" line="32" column="71" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1557220079121">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -80,11 +86,6 @@
         <mark key="]" line="111" column="15" />
         <mark key="^" line="111" column="15" />
         <mark key="." line="111" column="15" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/ranking.spec.ts" timestamp="1556797566035">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1557376063278">
         <mark key="[" line="849" column="30" />
@@ -128,11 +129,6 @@
         <mark key="]" line="572" column="25" />
         <mark key="." line="572" column="25" />
         <mark key="^" line="572" column="25" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/master/job_lv_group.go" timestamp="1557195925553">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/user/job_skill.go" timestamp="1556781391959">
         <mark key="[" line="8" column="22" />
@@ -291,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
