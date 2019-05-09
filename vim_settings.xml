@@ -42,6 +42,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints.go" timestamp="1557382295772" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1557211004664">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="74" column="18" />
@@ -326,7 +327,7 @@
         <text encoding="base64">Y29uc3QgKAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>101</text>
       </register>
     </registers>
     <search>
@@ -362,7 +363,6 @@
         <entry>StoredData</entry>
       </history-search>
       <history-cmd>
-        <entry>98s/,/,\\r\n/g</entry>
         <entry>98s/,/,\\\n/g</entry>
         <entry>%159,180s/Evolution/LimitBreak/g</entry>
         <entry>%s/RuleSlot/Rune/g</entry>
@@ -382,6 +382,7 @@
         <entry>%s/Column/TreeIndex/g</entry>
         <entry>121,130s/Type/ID/g</entry>
         <entry>w</entry>
+        <entry>101</entry>
       </history-cmd>
       <history-expr />
       <history-input />
