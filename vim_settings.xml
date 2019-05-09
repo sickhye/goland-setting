@@ -63,17 +63,17 @@
         <mark key="^" line="131" column="66" />
         <mark key="." line="131" column="66" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1557308813767">
-        <mark key="[" line="1367" column="0" />
-        <mark key="]" line="1367" column="0" />
-        <mark key="." line="1367" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1557380197296">
+        <mark key="[" line="1896" column="55" />
+        <mark key="]" line="1896" column="55" />
+        <mark key="." line="1896" column="55" />
         <mark key="^" line="2094" column="36" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1557378325646">
-        <mark key="[" line="32" column="71" />
-        <mark key="]" line="32" column="72" />
-        <mark key="." line="32" column="72" />
-        <mark key="^" line="32" column="72" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1557380232086">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1557220079121">
         <mark key="[" line="6" column="0" />
@@ -287,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>job_skill</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>job_skill</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
