@@ -64,11 +64,11 @@
         <mark key="^" line="131" column="66" />
         <mark key="." line="131" column="66" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1557380197296">
-        <mark key="[" line="1896" column="55" />
-        <mark key="]" line="1896" column="55" />
-        <mark key="." line="1896" column="55" />
-        <mark key="^" line="2094" column="36" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1557397764081">
+        <mark key="[" line="1282" column="60" />
+        <mark key="]" line="1282" column="63" />
+        <mark key="." line="1282" column="63" />
+        <mark key="^" line="1282" column="63" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1557384141582" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1557220079121">
@@ -282,11 +282,11 @@
       <jump line="141" column="8" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_command.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkidHJlZV9pbmRleCI6IHttaW5WYWx1ZTogJnJhbmdlVmFsdWV7MH0sIG1heFZhbHVlOiAmcmFuZ2VWYWx1ZXszfX0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
@@ -322,7 +322,7 @@
         <text encoding="base64">CVRlc3QyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -376,8 +376,8 @@
         <entry>%s/Row/TreeLevel/g</entry>
         <entry>%s/Column/TreeIndex/g</entry>
         <entry>121,130s/Type/ID/g</entry>
-        <entry>w</entry>
         <entry>101</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
