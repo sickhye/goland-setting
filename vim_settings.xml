@@ -139,10 +139,10 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557457555259">
-        <mark key="'" line="769" column="2" />
-        <mark key="[" line="1203" column="0" />
-        <mark key="]" line="1203" column="0" />
-        <mark key="." line="1203" column="0" />
+        <mark key="'" line="758" column="2" />
+        <mark key="[" line="1196" column="0" />
+        <mark key="]" line="1196" column="0" />
+        <mark key="." line="1196" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1557209131845">
         <mark key="[" line="63" column="23" />
