@@ -31,10 +31,10 @@
         <mark key="^" line="103" column="17" />
         <mark key="." line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1557377479157">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1557457584447">
+        <mark key="[" line="113" column="34" />
+        <mark key="]" line="113" column="34" />
+        <mark key="." line="113" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1556780602850">
         <mark key="'" line="245" column="0" />
@@ -112,6 +112,7 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/response/api.go" timestamp="1557457263861" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/user.proto" timestamp="1557454680718" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1557198748533">
         <mark key="[" line="80" column="21" />
@@ -137,7 +138,7 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557455608007">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557457555259">
         <mark key="'" line="769" column="2" />
         <mark key="[" line="1219" column="0" />
         <mark key="]" line="1219" column="0" />
@@ -280,11 +281,11 @@
       <jump line="141" column="8" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_command.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StatusBadRequest</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>StatusBadRequest</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
