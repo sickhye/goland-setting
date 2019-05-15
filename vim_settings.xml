@@ -71,12 +71,6 @@
         <mark key="^" line="131" column="66" />
         <mark key="." line="131" column="66" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1557911650399">
-        <mark key="[" line="786" column="4" />
-        <mark key="]" line="786" column="5" />
-        <mark key="." line="786" column="5" />
-        <mark key="^" line="786" column="5" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1557220079121">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
