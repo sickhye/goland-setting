@@ -119,8 +119,6 @@
         <mark key="." line="101" column="9" />
         <mark key="^" line="101" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/response/api.go" timestamp="1557457263861" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/user.proto" timestamp="1557454680718" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1557198748533">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="27" />
@@ -145,7 +143,7 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557713611102">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557896212040">
         <mark key="'" line="758" column="2" />
         <mark key="[" line="419" column="4" />
         <mark key="]" line="419" column="4" />
