@@ -139,9 +139,9 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557901869545">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557997718857">
         <mark key="'" line="758" column="2" />
-        <mark key="[" line="419" column="4" />
+        <mark key="[" line="795" column="34" />
         <mark key="]" line="419" column="4" />
         <mark key="." line="419" column="4" />
         <mark key="^" line="419" column="4" />
@@ -182,7 +182,12 @@
         <mark key="." line="292" column="75" />
         <mark key="^" line="292" column="43" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1557974273216" />
+      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1557997693489">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="13" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="48" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="62" column="22" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
@@ -288,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Param</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Param</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
