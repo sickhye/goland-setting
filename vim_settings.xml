@@ -5,7 +5,6 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1557288053154" />
       <file name="$USER_HOME$/go/src/virgo-server/models/master/job_skill.go" timestamp="1556784277218">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -176,6 +175,7 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance.go" timestamp="1557981424492" />
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1557200531763">
         <mark key="[" line="150" column="45" />
         <mark key="]" line="150" column="45" />
