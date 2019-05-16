@@ -115,8 +115,8 @@
         <mark key="." line="101" column="9" />
         <mark key="^" line="101" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1557979720298">
-        <mark key="[" line="80" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1557999573322">
+        <mark key="[" line="89" column="75" />
         <mark key="]" line="80" column="27" />
         <mark key="^" line="80" column="27" />
         <mark key="." line="80" column="27" />
@@ -139,12 +139,12 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557997718857">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557999275705">
         <mark key="'" line="758" column="2" />
-        <mark key="[" line="795" column="34" />
-        <mark key="]" line="419" column="4" />
-        <mark key="." line="419" column="4" />
-        <mark key="^" line="419" column="4" />
+        <mark key="[" line="919" column="20" />
+        <mark key="]" line="919" column="20" />
+        <mark key="." line="919" column="20" />
+        <mark key="^" line="919" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1557209131845">
         <mark key="[" line="63" column="23" />
@@ -293,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>Job</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Job</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
