@@ -107,9 +107,9 @@
         <mark key="^" line="238" column="39" />
         <mark key="." line="238" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1556790696103">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1557971989244">
         <mark key="'" line="603" column="24" />
-        <mark key="[" line="852" column="50" />
+        <mark key="[" line="720" column="94" />
         <mark key="]" line="852" column="52" />
         <mark key="." line="852" column="52" />
         <mark key="^" line="852" column="52" />
