@@ -74,12 +74,12 @@
         <mark key="^" line="80" column="27" />
         <mark key="." line="80" column="27" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1557999275705">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558074742918">
         <mark key="'" line="758" column="2" />
-        <mark key="[" line="919" column="20" />
-        <mark key="]" line="919" column="20" />
-        <mark key="." line="919" column="20" />
-        <mark key="^" line="919" column="20" />
+        <mark key="[" line="1229" column="30" />
+        <mark key="]" line="1229" column="31" />
+        <mark key="." line="1229" column="31" />
+        <mark key="^" line="1229" column="31" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558055908412">
         <mark key="[" line="11" column="16" />
@@ -107,14 +107,20 @@
         <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/account_usecase.go" timestamp="1557982090077" />
-      <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1556781566373">
+      <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1558074439391">
         <mark key="'" line="19" column="92" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="50" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="1" />
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/authenticate.go" timestamp="1557984537005" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1558074502406">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance.go" timestamp="1557981424492" />
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1557984035521">
         <mark key="[" line="292" column="75" />
@@ -233,43 +239,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>StoredData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQGFwaVBhcmFtIHt1aW50MzJ9IGVsaXhpcl9pZCDlr77osaHnp5jolqxJRAo=</text>
+        <text encoding="base64">CUpvYkludGVyYWN0b3IgICAgICAgICAgdXNlY2FzZXMuSUpvYkludGVyYWN0b3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbV9pZCk7Cg==</text>
+        <text encoding="base64">ICBQdXNlci5Kb2JFcXVpcG1lbnQgam9iX2VxdWlwbWVudCA9IDEwOyAvLy8g44K444On44OW6KOF5YKZCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGluaXRpYWwsIGNvc3QsIGl0ZW0sIGFmdGVyUmFuaywgYWZ0ZXJMZXZlbCwgcXVhbnRpdHkpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">cmFuayA9PSAxICYmIGxldmVsID09IDE=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbV9pZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHF1YW50aXR5LCBjb3N0LCBpdGVtLCBhZnRlclJhbmssIGFmdGVyTGV2ZWwpCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKGluaXRpYWwsIGNvc3QsIGl0ZW0sIGFmdGVyUmFuaywgYWZ0ZXJMZXZlbCwgcXVhbnRpdHkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">cmFuayA9PSAxICYmIGxldmVsID09IDE=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsZXQgbGV2ZWwgPSAxOyBsZXZlbCA8PSBlbGl4aXIuZ2V0TWF4THYoKTsgbGV2ZWwrKykgewo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTExMTExMTExMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHF1YW50aXR5LCBjb3N0LCBpdGVtLCBhZnRlclJhbmssIGFmdGVyTGV2ZWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWwrKzsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
