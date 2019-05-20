@@ -6,6 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1558314621424" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558338261548" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" timestamp="1558058816483">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="100" column="84" />
@@ -149,6 +150,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/ranking.go" timestamp="1558338020910" />
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1558320306131">
         <mark key="[" line="281" column="55" />
         <mark key="]" line="281" column="55" />
