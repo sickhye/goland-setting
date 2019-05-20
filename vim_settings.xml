@@ -6,7 +6,12 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1558314621424" />
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558338261548" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558340723689">
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="128" column="27" />
+        <mark key="." line="128" column="27" />
+        <mark key="^" line="112" column="75" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" timestamp="1558058816483">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="100" column="84" />
@@ -144,13 +149,18 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/garyburd/redigo@v1.6.0/redis/reply.go" timestamp="1558339888438" />
       <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1558074502406">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/ranking.go" timestamp="1558338020910" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/ranking.go" timestamp="1558341451663">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1558320306131">
         <mark key="[" line="281" column="55" />
         <mark key="]" line="281" column="55" />
@@ -267,44 +277,44 @@
       <jump line="535" column="4" filename="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VGhlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXJlZGlzLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Atk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXBwLkVycihhcHAuUGFyYW1FcnJvciwgZm10LkVycm9yZigiZGVmYXVsdCBza2lsbCBjYW4gbm90IGxlYXJuIHNraWxsX2lkOiVkIiwgc2tpbGxJRCkpCg==</text>
+        <text encoding="base64">CQlpZiBlcnIgPT0gcmVkaXMuRXJyTmlsIHsKCQkJcmV0dXJuIDAsIDAsIG5pbAoJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlZGlzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Im1hdGgiCW1hdGguTWF4VWludDY0IC0gYXBwLk5vdyhjdHguKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gMCwgMCwgbmlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGFwcC5FcnIoYXBwLlBhcmFtRXJyb3IsIGZtdC5FcnJvcmYoImpvYl9za2lsbF9pZDolZCB1bG9jayBpcyBuZWVkIGpvYl9za2lsbF9pZDolZCIsIHNraWxsSUQsIGUpKQo=</text>
+        <text encoding="base64">CQkvLyDmnKpzZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CX0gZWxzZSBpZiByZXBseVJhbmsgPT0gbmlsIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9LAo=</text>
+        <text encoding="base64">CQlpZiBlcnIgPT0gcmVkaXMuRXJyTmlsIHsKCQkJcmV0dXJuIDAsIDAsIG5pbAoJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
+        <text encoding="base64">CX0gZWxzZSBpZiByZXBseVNjb3JlID09IG5pbCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJRm9ybTogICAgICJqb2Jfc2tpbGxfaWQiLAo=</text>
+        <text encoding="base64">CXNjb3JlLCBlcnIgOj0gc3RyY29udi5QYXJzZVVpbnQoc3RyaW5nKHJlcGx5U2NvcmUuKFtdYnl0ZSkpLCAxMCwgNjQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkmZi5Kb2JTa2lsbElEOiBiaW5kaW5nLkZpZWxkewo=</text>
+        <text encoding="base64">CXNjb3JlLCBlcnIgOj0gc3RyY29udi5QYXJzZVVpbnQoc3RyaW5nKHJlcGx5U2NvcmUuKFtdYnl0ZSkpLCAxMCwgNjQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>531,537s/Atk/Resist/g</text>
