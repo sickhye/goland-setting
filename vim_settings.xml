@@ -90,11 +90,11 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sample.go" timestamp="1558515983581">
+      <file name="$USER_HOME$/go/src/virgo-server/sample.go" timestamp="1558515984851">
         <mark key="[" line="10" column="14" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_skill_usecase.go" timestamp="1558333972396">
         <mark key="[" line="218" column="67" />
