@@ -5,7 +5,6 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1558314621424" />
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558340723689">
         <mark key="[" line="128" column="27" />
         <mark key="]" line="128" column="27" />
@@ -44,6 +43,12 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/battle.go" timestamp="1558511064815">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558332029928">
         <mark key="[" line="244" column="95" />
@@ -103,14 +108,14 @@
         <mark key="." line="159" column="77" />
         <mark key="^" line="159" column="76" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558509783559">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558511194040">
         <mark key="'" line="530" column="4" />
-        <mark key="[" line="1255" column="30" />
-        <mark key="]" line="1255" column="30" />
-        <mark key="." line="1255" column="30" />
-        <mark key="^" line="1255" column="30" />
+        <mark key="[" line="1235" column="18" />
+        <mark key="]" line="1236" column="33" />
+        <mark key="." line="1236" column="33" />
+        <mark key="^" line="1236" column="33" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558055908412">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558510999349">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
         <mark key="^" line="64" column="9" />
@@ -261,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Close</text>
+        <text encoding="base64">RWxpeGlyTWFudWZhY3R1cmUg</text>
       </register>
       <register name="-" type="4">
-        <text>Close</text>
+        <text encoding="base64">RWxpeGlyTWFudWZhY3R1cmUg</text>
       </register>
       <register name="/" type="4">
         <text>Atk</text>
