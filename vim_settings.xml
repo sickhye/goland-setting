@@ -5,17 +5,19 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/database/master/migrations/20190522182845_alter_table.sql" timestamp="1558519647331" />
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558340723689">
         <mark key="[" line="128" column="27" />
         <mark key="]" line="128" column="27" />
         <mark key="." line="128" column="27" />
         <mark key="^" line="112" column="75" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558517259529">
-        <mark key="'" line="42" column="40" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558519858284">
+        <mark key="'" line="44" column="40" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="52" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1558319277985">
         <mark key="'" line="194" column="38" />
@@ -37,17 +39,18 @@
         <mark key="^" line="211" column="21" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1558059318428">
-        <mark key="'" line="100" column="43" />
-        <mark key="[" line="241" column="64" />
-        <mark key="]" line="241" column="64" />
-        <mark key="." line="241" column="64" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1557984840489">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1558519736614">
+        <mark key="'" line="1411" column="5" />
+        <mark key="[" line="1507" column="0" />
+        <mark key="]" line="1507" column="0" />
+        <mark key="^" line="1411" column="5" />
+        <mark key="." line="1507" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/battle.go" timestamp="1558511064815">
         <mark key="[" line="3" column="5" />
@@ -55,6 +58,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/anima.spec.ts" timestamp="1558520431722" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558332029928">
         <mark key="[" line="244" column="95" />
         <mark key="]" line="244" column="95" />
@@ -187,14 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="0" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="128" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="40" column="23" filename="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase.go" />
-      <jump line="47" column="42" filename="/Volumes/SSD/go/src/virgo-server/usecases/equipment_usecase.go" />
-      <jump line="96" column="34" filename="/Volumes/SSD/go/src/virgo-server/interfaces/controllers/equipment_controller.go" />
-      <jump line="155" column="9" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="193" column="19" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/go/src/virgo-server/models/master/item.go" />
       <jump line="14" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
       <jump line="10" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
@@ -287,55 +283,63 @@
       <jump line="32" column="41" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
       <jump line="42" column="40" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
       <jump line="22" column="4" filename="$USER_HOME$/go/src/virgo-server/sample.go" />
+      <jump line="1595" column="0" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1479" column="13" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1485" column="32" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1540" column="32" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1544" column="34" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1440" column="48" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1630" column="15" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
+      <jump line="1411" column="5" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>navigation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnRyb2xsZXJzLlByb3ZpZGVGaWVsZENvbnRyb2xsZXIsCg==</text>
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X2Rlc2NyaXB0aW9uIn0sIG51bGw6IHRydWUsCgkJCQlydWxlczogbWFwW3N0cmluZ10qcmVsYXRpb25SdWxlewoJCQkJCWRlZmF1bHRSdWxlOiB7dGFibGU6ICJ0ZXh0X2pwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAoJCQkJfSwKCQkJfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzYW1wbGUgOj0gUHJvdG8uQmF0dGxlRW50ZXJSZXF1ZXN0e30K</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJldCkK</text>
+        <text encoding="base64">CQl9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVyciA9IGpzb24uVW5tYXJzaGFsKFtdYnl0ZSh0ZXN0KSwgcmV0KQo=</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldCA6PSAmUHJvdG8uQmF0dGxlRW50ZXJSZXF1ZXN0e30K</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRlc3QgOj0gInt9Igo=</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAidGV4dF9qcCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGpzLCBzdHJpbmcoanMpKQo=</text>
+        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X25hbWUifSwgbnVsbDogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
+        <text encoding="base64">CQlpbmZvczogW10qcmVsYXRpb25JbmZvewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CQl0YWJsZTogIm5hdmlnYXRpb25fb2JqZWN0IiwK</text>
       </register>
       <register name=":" type="4">
         <text>23s/&quot;/\\&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>navigation</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>navigation</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -343,12 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>player</entry>
-        <entry>Player</entry>
-        <entry>Equipment</entry>
-        <entry>equipment</entry>
-        <entry>func (</entry>
-        <entry>^\n</entry>
         <entry encoding="base64">XDxnZXRMaXN0TWFwXD4=</entry>
         <entry>Row</entry>
         <entry>Column</entry>
@@ -363,6 +361,12 @@
         <entry>Atk</entry>
         <entry>&quot;,\&quot;</entry>
         <entry>&quot;</entry>
+        <entry>chapter</entry>
+        <entry>contents</entry>
+        <entry>episode</entry>
+        <entry>battle_type</entry>
+        <entry>pvp_rank</entry>
+        <entry>navigation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rume/rune/g</entry>
