@@ -12,6 +12,13 @@
         <mark key="." line="128" column="27" />
         <mark key="^" line="112" column="75" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558510087927">
+        <mark key="'" line="42" column="40" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="47" column="40" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1558319277985">
         <mark key="'" line="194" column="38" />
         <mark key="[" line="274" column="29" />
@@ -31,12 +38,6 @@
         <mark key="]" line="217" column="0" />
         <mark key="^" line="211" column="21" />
         <mark key="." line="217" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1558059318428">
-        <mark key="'" line="100" column="43" />
-        <mark key="[" line="241" column="64" />
-        <mark key="]" line="241" column="64" />
-        <mark key="." line="241" column="64" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1557984840489">
         <mark key="[" line="23" column="0" />
@@ -102,14 +103,22 @@
         <mark key="." line="159" column="77" />
         <mark key="^" line="159" column="76" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558493607267">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558509783559">
         <mark key="'" line="530" column="4" />
+        <mark key="[" line="1255" column="30" />
+        <mark key="]" line="1255" column="30" />
+        <mark key="." line="1255" column="30" />
+        <mark key="^" line="1255" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558055908412">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
         <mark key="^" line="64" column="9" />
         <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/block_controller.go" timestamp="1558510009215">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" timestamp="1558059293892">
         <mark key="[" line="173" column="0" />
@@ -149,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="68" column="10" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
-      <jump line="119" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="105" column="11" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="5" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="0" column="0" filename="/Volumes/SSD/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
@@ -249,46 +255,49 @@
       <jump line="1063" column="32" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" />
       <jump line="530" column="7" filename="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" />
       <jump line="535" column="4" filename="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" />
+      <jump line="27" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
+      <jump line="32" column="41" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
+      <jump line="42" column="40" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Close</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Close</text>
       </register>
       <register name="/" type="4">
         <text>Atk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiBlcnIgPT0gcmVkaXMuRXJyTmlsIHsKCQkJcmV0dXJuIDAsIDAsIG5pbAoJCX0K</text>
+        <text encoding="base64">ZnVuYyAoY29udHJvbGxlciAqYmF0dGxlQ29udHJvbGxlcikgQ2xvc2UoKSBodHRwLkhhbmRsZXJGdW5jIHsKCXJldHVybiBmdW5jKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSB7Cgl9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YWJhc2VIb3N0IGRhdGFiYXNlLklEQkhvc3QsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkYXRhYmFzZUhvc3Q6OmRhcGsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>http.HandlerFunc</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuUAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlZGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Im1hdGgiCW1hdGguTWF4VWludDY0IC0gYXBwLk5vdyhjdHguKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMCwgMCwgbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyDmnKpzZXQK</text>
+        <text encoding="base64">CQlmbXQuUAo=</text>
       </register>
       <register name=":" type="4">
         <text>531,537s/Atk/Resist/g</text>
