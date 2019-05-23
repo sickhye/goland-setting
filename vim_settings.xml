@@ -39,18 +39,23 @@
         <mark key="^" line="211" column="21" />
         <mark key="." line="217" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1558059318428">
+        <mark key="'" line="100" column="43" />
+        <mark key="[" line="241" column="64" />
+        <mark key="]" line="241" column="64" />
+        <mark key="." line="241" column="64" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1557984840489">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1558519736614">
-        <mark key="'" line="1411" column="5" />
-        <mark key="[" line="1507" column="0" />
-        <mark key="]" line="1507" column="0" />
-        <mark key="^" line="1411" column="5" />
-        <mark key="." line="1507" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1558583054479">
+        <mark key="'" line="1391" column="5" />
+        <mark key="[" line="1475" column="0" />
+        <mark key="]" line="1475" column="0" />
+        <mark key="." line="1475" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/battle.go" timestamp="1558511064815">
         <mark key="[" line="3" column="5" />
@@ -293,35 +298,35 @@
       <jump line="1411" column="5" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q29tbWFuZFNsb3RUeXBlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tbWFuZFNsb3RUeXBlIA==</text>
+        <text>reward_group</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X2Rlc2NyaXB0aW9uIn0sIG51bGw6IHRydWUsCgkJCQlydWxlczogbWFwW3N0cmluZ10qcmVsYXRpb25SdWxlewoJCQkJCWRlZmF1bHRSdWxlOiB7dGFibGU6ICJ0ZXh0X2pwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAoJCQkJfSwKCQkJfSwK</text>
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJyZXdhcmRfZ3JvdXBfaWQifSwgbnVsbDogdHJ1ZSwKCQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7CgkJCQkJZGVmYXVsdFJ1bGU6IHt0YWJsZTogInJld2FyZF9ncm91cCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwKCQkJCX0sCgkJCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdlYXBvblNraWxsID0gMjsgLy8vIOatpuWZqOOCueOCreODqwo=</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEpvYlNraWxsID0gMTsgLy8vIOOCuOODp+ODluOCueOCreODqwo=</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAidGV4dF9qcCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCQkJCQkJCQkJIgo=</text>
+        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X2Rlc2NyaXB0aW9uIn0sIG51bGw6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9LAo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJfSwK</text>
