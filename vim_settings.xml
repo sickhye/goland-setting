@@ -84,7 +84,7 @@
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558319228427">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558599020304">
         <mark key="[" line="443" column="29" />
         <mark key="]" line="443" column="29" />
         <mark key="^" line="437" column="23" />
@@ -169,10 +169,6 @@
         <mark key="]" line="51" column="29" />
         <mark key="." line="51" column="29" />
         <mark key="^" line="51" column="28" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/block_controller.go" timestamp="1558510009215">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/master.ts" timestamp="1558597250130" />
       <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1558331753779">
@@ -345,7 +341,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgYWxsID0gbmV3IHBtYXN0ZXIuQWxsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>588</text>
       </register>
     </registers>
     <search>
@@ -381,7 +377,6 @@
         <entry>navigation</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/rume/rune/g</entry>
         <entry>%s/func (/func( controller *</entry>
         <entry>%s/player/job/g</entry>
         <entry>%s/Player/Job/g</entry>
@@ -401,6 +396,7 @@
         <entry>23s/&quot;/\&quot;/g</entry>
         <entry>23s/&quot;/\\&quot;/g</entry>
         <entry>w</entry>
+        <entry>588</entry>
       </history-cmd>
       <history-expr />
       <history-input />
