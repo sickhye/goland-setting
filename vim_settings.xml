@@ -130,12 +130,12 @@
         <mark key="." line="159" column="77" />
         <mark key="^" line="159" column="76" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558511953584">
-        <mark key="'" line="530" column="4" />
-        <mark key="[" line="1244" column="19" />
-        <mark key="]" line="1244" column="19" />
-        <mark key="." line="1244" column="19" />
-        <mark key="^" line="1244" column="6" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558579904470">
+        <mark key="'" line="532" column="4" />
+        <mark key="[" line="755" column="8" />
+        <mark key="]" line="755" column="32" />
+        <mark key="^" line="755" column="32" />
+        <mark key="." line="755" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558510999349">
         <mark key="[" line="11" column="16" />
@@ -293,11 +293,11 @@
       <jump line="1411" column="5" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CX0sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q29tbWFuZFNsb3RUeXBlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">Q29tbWFuZFNsb3RUeXBlIA==</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>
@@ -306,34 +306,34 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X2Rlc2NyaXB0aW9uIn0sIG51bGw6IHRydWUsCgkJCQlydWxlczogbWFwW3N0cmluZ10qcmVsYXRpb25SdWxlewoJCQkJCWRlZmF1bHRSdWxlOiB7dGFibGU6ICJ0ZXh0X2pwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAoJCQkJfSwKCQkJfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">ICAgIFdlYXBvblNraWxsID0gMjsgLy8vIOatpuWZqOOCueOCreODqwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9LAo=</text>
+        <text encoding="base64">ICAgIEpvYlNraWxsID0gMTsgLy8vIOOCuOODp+ODluOCueOCreODqwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+        <text encoding="base64">ICAgICIgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCQkJCQkJCQkJIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAidGV4dF9qcCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+        <text encoding="base64">CQl9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJ0ZXh0X25hbWUifSwgbnVsbDogdHJ1ZSwK</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbmZvczogW10qcmVsYXRpb25JbmZvewo=</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0YWJsZTogIm5hdmlnYXRpb25fb2JqZWN0IiwK</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAidGV4dF9qcCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
       </register>
       <register name=":" type="4">
-        <text>23s/&quot;/\\&quot;/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -384,11 +384,11 @@
         <entry>101</entry>
         <entry>531,537s/特効/耐性/g</entry>
         <entry>531,537s/Atk/Resist/g</entry>
-        <entry>w</entry>
         <entry>23s,&quot;,\&quot;/g</entry>
         <entry>23s/&quot;,\&quot;/g</entry>
         <entry>23s/&quot;/\&quot;/g</entry>
         <entry>23s/&quot;/\\&quot;/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
