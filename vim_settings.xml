@@ -97,12 +97,12 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/rune.spec.ts" timestamp="1558608333800">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/rune.spec.ts" timestamp="1558610286351">
         <mark key="'" line="25" column="32" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="37" column="64" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1557226154749">
         <mark key="'" line="104" column="28" />
@@ -333,7 +333,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL2pzb24nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -345,31 +345,31 @@
         <text encoding="base64">aW1wb3J0IHsgTm9jb250ZW50IH0gZnJvbSAnLi9wcm90by9hbGxfcGInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL2pzb24nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeGhyID0gbmV3IFhNTEh0dHBSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeGhyPSByZXF1aXJlKCJ4bWxodHRwcmVxdWVzdCIpLlhNTEh0dHBSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4aHIub3AK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeGhyID0gbmV3IFhNTEh0dHBSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB4aHIuc2V0UmVxdWVzdEhlYWRlcignQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL2pzb24nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4aHIuCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeGhyID0gbmV3IFhNTEh0dHBSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>%your_service_url%</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgeGhyPSByZXF1aXJlKCJ4bWxodHRwcmVxdWVzdCIpLlhNTEh0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>588</text>
