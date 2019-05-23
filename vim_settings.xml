@@ -92,12 +92,12 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/rune.spec.ts" timestamp="1558613571554">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/rune.spec.ts" timestamp="1558614521151">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="21" />
-        <mark key="^" line="28" column="23" />
-        <mark key="." line="36" column="21" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1557226154749">
         <mark key="'" line="104" column="28" />
@@ -328,11 +328,11 @@
       <jump line="1565" column="66" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>buf</text>
       </register>
       <register name="/" type="4">
         <text>sample</text>
@@ -341,28 +341,28 @@
         <text encoding="base64">CQlsb2cuUHJpbnRmKCIldiIsIHRlc3QuQ29kZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYnVmOiBBcnJheUJ1ZmZlciA9IGJ5dGVzLmJ1ZmZlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYnVmID0gQnVmZmVyLmZyb20oYnl0ZXMuYnVmZmVyKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYnVmOiBBcnJheUJ1ZmZlciA9IGJ5dGVzLmJ1ZmZlcjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgYnVmMiA9IEJ1ZmZlci5hbGxvYygxMjgsIDB4ODApOwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>(ArrayBuffer)bytes.buffer</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>Buffer.alloc(128, 0x80);</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>bytes.buffer</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYmIgPSBuZXcgQXJyYXlCdWZmZXIobGJ5KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1ZmZlcih0cnVlKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNlbmQK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYmIgPSBuZXcgQXJyYXlCdWZmZXIobGJ5KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmJ1ZmZlcih0cnVlKQo=</text>
