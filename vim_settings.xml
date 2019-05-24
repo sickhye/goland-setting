@@ -51,6 +51,12 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/package.json" timestamp="1558669005031">
+        <mark key="[" line="5" column="132" />
+        <mark key="]" line="5" column="137" />
+        <mark key="." line="5" column="137" />
+        <mark key="^" line="5" column="137" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1558331963606">
         <mark key="'" line="1147" column="32" />
         <mark key="[" line="1182" column="84" />
@@ -256,16 +262,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>備</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>備</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sample</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgaXRlbU1zdC5UeXBlICE9IHVpbnQzMihQcm90by5JdGVtQ2F0ZWdvcnlfRXF1aXBtZW50TGltaXRCcmVha01hdGVyaWFsKSB7CgkJCXJldHVybiBhcHAuRXJyKGFwcC5Qcm9jZXNzRXJyb3IsIGZtdC5FcnJvcmYoIml0ZW0gdHlwZSBpbnZhbGlkIG5vdCBleGlzdHMgaWQ6JWQgdHlwZTolZCIsIGl0ZW1JRCwgaXRlbU1zdC5UeXBlKSkKCQl9Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm1vY2hhIC0tdGltZW91dCAxMDAwMDAgLXIgdHMtbm9kZS9yZWdpc3RlciBzcmMvKiovYWNjb3VudC5zcGVjLnRzIgo=</text>
       </register>
       <register name="1" type="8">
         <text>uint32(Proto.ItemCategory_EquipmentLimitBreakMaterial) {</text>
