@@ -51,11 +51,11 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/package.json" timestamp="1558669005031">
-        <mark key="[" line="5" column="132" />
-        <mark key="]" line="5" column="137" />
-        <mark key="." line="5" column="137" />
-        <mark key="^" line="5" column="137" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/package.json" timestamp="1558670364434">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1558331963606">
         <mark key="'" line="1147" column="32" />
