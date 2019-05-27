@@ -26,10 +26,6 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558924505050">
         <mark key="'" line="80" column="40" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="57" column="42" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1558319277985">
         <mark key="'" line="194" column="38" />
@@ -170,10 +166,6 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1558925555490">
         <mark key="'" line="53" column="4" />
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="370" column="19" />
-        <mark key="." line="370" column="19" />
-        <mark key="^" line="370" column="19" />
       </file>
     </filemarks>
     <jumps>
