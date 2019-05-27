@@ -41,6 +41,12 @@
         <mark key="." line="59" column="19" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/response/api.go" timestamp="1558936513568" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1558953861373">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558510999349">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
@@ -74,7 +80,7 @@
         <mark key="." line="159" column="47" />
         <mark key="^" line="159" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558599020304">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
         <mark key="]" line="443" column="29" />
         <mark key="^" line="437" column="23" />
@@ -238,11 +244,11 @@
       <jump line="302" column="24" filename="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>player.PlayerID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Sm9iSW50ZXJhY3RvciA=</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
@@ -250,32 +256,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0TGVhZGVySWQocGxheWVyLlBsYXllcklEKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>player.PlayerID</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>repository.IMasterJobSkillLvRepository</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJCQkpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCWxvZy5QcmludGxuKHZhbC5XZWFwb25Ta2lsbExldmVsKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCXZhbC5FcXVpcG1lbnRJRAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJaWYgb2sgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCXJldHVybiBhcHAuRXJyKGFwcC5Qcm9jZXNzRXJyb3IsIGZtdC5FcnJvcmYoImVxdWlwbWVudCBpcyBub3QgZXhpc3RzIikpCg==</text>
+        <text encoding="base64">CQkJCQkJaWYgb2sgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
