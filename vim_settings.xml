@@ -6,89 +6,29 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1558919113880" />
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1558661106802">
-        <mark key="[" line="76" column="19" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="20" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/ranking/redis.go" timestamp="1558340723689">
-        <mark key="[" line="128" column="27" />
-        <mark key="]" line="128" column="27" />
-        <mark key="." line="128" column="27" />
-        <mark key="^" line="112" column="75" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_limit_break.go" timestamp="1558661585218">
-        <mark key="[" line="61" column="106" />
-        <mark key="]" line="61" column="12" />
-        <mark key="." line="61" column="12" />
-        <mark key="^" line="61" column="12" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558924505050">
-        <mark key="'" line="80" column="40" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1558319277985">
-        <mark key="'" line="194" column="38" />
-        <mark key="[" line="274" column="29" />
-        <mark key="]" line="274" column="45" />
-        <mark key="^" line="274" column="45" />
-        <mark key="." line="274" column="45" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558940431682">
+        <mark key="'" line="119" column="40" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/.drone.yml" timestamp="1558920662605">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="16" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558599020304">
-        <mark key="[" line="443" column="29" />
-        <mark key="]" line="443" column="29" />
-        <mark key="^" line="437" column="23" />
-        <mark key="." line="443" column="29" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/rune.spec.ts" timestamp="1558614521151">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1558331746825">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="211" column="21" />
-        <mark key="." line="217" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1558925353144" />
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1558613064006">
-        <mark key="'" line="1565" column="66" />
-        <mark key="[" line="1570" column="69" />
-        <mark key="]" line="1570" column="72" />
-        <mark key="." line="1570" column="72" />
-        <mark key="^" line="1570" column="72" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/battle.go" timestamp="1558511064815">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1558938214158" />
       <file name="$USER_HOME$/go/src/virgo-server/app/aes.go" timestamp="1558934255827" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558332029928">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558938503058">
         <mark key="[" line="244" column="95" />
         <mark key="]" line="244" column="95" />
         <mark key="^" line="244" column="95" />
         <mark key="." line="244" column="95" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/field.spec.ts" timestamp="1558924840076" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1558939742565" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.go" timestamp="1558934458800" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1558661748226">
-        <mark key="'" line="604" column="24" />
-        <mark key="[" line="291" column="32" />
-        <mark key="]" line="291" column="35" />
-        <mark key="." line="291" column="35" />
-        <mark key="^" line="291" column="35" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/master_controller.go" timestamp="1558923635073" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/base64.ts" timestamp="1558928389036">
         <mark key="[" line="59" column="16" />
@@ -105,83 +45,37 @@
         <mark key="." line="5" column="77" />
         <mark key="^" line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_skill_usecase.go" timestamp="1558333972396">
-        <mark key="[" line="218" column="67" />
-        <mark key="]" line="218" column="67" />
-        <mark key="." line="218" column="67" />
-        <mark key="^" line="218" column="67" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/response/api.go" timestamp="1558936513568" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1558331963606">
-        <mark key="'" line="1147" column="32" />
-        <mark key="[" line="1182" column="84" />
-        <mark key="]" line="1182" column="93" />
-        <mark key="^" line="1182" column="93" />
-        <mark key="." line="1182" column="93" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/middleware/photon_auth.go" timestamp="1558936475045">
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="63" column="26" />
-        <mark key="^" line="63" column="33" />
-        <mark key="." line="63" column="26" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" timestamp="1558594595076">
-        <mark key="[" line="159" column="77" />
-        <mark key="]" line="159" column="77" />
-        <mark key="." line="159" column="77" />
-        <mark key="^" line="159" column="76" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558579904470">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1558939537165">
         <mark key="'" line="532" column="4" />
-        <mark key="[" line="755" column="8" />
-        <mark key="]" line="755" column="32" />
-        <mark key="^" line="755" column="32" />
-        <mark key="." line="755" column="32" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" timestamp="1558510999349">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="64" column="9" />
-        <mark key="." line="11" column="16" />
+        <mark key="[" line="1322" column="52" />
+        <mark key="]" line="1322" column="52" />
+        <mark key="^" line="1326" column="22" />
+        <mark key="." line="1322" column="52" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/block_controller.go" timestamp="1558924465914">
         <mark key="'" line="188" column="0" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1558936229518">
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="44" column="28" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_command.spec.ts" timestamp="1558596444856">
-        <mark key="'" line="141" column="8" />
-        <mark key="[" line="153" column="106" />
-        <mark key="]" line="153" column="106" />
-        <mark key="." line="153" column="106" />
-        <mark key="^" line="143" column="19" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1558331753779">
-        <mark key="'" line="19" column="92" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="29" column="50" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/equipment_input.go" timestamp="1558661117994">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="21" />
-        <mark key="." line="57" column="21" />
-        <mark key="^" line="57" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1558938748155">
+        <mark key="'" line="60" column="57" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1558925555490">
         <mark key="'" line="53" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_helper.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" />
       <jump line="17" column="7" filename="$USER_HOME$/go/src/virgo-server/usecases/rune_usecase.go" />
       <jump line="218" column="15" filename="$USER_HOME$/go/src/virgo-server/usecases/input/equipment_input.go" />
       <jump line="261" column="8" filename="$USER_HOME$/go/src/virgo-server/usecases/input/equipment_input.go" />
@@ -280,46 +174,48 @@
       <jump line="1565" column="66" filename="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" />
       <jump line="53" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/block_controller.go" />
       <jump line="188" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/block_controller.go" />
+      <jump line="40" column="38" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
+      <jump line="61" column="57" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>ElixirInteractor</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ElixirInteractor</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm93ID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7Cg==</text>
+        <text encoding="base64">CWV4bGl4aXJJdGVyYWN0b3IgdXNlY2FzZXMuSUVsaXhpckludGVyYWN0b3IsCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>CryptoJS.enc.(</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXRpdGxlSXRlcmFjdG9yIHVzZWNhc2VzLklUaSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">CWpvYkNvbW1hbmRJbnRlcmFjdG9yIHVzZWNhc2VzLklKb2JDb21tYW5kSW50ZXJhY3RvciwK</text>
       </register>
-      <register name="3" type="8">
-        <text>url + &quot;,&quot; + now</text>
+      <register name="3" type="2">
+        <text encoding="base64">CWpvYkludGVyYWN0b3IgdXNlY2FzZXMuSUpvYkludGVyYWN0b3IsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWpvYiB1c2VjYXNlcy5JSm9iSW50ZXJhY3RvciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm93ID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7Cg==</text>
+        <text encoding="base64">CQkJbGVhZGVySm9iLCBlcnIgOj0gY29udAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYmF0dGxlUGxheWVyIDo9IGZ1bmMocGxheWVySUQgdWludDY0KSAoKlByb3RvLkJhdHRsZVBsYXllcixlcnJvcikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">CQkJa2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
