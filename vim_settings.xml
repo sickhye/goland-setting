@@ -94,6 +94,12 @@
         <mark key="^" line="291" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/master_controller.go" timestamp="1558923635073" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/base64.ts" timestamp="1558928389036">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="19" />
+        <mark key="^" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/package.json" timestamp="1558920360407">
         <mark key="[" line="5" column="77" />
         <mark key="]" line="5" column="77" />
@@ -114,6 +120,7 @@
         <mark key="^" line="1182" column="93" />
         <mark key="." line="1182" column="93" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/middleware/photon_auth.go" timestamp="1558928825587" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_skill.spec.ts" timestamp="1558594595076">
         <mark key="[" line="159" column="77" />
         <mark key="]" line="159" column="77" />
@@ -138,11 +145,11 @@
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1558925686802">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1558928841865">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job_command.spec.ts" timestamp="1558596444856">
         <mark key="'" line="141" column="8" />
@@ -272,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhieXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
@@ -284,31 +291,31 @@
         <text encoding="base64">CWd1aWxkQ29udHJvbGxlciBjb250cm9sbGVycy5JR3VpbGRDb250cm9sbGVyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhieXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="2" type="8">
-        <text>'/photon/battle/enter'</text>
+        <text>Buffer.from('Hello World!').toString('base64')</text>
       </register>
-      <register name="3" type="8">
-        <text>request.serializeBinary()</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYnl0ZXMgPSBzYW1wbGUuc2VyaWFsaXplQmluYXJ5KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhZ2VfbGlzdCA9IG1hc3Rlci5BbGwuZ2V0U3RhZ2VMaXN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhZ2UgPSBzdGFnZV9saXN0LmZpbmQoeD0+eC4pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGUuc2V0Q29kZSgzNTApOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KS5qb2luKCcnKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFsbCBmcm9tICIuL3Byb3RvL2FsbF9wYiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICclJyArICgnMDAnICsgYy5jaGFyQ29kZUF0KDApLnRvU3RyaW5nKDE2KSkuc2xpY2UoLTIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
