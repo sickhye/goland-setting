@@ -55,12 +55,12 @@
         <mark key="]" line="369" column="46" />
         <mark key="." line="369" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559038715619">
-        <mark key="'" line="252" column="40" />
-        <mark key="[" line="189" column="39" />
-        <mark key="]" line="189" column="39" />
-        <mark key="^" line="125" column="16" />
-        <mark key="." line="189" column="39" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559041532421">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="286" column="80" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
@@ -68,6 +68,7 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/avatar_controller.go" timestamp="1559041308719" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558938503058">
         <mark key="[" line="244" column="95" />
         <mark key="]" line="244" column="95" />
@@ -109,11 +110,15 @@
         <mark key="[" line="45" column="0" />
         <mark key="^" line="45" column="46" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1559041122851">
+        <mark key="[" line="307" column="45" />
+        <mark key="]" line="307" column="48" />
+        <mark key="." line="307" column="48" />
+        <mark key="^" line="307" column="48" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1558942664008" />
     </filemarks>
     <jumps>
-      <jump line="591" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" />
-      <jump line="49" column="71" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" />
       <jump line="116" column="39" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" />
       <jump line="23" column="0" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
@@ -212,46 +217,48 @@
       <jump line="53" column="8" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
       <jump line="302" column="24" filename="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" />
       <jump line="11" column="0" filename="$USER_HOME$/go/src/virgo-server/models/user/equipment.go" />
+      <jump line="26" column="4" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
+      <jump line="275" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IC8vIFRPRE8g5LiA5pemZWxpeGly44Gg44GR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlsb2cuUHJpbnRsbihyZXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Retire</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJcGFzc2l2ZVNraWxsW3NraWxsSURdICs9IDEK</text>
+        <text encoding="base64">LyoqCiAqIEBhcGkge3Bvc3R9IC9waG90b24vYmF0dGxlL3JldGlyZSDjg5Djg4jjg6vpgIDloLQKICogQGFwaVZlcnNpb24gMS4wLjAKICogQGFwaVVzZSBQaG90b25BdXRoCiAqIEBhcGlOYW1lIEJhdHRsZVJldGlyZQogKiBAYXBpR3JvdXAgQmF0dGxlCiAqIEBhcGlQYXJhbSB7cHJvdG99IFJlcXVlc3QgPGEgaHJlZj0iL3N0YXRpYy9wcm90by5odG1sI1Byb3RvLlJlcXVlc3RCYXR0bGVSZXRpcmUiPlByb3RvLlJlcXVlc3RCYXR0bGVSZXRpcmU8L2E+CiAqIEBhcGlTdWNjZXNzIHtwcm90b30gUmVzcG9uc2UgPGEgaHJlZj0iL3N0YXRpYy9wcm90by5odG1sI1Byb3RvLlJlc3BvbnNlQmF0dGxlUmV0aXJlIj5Qcm90by5SZXNwb25zZUJhdHRsZVJldGlyZTwvYT4KICovCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IC8vIFRPRE8g5LiA5pemZWxpeGly44Gg44GR</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlsb2cuUHJpbnRsbihyZXQpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>アイテムID</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>DebugAvatarAdd</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>/add デバッグ｜アバター追加</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW1hc3RlcldlYXBvblNraWxsTHZFbmhhbmNlIHJlcG9zaXRvcnkuSU1hc3RlcldlYXBvblNraWxsTHZFbmhhbmNlUmVwb3NpdG9yeSwK</text>
+        <text encoding="base64">CXBob3RvbkJhdHRsZS5IYW5kbGUoIi9xdWl0IiwgYmF0dGxlQ29udHJvbGxlci5RdWl0KCkpLk1ldGhvZHMoaHR0cC5NZXRob2RQb3N0KQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>user.NewEquipmentList(equipment).PassiveSkillMap()</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXBob3RvbkJhdHRsZS5IYW5kbGUoIi9jbGVhciIsIGJhdHRsZUNvbnRyb2xsZXIuRW50ZXIoKSkuTWV0aG9kcyhodHRwLk1ldGhvZFBvc3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhZGRQYXNzaXZlU2tpbGwodXNlci5OZXdFcXVpcG1lbnRMaXN0KGVxdWlwbWVudCkuUGFzc2l2ZVNraWxsTWFwKCkpCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIOOCueODhuODvOOCuOODgeOCp+ODg+OCr+OAgQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWFkZFBhc3NpdmVTa2lsbChlLlBhc3NpdmVTa2lsbE1hcCgpKQo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IC8vIFRPRE8g5LiA5pemZWxpeGly44Gg44GR</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
