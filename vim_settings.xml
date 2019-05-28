@@ -76,11 +76,12 @@
         <mark key="." line="76" column="20" />
         <mark key="^" line="76" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559011239912">
-        <mark key="'" line="234" column="40" />
-        <mark key="]" line="147" column="21" />
-        <mark key="^" line="147" column="21" />
-        <mark key="." line="147" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559013939742">
+        <mark key="'" line="239" column="40" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="21" />
+        <mark key="^" line="152" column="21" />
+        <mark key="." line="152" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
@@ -138,8 +139,16 @@
         <mark key="^" line="1326" column="22" />
         <mark key="." line="1322" column="52" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" timestamp="1559011183521">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" timestamp="1559013556144">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="49" />
         <mark key="^" line="45" column="46" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/item_usecase.go" timestamp="1559013897333">
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="374" column="40" />
+        <mark key="." line="374" column="40" />
+        <mark key="^" line="374" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1558942664008" />
     </filemarks>
@@ -246,44 +255,44 @@
       <jump line="302" column="24" filename="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ZnVuYyAoaW50ZXJhY3RvciAqZWxpeGlySW50ZXJhY3Rvcikg</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlhZGRTa2lsbChtc3QuTWF4THYsIG1zdC5QYXNzaXZlU2tpbGxJRDEsIG1zdC5QYXNzaXZlU2tpbGxJRDIsIG1zdC5QYXNzaXZlU2tpbGxJRDMsIG1zdC5QYXNzaXZlU2tpbGxJRDQpCg==</text>
+        <text encoding="base64">CQkJCWRici5FcSgicGxheWVyX2lkIiwgcGxheWVySUQpLAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ZnVuYyAoaW50ZXJhY3RvciAqZWxpeGlySW50ZXJhY3Rvcikg</text>
+      <register name="1" type="2">
+        <text encoding="base64">CVBhc3NpdmVTa2lsbE1hcCgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGFzc2l2ZVNraWxsTWFwKAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ZnVuYyAoaW50ZXJhY3RvciAqZWxpeGlySW50ZXJhY3Rvcikg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IHx8IHNraWxs</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBsdiAK</text>
+        <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJaWYK</text>
+      <register name="7" type="8">
+        <text encoding="base64">IHx8IHNraWxs</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlhZGRTa2lsbChtc3QuUGFzc2l2ZVNraWxsSUQxLCBtc3QuTWF4THYpCg==</text>
+        <text encoding="base64">CQlpZiBsdiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlhZGRTa2lsbChtc3QuUGFzc2l2ZVNraWxsSUQxLCBtc3QuTWF4THYpCg==</text>
+        <text encoding="base64">CQkJaWYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
