@@ -77,7 +77,7 @@
         <mark key="^" line="76" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1558953043805">
-        <mark key="'" line="44" column="40" />
+        <mark key="'" line="228" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
