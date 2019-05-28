@@ -98,11 +98,10 @@
         <mark key="." line="153" column="106" />
         <mark key="^" line="143" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/user/rune.go" timestamp="1559029064709">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="45" column="16" />
-        <mark key="." line="45" column="16" />
+      <file name="$USER_HOME$/go/src/virgo-server/models/user/rune.go" timestamp="1559031857342">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/equipment_input.go" timestamp="1558661117994">
         <mark key="[" line="57" column="19" />
@@ -309,8 +308,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/go/src/virgo-server/models/user/equipment.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -325,30 +324,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gUGFzc2l2ZVNraWxsTWFwIOODkeODg+OCt+ODluOCueOCreODq+ODnuODg+ODl+OCkui/lOWNtApmdW5jIChsICpSdW5lTGlzdCkgUGFzc2l2ZVNraWxsTWFwKCkgbWFwW3VpbnQzMl11aW50MzIgewoJcmV0IDo9IG1ha2UobWFwW3VpbnQzMl11aW50MzIpCglmb3IgXywgZXEgOj0gcmFuZ2UgbC5lbGVtZW50cyB7CgkJZm9yIGssIHYgOj0gcmFuZ2UgZXEuUGFzc2l2ZVNraWxsTWFwKCkgewoJCQlpZiBfLCBvayA6PSByZXRba107IG9rIHsKCQkJCXJldFtrXSA9IHJldFtrXSArIHYKCQkJfSBlbHNlIHsKCQkJCXJldFtrXSA9IHYKCQkJfQoJCX0KCX0KCXJldHVybiByZXQKfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>Bonus
 Bonus
 Bonus</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlhZGRQYXNzaXZlKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlmb3IgaywgdiA6PSByYW5nZSB1c2VyLk5ld0VxdWlwbWVudExpc3QoZXF1aXBtZW50KS5QYXNzaXZlU2tpbGxNYXAoKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlhCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
