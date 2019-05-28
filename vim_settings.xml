@@ -77,11 +77,7 @@
         <mark key="^" line="76" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559013939742">
-        <mark key="'" line="239" column="40" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="21" />
-        <mark key="^" line="152" column="21" />
-        <mark key="." line="152" column="21" />
+        <mark key="'" line="44" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
@@ -141,14 +137,7 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" timestamp="1559013556144">
         <mark key="[" line="45" column="0" />
-        <mark key="]" line="47" column="49" />
         <mark key="^" line="45" column="46" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/item_usecase.go" timestamp="1559013897333">
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="374" column="40" />
-        <mark key="." line="374" column="40" />
-        <mark key="^" line="374" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_evolution.go" timestamp="1558942664008" />
     </filemarks>
