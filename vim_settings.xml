@@ -114,6 +114,12 @@
         <mark key="^" line="1182" column="93" />
         <mark key="." line="1182" column="93" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1559115811684">
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="69" column="53" />
+        <mark key="^" line="69" column="53" />
+        <mark key="." line="69" column="53" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1558953861373">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -186,6 +192,12 @@
         <mark key="]" line="309" column="9" />
         <mark key="." line="309" column="9" />
         <mark key="^" line="309" column="9" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1559115719705">
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="39" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="61" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -291,11 +303,11 @@
       <jump line="54" column="48" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>not exists</text>
+      <register name="&quot;" type="4">
+        <text>miscBattleMemberRepository</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>miscBattleMemberRepository</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
