@@ -145,12 +145,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559183108167">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559190534493">
         <mark key="'" line="532" column="4" />
-        <mark key="[" line="1388" column="33" />
-        <mark key="]" line="1388" column="40" />
-        <mark key="^" line="1388" column="40" />
-        <mark key="." line="1388" column="40" />
+        <mark key="[" line="1460" column="37" />
+        <mark key="]" line="1460" column="37" />
+        <mark key="." line="1460" column="37" />
+        <mark key="^" line="1460" column="37" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1559092997202">
         <mark key="[" line="91" column="36" />
@@ -307,11 +307,11 @@
       <jump line="54" column="48" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>リワードシーケンスID</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -319,32 +319,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB1aW50MzIgcmV3YXJkX3NlcV9pZCA9IDM7IC8vIOODquODr+ODvOODieOCt+ODvOOCseODs+OCuUlECg==</text>
       </register>
-      <register name="1" type="8">
-        <text>リワードシーケンスID</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDU7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
+      <register name="3" type="8">
+        <text>リワードシーケンスID</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmdldFN0b3JlZERhdGEoKS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vY29udGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">JlBtaXNjLkN1cnJlbmN5ew==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmdldFN0b3JlZERhdGEoKS5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vY29udGVudAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlGcmVlQ29pbjogdWludDMyKGNvaW5zLkZyZWVDb2luQSksCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">JlBtaXNjLkN1cnJlbmN5ew==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlQYXlDb2luOiAgdWludDMyKGNvaW5zLlBhaWRDb2luKSwK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
