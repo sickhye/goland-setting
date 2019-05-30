@@ -67,7 +67,6 @@
       <file name="/JavaScript Console" timestamp="1559108570228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/protobuffers/Proto/all.pb.go" timestamp="1559181202851" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1558661748226">
         <mark key="'" line="604" column="24" />
         <mark key="[" line="291" column="32" />
@@ -186,11 +185,11 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/present_box_controller.go" timestamp="1559101034725">
-        <mark key="[" line="126" column="21" />
-        <mark key="]" line="126" column="21" />
-        <mark key="^" line="126" column="21" />
-        <mark key="." line="126" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/present_box_controller.go" timestamp="1559184527979">
+        <mark key="[" line="131" column="39" />
+        <mark key="]" line="131" column="39" />
+        <mark key="^" line="131" column="39" />
+        <mark key="." line="131" column="39" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1559108207584">
         <mark key="[" line="309" column="4" />
