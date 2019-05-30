@@ -145,11 +145,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559192195800">
-        <mark key="'" line="532" column="4" />
-        <mark key="[" line="1461" column="0" />
-        <mark key="]" line="1461" column="0" />
-        <mark key="." line="1461" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559195476647">
+        <mark key="'" line="533" column="4" />
+        <mark key="[" line="795" column="0" />
+        <mark key="]" line="795" column="0" />
+        <mark key="." line="795" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1559092997202">
         <mark key="[" line="91" column="36" />
@@ -307,7 +307,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDQ7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bW9uc3Rlcl9zbGFpbiA=</text>
@@ -319,31 +319,31 @@
         <text encoding="base64">ICB1aW50MzIgY2xlYXJfdGltZSA9IDM7IC8vLyBiYXR0bGUgY2xlYXIgdGltZShzZWNvbmQpCiAgbWFwPHVpbnQzMix1aW50MzI+IG1vbnN0ZXJfc2xhaW4gPSA0OyAvLy8vIG1vbnN0ZXJfaWQ6dG90YWxfc2xhaW5fY291bnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDQ7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDU7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
+      <register name="2" type="8">
+        <text>コンテンツタイプ</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDQ7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>リワードシーケンスID</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtYXA8dWludDMyLHVpbnQzMj4gbW9uc3Rlcl9zbGFpbiA9IDU7IC8vLy8gbW9uc3Rlcl9pZDp0b3RhbF9zbGFpbl9jb3VudAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
+      <register name="6" type="8">
+        <text>リワードシーケンスID</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmdldFN0b3JlZERhdGEoKS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vY29udGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">JlBtaXNjLkN1cnJlbmN5ew==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmdldFN0b3JlZERhdGEoKS5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
