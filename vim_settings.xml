@@ -38,7 +38,6 @@
         <mark key="^" line="36" column="34" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/avatar_controller.go" timestamp="1559107851645" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" timestamp="1558331746825">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="217" column="0" />
@@ -52,7 +51,6 @@
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1559107662582" />
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1558613064006">
         <mark key="'" line="1565" column="66" />
         <mark key="[" line="1570" column="69" />
@@ -60,7 +58,6 @@
         <mark key="." line="1570" column="72" />
         <mark key="^" line="1570" column="72" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/anima.spec.ts" timestamp="1559116918080" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558938503058">
         <mark key="[" line="244" column="95" />
         <mark key="]" line="244" column="95" />
@@ -70,6 +67,7 @@
       <file name="/JavaScript Console" timestamp="1559108570228">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/protobuffers/Proto/all.pb.go" timestamp="1559181202851" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/equipment_controller.go" timestamp="1558661748226">
         <mark key="'" line="604" column="24" />
         <mark key="[" line="291" column="32" />
