@@ -12,11 +12,11 @@
         <mark key="^" line="367" column="46" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/friend_controller.go" timestamp="1559277645771" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559277882296">
-        <mark key="[" line="437" column="0" />
-        <mark key="]" line="437" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559281346689">
+        <mark key="[" line="296" column="68" />
+        <mark key="]" line="296" column="68" />
         <mark key="^" line="436" column="47" />
-        <mark key="." line="437" column="0" />
+        <mark key="." line="296" column="68" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1559045146506">
         <mark key="[" line="368" column="0" />
@@ -105,11 +105,12 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1559115097534">
-        <mark key="[" line="150" column="68" />
-        <mark key="]" line="150" column="71" />
-        <mark key="." line="150" column="71" />
-        <mark key="^" line="150" column="71" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1559281384122">
+        <mark key="'" line="33" column="118" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="74" column="29" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/cache/memcache_handler.go" timestamp="1559006628805">
         <mark key="[" line="19" column="0" />
@@ -210,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="1" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" />
       <jump line="21" column="4" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" />
       <jump line="38" column="5" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" />
       <jump line="36" column="8" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" />
@@ -310,13 +310,14 @@
       <jump line="155" column="10" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
       <jump line="54" column="48" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" />
       <jump line="277" column="53" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
+      <jump line="33" column="118" filename="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCByZXNwb25zZSA9IGFsbC5CYXR0bGVFbnRlclJlc3BvbnNlLmRlc2VyaWFsaXplQmluYXJ5KHJlcy5ib2R5KTsK</text>
+        <text encoding="base64">CW1lbWJlci5TYWxpbk1vbnN0ZXIgPSAiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>stageID</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -325,31 +326,31 @@
         <text encoding="base64">CQkJCXJlc3BvbnNlLkFQSUVycm9yKHcsIHIsIGFwcC5FcnIoYXBwLkRiRXJyb3IsIGVycikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCByZXNwb25zZSA9IGFsbC5CYXR0bGVFbnRlclJlc3BvbnNlLmRlc2VyaWFsaXplQmluYXJ5KHJlcy5ib2R5KTsK</text>
+        <text encoding="base64">CW1lbWJlci5TYWxpbk1vbnN0ZXIgPSAiIgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmdldEVycm9yKCkpOwo=</text>
+      <register name="2" type="8">
+        <text>roomID string, stageID uint32, summary</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+        <text encoding="base64">CW1lbWJlci5TYWxpbk1vbnN0ZXIgPSAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJlc3BvbnNlLkFQSUVycm9yKHcsIHIsICkK</text>
+        <text encoding="base64">CW1lbWJlci5NYXhEYW1hZ2UgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+        <text encoding="base64">CW1lbWJlci5EaXNjb25uZWN0ZWQgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXJlc3BvbnNlLkFQSUVycm9yKHcsIHIsIGFwcC5FcnIoYXBwLkRiRXJyb3IsIGVycikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCByZXNwb25zZSA9IGFsbC5CYXR0bGVFbnRlclJlc3BvbnNlLmRlc2VyaWFsaXplQmluYXJ5KHJlcy5ib2R5KTsK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">cmVzcG9uc2UuQVBJRXJyb3Iodywgciwg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmdldEVycm9yKCkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KQo=</text>
+        <text encoding="base64">CQkJCXJlc3BvbnNlLkFQSUVycm9yKHcsIHIsICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
