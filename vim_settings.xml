@@ -36,6 +36,13 @@
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1559289419130">
+        <mark key="'" line="1565" column="66" />
+        <mark key="[" line="1722" column="57" />
+        <mark key="]" line="1722" column="61" />
+        <mark key="." line="1722" column="61" />
+        <mark key="^" line="1722" column="61" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558938503058">
         <mark key="[" line="244" column="95" />
         <mark key="]" line="244" column="95" />
@@ -57,6 +64,9 @@
         <mark key="]" line="870" column="57" />
         <mark key="^" line="127" column="44" />
         <mark key="." line="870" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559289594739">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_skill_usecase.go" timestamp="1559045580943">
         <mark key="[" line="251" column="4" />
@@ -275,11 +285,11 @@
       <jump line="33" column="118" filename="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oYSkK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
