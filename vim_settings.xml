@@ -127,11 +127,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559542733211">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559547903168">
         <mark key="'" line="533" column="4" />
-        <mark key="]" line="1502" column="2" />
-        <mark key="^" line="1502" column="2" />
-        <mark key="." line="1502" column="2" />
+        <mark key="]" line="1491" column="78" />
+        <mark key="^" line="1491" column="78" />
+        <mark key="." line="1491" column="78" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/database/misc/dbconf.yml" timestamp="1559288003837">
         <mark key="[" line="14" column="88" />
