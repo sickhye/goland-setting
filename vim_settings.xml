@@ -125,12 +125,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559273801741">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559525099283">
         <mark key="'" line="533" column="4" />
-        <mark key="[" line="1491" column="0" />
-        <mark key="]" line="1491" column="34" />
-        <mark key="." line="1492" column="19" />
-        <mark key="^" line="1492" column="19" />
+        <mark key="[" line="1503" column="16" />
+        <mark key="]" line="1503" column="20" />
+        <mark key="^" line="1503" column="20" />
+        <mark key="." line="1503" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/database/misc/dbconf.yml" timestamp="1559288003837">
         <mark key="[" line="14" column="88" />
@@ -285,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -297,31 +297,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJocCJ9LCBudWxsOiB0cnVlLAoJCQkJcnVsZXM6IG1hcFtzdHJpbmddKnJlbGF0aW9uUnVsZXsKCQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAicGFzc2l2ZV9za2lsbCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwKCQkJCX0sCgkJCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oYSkK</text>
+        <text encoding="base64">ICBSZXdhcmRUeXBlIHJld2FyZF90eXBlID0gMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJYSA6PSByZXEuU3RyaW5nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">cmVwZWF0ZWQgPFJld2FyZEluZm8+</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">IC8vLyBbcGxheWVyX2lkXUJhdHRsZVJlc3VsdA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oYSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJYSA6PSByZXEuU3RyaW5nKCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJcmVxLgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJbnMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXN1bW1hcnkuU3RyaW5nKCkK</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">cmVzdWx0UHJvdG8uc3VjY2VzcyA=</text>
-      </register>
-      <register name="7" type="8">
-        <text>roomID string, success bool, clearTime uint32</text>
-      </register>
-      <register name="8" type="8">
-        <text>.RoomId, req.Result, req.ClearTime, req</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1lbWJlci5TYWxpbk1vbnN0ZXIgPSAiIgo=</text>
+        <text encoding="base64">CQkJbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
