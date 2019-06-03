@@ -36,12 +36,12 @@
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1559540338373">
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1559560680146">
         <mark key="'" line="1625" column="66" />
-        <mark key="[" line="1704" column="76" />
-        <mark key="]" line="1704" column="80" />
-        <mark key="^" line="1704" column="80" />
-        <mark key="." line="1704" column="80" />
+        <mark key="[" line="2090" column="42" />
+        <mark key="]" line="2090" column="54" />
+        <mark key="^" line="2090" column="54" />
+        <mark key="." line="2090" column="54" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1558938503058">
         <mark key="[" line="244" column="95" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>item</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
