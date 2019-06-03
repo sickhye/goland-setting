@@ -29,6 +29,7 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559532480873" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1559117239387">
         <mark key="[" line="573" column="35" />
         <mark key="]" line="573" column="35" />
@@ -86,7 +87,7 @@
         <mark key="." line="109" column="42" />
         <mark key="^" line="109" column="42" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/cache/memcache_handler.go" timestamp="1559006628805">
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/cache/memcache_handler.go" timestamp="1559532800667">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="21" />
@@ -104,6 +105,7 @@
         <mark key="^" line="14" column="90" />
         <mark key="." line="14" column="90" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/models/misc/guild_search_gen.go" timestamp="1559532090694" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1558953861373">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
