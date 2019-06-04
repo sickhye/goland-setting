@@ -133,10 +133,6 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559619648744">
         <mark key="'" line="534" column="4" />
-        <mark key="[" line="1569" column="17" />
-        <mark key="]" line="1569" column="21" />
-        <mark key="^" line="1569" column="21" />
-        <mark key="." line="1569" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/database/misc/dbconf.yml" timestamp="1559288003837">
         <mark key="[" line="14" column="88" />
