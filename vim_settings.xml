@@ -5,18 +5,18 @@
       <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1559617005318" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1559043566861">
         <mark key="[" line="367" column="0" />
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
         <mark key="^" line="367" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/friend_controller.go" timestamp="1559277645771" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559564173111">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="496" column="38" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1559619746042">
+        <mark key="[" line="496" column="0" />
+        <mark key="]" line="496" column="0" />
+        <mark key="^" line="496" column="51" />
+        <mark key="." line="496" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_command_usecase.go" timestamp="1559045146506">
         <mark key="[" line="368" column="0" />
@@ -30,7 +30,6 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559532480873" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1559117239387">
         <mark key="[" line="573" column="35" />
         <mark key="]" line="573" column="35" />
@@ -59,7 +58,6 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/protobuffers/Proto/all.pb.go" timestamp="1559282728953" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/base64.ts" timestamp="1558928389036">
         <mark key="[" line="59" column="16" />
         <mark key="]" line="59" column="19" />
@@ -112,7 +110,6 @@
         <mark key="^" line="14" column="90" />
         <mark key="." line="14" column="90" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/misc/guild_search_gen.go" timestamp="1559532090694" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1558953861373">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -134,12 +131,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559562718157">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1559619648744">
         <mark key="'" line="534" column="4" />
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="40" />
-        <mark key="^" line="54" column="40" />
-        <mark key="." line="54" column="40" />
+        <mark key="[" line="1569" column="17" />
+        <mark key="]" line="1569" column="21" />
+        <mark key="^" line="1569" column="21" />
+        <mark key="." line="1569" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/database/misc/dbconf.yml" timestamp="1559288003837">
         <mark key="[" line="14" column="88" />
@@ -294,7 +291,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJUnVuZTogICAgICAgICBydW5lTWFwLAo=</text>
+        <text encoding="base64">CQkJcmV0LkNsZWFyUmFuayA9IFByb3RvLkJhdHRsZUNsZWFyUmFua19TU1MK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -306,31 +303,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJocCJ9LCBudWxsOiB0cnVlLAoJCQkJcnVsZXM6IG1hcFtzdHJpbmddKnJlbGF0aW9uUnVsZXsKCQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAicGFzc2l2ZV9za2lsbCIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwKCQkJCX0sCgkJCX0sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJcmV0LkNsZWFyUmFuayA9IFByb3RvLkJhdHRsZUNsZWFyUmFua19TU1MK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkJUnVuZTogICAgICAgICBydW5lTWFwLAo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>リワードタイプ</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB1aW50MzIgZXF1aXBtZW50X3Jhcml0eSA9IDQ7IC8vLyDoo4XlgplyYXJpdHkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB1aW50MzIgcXVhbnRpdHkgPSAzOyAvLy8g5aCx6YWsQ291bnQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB1aW50MzIgdGFyZ2V0X2lkID0gMjsgLy8vIOWgsemFrElECg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB1aW50MzIgdGFyZ2V0X3R5cGUgPSAxOyAvLy8g5aCx6YWsVHlwZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzc2FnZSBSZXdhcmRJbmZvIHsK</text>
+        <text encoding="base64">ICB1aW50MzIgdGFyZ2V0X3R5cGUgPSAxOyAvLy8g5aCx6YWsVHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
