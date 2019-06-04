@@ -36,6 +36,12 @@
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1559625584723">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="803" column="22" />
+        <mark key="." line="803" column="22" />
+        <mark key="^" line="803" column="22" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1559560680146">
         <mark key="'" line="1625" column="66" />
         <mark key="[" line="2090" column="42" />
@@ -57,6 +63,12 @@
         <mark key="]" line="18" column="30" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1559625679147">
+        <mark key="[" line="1054" column="50" />
+        <mark key="]" line="1054" column="64" />
+        <mark key="^" line="1054" column="64" />
+        <mark key="." line="1054" column="64" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/util/base64.ts" timestamp="1558928389036">
         <mark key="[" line="59" column="16" />
@@ -286,11 +298,11 @@
       <jump line="33" column="118" filename="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0LkNsZWFyUmFuayA9IFByb3RvLkJhdHRsZUNsZWFyUmFua19TU1MK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
