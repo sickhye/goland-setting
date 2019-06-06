@@ -30,7 +30,7 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559813053930">
+      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
         <mark key="'" line="157" column="35" />
         <mark key="[" line="161" column="18" />
         <mark key="]" line="161" column="24" />
@@ -110,12 +110,12 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1559809885631">
-        <mark key="'" line="34" column="118" />
-        <mark key="[" line="103" column="40" />
-        <mark key="]" line="103" column="40" />
-        <mark key="." line="103" column="40" />
-        <mark key="^" line="103" column="40" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1559814608084">
+        <mark key="'" line="37" column="118" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="118" column="71" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/cache/memcache_handler.go" timestamp="1559532800667">
         <mark key="[" line="19" column="0" />
@@ -311,11 +311,11 @@
       <jump line="157" column="35" filename="$USER_HOME$/go/src/virgo-server/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXRiYXNlNjQgOj0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>tproto</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">CWxvZy5QcmludGxuKGxlbih0cHJvdG8pLCB0cHJvdG8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRiYXNlNjQgOj0gCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>ummary.String()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+      <register name="3" type="8">
+        <text>base64.StdEncoding.EncodeToString(tproto)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRiYXNlNjQgOj0gYmFzZTY0LlN0ZEVuY29kaW5nLkVuY29kZVRvU3RyaW5nKHRwcm90bykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>file_data</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>test.String()</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>test.String()</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlYWFhfc2l6ZWNhY2hlOiAgICAgICAgMCwK</text>
+        <text encoding="base64">CXRiYXNlNjQgOj0gYmFzZTY0LlN0ZEVuY29kaW5nLkVuY29kZVRvU3RyaW5nKHRwcm90bykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
