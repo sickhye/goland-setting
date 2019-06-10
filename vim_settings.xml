@@ -29,7 +29,7 @@
         <mark key="^" line="318" column="89" />
         <mark key="." line="368" column="0" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance_interface.go" timestamp="1560165212087" />
+      <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance_interface.go" timestamp="1560166110963" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1558953823956">
         <mark key="[" line="443" column="29" />
         <mark key="]" line="443" column="29" />
