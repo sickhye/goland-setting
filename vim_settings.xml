@@ -104,11 +104,11 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/daily_mission.spec.ts" timestamp="1560239190333">
-        <mark key="[" line="195" column="27" />
-        <mark key="]" line="195" column="27" />
-        <mark key="." line="195" column="27" />
-        <mark key="^" line="195" column="27" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/daily_mission.spec.ts" timestamp="1560240255854">
+        <mark key="[" line="299" column="45" />
+        <mark key="]" line="300" column="29" />
+        <mark key="." line="300" column="29" />
+        <mark key="^" line="300" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
         <mark key="'" line="157" column="35" />
