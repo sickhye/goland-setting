@@ -36,11 +36,6 @@
         <mark key="^" line="437" column="23" />
         <mark key="." line="443" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/daily_mission.spec.ts" timestamp="1560216753527">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
         <mark key="'" line="157" column="35" />
         <mark key="[" line="161" column="18" />
@@ -124,11 +119,11 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/faketime/faketime.go" timestamp="1560216609373">
-        <mark key="[" line="74" column="16" />
-        <mark key="]" line="74" column="31" />
-        <mark key="^" line="74" column="31" />
-        <mark key="." line="74" column="31" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/faketime/faketime.go" timestamp="1560221135601">
+        <mark key="[" line="153" column="29" />
+        <mark key="]" line="153" column="35" />
+        <mark key="^" line="153" column="35" />
+        <mark key="." line="153" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1560158076598">
         <mark key="[" line="119" column="0" />
@@ -328,10 +323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
