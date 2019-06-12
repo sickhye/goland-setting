@@ -12,12 +12,12 @@
         <mark key="." line="519" column="17" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance_interface.go" timestamp="1560166110963" />
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560242751023">
-        <mark key="'" line="1651" column="66" />
-        <mark key="[" line="1539" column="42" />
-        <mark key="]" line="1539" column="48" />
-        <mark key="." line="1539" column="48" />
-        <mark key="^" line="1539" column="48" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560325341854">
+        <mark key="'" line="1666" column="66" />
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="80" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/reward_usecase.go" timestamp="1560163514053">
         <mark key="[" line="65" column="4" />
@@ -184,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>episode</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>episode</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -196,31 +196,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJjaGFyYWN0ZXJfcmVzb3VyY2VfaWRfMSJ9LCBudWxsOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJiYWNrZ3JvdW5kX3Jlc291cmNlX2lkIn0sIG51bGw6IGZhbHNlLAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJfSwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQkJCX0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAidW5sb2NrX2NvbmRpdGlvbiIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiZXF1aXBtZW50IiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJkZWZhdWx0X2VxdWlwbWVudF9pZCJ9LCBudWxsOiBmYWxzZSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJyZWxlYXNlX2NvbmRpdGlvbl90eXBlIn0sIG51bGw6IHRydWUsCg==</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZQo=</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuUHJpbnRsbigiMCByb3dzIGFmZmVjdGVkIiwgcmVjb3JkLkRiU2NoZW1hKCkuVGFibGUsIHNldE1hcCwgYnVpbGRlcikK</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiam9iX2x2X2dyb3VwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICBsb2cuUHJpbnRsbihyZWNvcmQuRGJTY2hlbWEoKS5UYWJsZSksc2V0TWFwLGJ1aWxkZXIpCg==</text>
+        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
