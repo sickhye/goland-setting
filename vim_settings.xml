@@ -2,10 +2,15 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="I" line="180" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
+      <mark key="I" line="191" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1560327836379" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1560328760004">
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="25" />
+        <mark key="^" line="126" column="25" />
+        <mark key="." line="126" column="25" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1560164566457">
         <mark key="[" line="519" column="17" />
         <mark key="]" line="519" column="17" />
@@ -196,11 +201,11 @@
       <jump line="157" column="35" filename="$USER_HOME$/go/src/virgo-server/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -209,31 +214,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJjaGFyYWN0ZXJfcmVzb3VyY2VfaWRfMSJ9LCBudWxsOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiZXF1aXBtZW50IiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJkZWZhdWx0X2VxdWlwbWVudF9pZCJ9LCBudWxsOiBmYWxzZSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJfSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCX0sCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiZXF1aXBtZW50IiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJkZWZhdWx0X2VxdWlwbWVudF9pZCJ9LCBudWxsOiBmYWxzZSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJfSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiam9iX2x2X2dyb3VwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiam9iX2x2X2dyb3VwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
