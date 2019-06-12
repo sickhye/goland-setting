@@ -28,6 +28,12 @@
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1560326615695">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
+        <mark key="^" line="367" column="46" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1560307029662">
         <mark key="[" line="224" column="58" />
         <mark key="]" line="538" column="0" />
@@ -45,6 +51,12 @@
         <mark key="]" line="161" column="24" />
         <mark key="." line="161" column="24" />
         <mark key="^" line="161" column="24" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1560326973176">
+        <mark key="[" line="573" column="35" />
+        <mark key="]" line="573" column="35" />
+        <mark key="." line="573" column="35" />
+        <mark key="^" line="573" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1560227416517">
         <mark key="[" line="816" column="8" />
