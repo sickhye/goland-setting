@@ -17,8 +17,8 @@
         <mark key="^" line="138" column="22" />
         <mark key="." line="519" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1560326615695">
-        <mark key="[" line="367" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1560405583484">
+        <mark key="[" line="378" column="17" />
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
         <mark key="^" line="367" column="46" />
