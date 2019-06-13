@@ -17,40 +17,30 @@
         <mark key="^" line="138" column="22" />
         <mark key="." line="519" column="17" />
       </file>
-      <file name="$USER_HOME$/virgo-master-xlsx/convert_to_tsv/main.go" timestamp="1560331612158" />
-      <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.0-rc.21/balance_interface.go" timestamp="1560166110963" />
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560325341854">
-        <mark key="'" line="1666" column="66" />
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="22" column="80" />
-        <mark key="^" line="22" column="80" />
-        <mark key="." line="22" column="80" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/reward_usecase.go" timestamp="1560163514053">
-        <mark key="[" line="65" column="4" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1560217387078">
-        <mark key="'" line="54" column="48" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1560326615695">
         <mark key="[" line="367" column="0" />
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
         <mark key="^" line="367" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1560307029662">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1560398155457">
         <mark key="[" line="224" column="58" />
         <mark key="]" line="538" column="0" />
         <mark key="." line="538" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1560158076598">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/gateways/gateways.go" timestamp="1560229060205">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560320901160">
+        <mark key="'" line="538" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
         <mark key="'" line="157" column="35" />
@@ -65,25 +55,11 @@
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1560227416517">
-        <mark key="[" line="816" column="8" />
-        <mark key="]" line="817" column="21" />
-        <mark key="^" line="817" column="21" />
-        <mark key="." line="817" column="21" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1560158087356">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1560158076598">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560320901160">
-        <mark key="'" line="538" column="4" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1560217387078">
+        <mark key="'" line="54" column="48" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/generate/struct/tpl/user_repository_implement.tpl" timestamp="1560228588276">
         <mark key="[" line="147" column="22" />
@@ -91,7 +67,28 @@
         <mark key="." line="147" column="22" />
         <mark key="^" line="147" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/avatar.spec.ts" timestamp="1560157342057" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1560227416517">
+        <mark key="[" line="816" column="8" />
+        <mark key="]" line="817" column="21" />
+        <mark key="^" line="817" column="21" />
+        <mark key="." line="817" column="21" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560325341854">
+        <mark key="'" line="1666" column="66" />
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="80" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1560158087356">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/reward_usecase.go" timestamp="1560163514053">
+        <mark key="[" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/generate/struct/tpl/misc_repository_implement.tpl" timestamp="1560228584501">
         <mark key="[" line="121" column="22" />
         <mark key="]" line="121" column="22" />
