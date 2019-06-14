@@ -31,13 +31,6 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1560492406746" />
       <file name="$USER_HOME$/go/src/virgo-server/service/inventory.go" timestamp="1560413271942" />
-      <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
-        <mark key="'" line="157" column="35" />
-        <mark key="[" line="161" column="18" />
-        <mark key="]" line="161" column="24" />
-        <mark key="." line="161" column="24" />
-        <mark key="^" line="161" column="24" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1560326973176">
         <mark key="[" line="573" column="35" />
         <mark key="]" line="573" column="35" />
@@ -50,12 +43,12 @@
         <mark key="^" line="817" column="21" />
         <mark key="." line="817" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560425218377">
-        <mark key="'" line="1671" column="66" />
-        <mark key="[" line="738" column="0" />
-        <mark key="]" line="738" column="0" />
-        <mark key="^" line="70" column="41" />
-        <mark key="." line="738" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560497949465">
+        <mark key="'" line="1676" column="66" />
+        <mark key="[" line="528" column="49" />
+        <mark key="]" line="528" column="49" />
+        <mark key="^" line="528" column="51" />
+        <mark key="." line="528" column="49" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1560425228185">
         <mark key="[" line="91" column="0" />
@@ -248,11 +241,11 @@
       <jump line="49" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/guild_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
