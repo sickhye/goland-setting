@@ -29,6 +29,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1560492406746" />
       <file name="$USER_HOME$/go/src/virgo-server/service/inventory.go" timestamp="1560413271942" />
       <file name="$USER_HOME$/go/src/virgo-server/main.go" timestamp="1559814549122">
         <mark key="'" line="157" column="35" />
@@ -100,6 +101,7 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1560492228280" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560422079554">
         <mark key="'" line="538" column="4" />
         <mark key="[" line="1419" column="22" />
