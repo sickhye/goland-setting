@@ -49,12 +49,12 @@
         <mark key="^" line="817" column="21" />
         <mark key="." line="817" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560497949465">
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560769282884">
         <mark key="'" line="1676" column="66" />
-        <mark key="[" line="528" column="49" />
-        <mark key="]" line="528" column="49" />
+        <mark key="[" line="1929" column="0" />
+        <mark key="]" line="1929" column="0" />
         <mark key="^" line="528" column="51" />
-        <mark key="." line="528" column="49" />
+        <mark key="." line="1929" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1560425228185">
         <mark key="[" line="91" column="0" />
@@ -280,7 +280,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -292,31 +292,31 @@
         <text encoding="base64">LyoqCiAqIOaxuua4iOOCv+OCpOODlwogKi8KbWVzc2FnZSBQYXltZW50VHlwZSB7CiAgZW51bSBFbnVtIHsKICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCiAgICBFbnRyeSA9IDE7IC8vLyDlj4LliqDloLHphawKICAgIFN1bW1vbiA9IDI7IC8vLyDlj6zllprloLHphawKICAgIEhlbHAgPSAzOyAvLy8g5pWR5o+05aCx6YWsCiAgICBDbGVhciA9IDQ7IC8vLyDjgq/jg6rjgqLloLHphawKICAgIFJhbmsgPSA1OyAvLy8g44Op44Oz44Kv5aCx6YWsCiAgICBEcm9wID0gNjsgLy8vIOODieODreODg+ODl+WgsemFrAogICAgUGVyc29uYWxFbnRyeSA9IDc7IC8vLyDlgIvkurrlj4LliqDloLHphawKICAgIEZpcnN0Q2xlYXIgPSA4OyAvLy8g5Yid44Kv44Oq44Ki5aCx6YWsCiAgICBQZXJzb25hbEFic2VudCA9IDk7IC8vLyDlgIvkurrmnKrlj4LliqDloLHphawKICAgIFJhbmtpbmcgPSAxMDsgLy8vIOODqeODs+OCreODs+OCsOWgsemFrAogIH0KfQoKLyoqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAibW9uc3RlciIsIGNvbHVtbnM6IFtdc3RyaW5neyJpZCJ9fSwK</text>
       </register>
-      <register name="4" type="8">
-        <text>決済タイプ</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJib3NzX21vbnN0ZXJfaWQifSwgbnVsbDogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXNkLlBvd2VyID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGdlbmVyYXRpb24K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text>決済タイプ</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
