@@ -23,6 +23,12 @@
         <mark key="." line="125" column="66" />
         <mark key="^" line="125" column="66" />
       </file>
+      <file name="/a.dummy" timestamp="1560762305327">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/gateways/gateways.go" timestamp="1560229060205">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -102,12 +108,12 @@
         <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1560492228280" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560422079554">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560762635391">
         <mark key="'" line="538" column="4" />
-        <mark key="[" line="1419" column="22" />
-        <mark key="]" line="1419" column="22" />
-        <mark key="^" line="1419" column="22" />
-        <mark key="." line="1419" column="22" />
+        <mark key="[" line="871" column="1" />
+        <mark key="]" line="871" column="5" />
+        <mark key="^" line="871" column="5" />
+        <mark key="." line="871" column="5" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power.go" timestamp="1560755771332">
         <mark key="[" line="34" column="4" />
@@ -150,6 +156,12 @@
         <mark key="]" line="121" column="22" />
         <mark key="." line="121" column="22" />
         <mark key="^" line="121" column="22" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1560762886505">
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+        <mark key="." line="65" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/Makefile" timestamp="1560411218963">
         <mark key="[" line="84" column="119" />
@@ -261,44 +273,44 @@
       <jump line="8" column="0" filename="$USER_HOME$/go/src/virgo-server/app/power_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXQgOj0gQ2FsY3VsYXRlQmFzZVZhbHVlKG1heFZhbHVlLCBhLCBiLCBuLCBncm93dGhSYXRlLCBlZmZlY3RSYXRlLCBlLmxldmVsLCB1aW50MzIobWF4U3RlcCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ル</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ル</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnb3QgOj0gbWF0aC5GbG9vcihDYWxjdWxhdGVCYXNlVmFsdWUobWF4VmFsdWUsIGEsIGIsIG4sIGdyb3d0aFJhdGUsIGVmZmVjdFJhdGUsIGUubGV2ZWwsIHVpbnQzMihtYXhTdGVwKSkpCg==</text>
+        <text encoding="base64">ICBtYXA8dWludDY0LHVpbnQ2ND4gbGlzdCA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXQgOj0gQ2FsY3VsYXRlQmFzZVZhbHVlKG1heFZhbHVlLCBhLCBiLCBuLCBncm93dGhSYXRlLCBlZmZlY3RSYXRlLCBlLmxldmVsLCB1aW50MzIobWF4U3RlcCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuUHJpbnRsbihlLmxldmVsLCByZXQpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXQgOj0K</text>
+        <text encoding="base64">ICB1aW50MzIgcG93ZXIgPSAyOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text>CalculateBaseValue(maxValue, a, b, n, growthRate, effectRate, e.level, uint32(maxStep))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB1aW50MzIgam9iX2lkID0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlncm93dGhCb3VuZGFyeVN0ZXAgPSAyMAo=</text>
+        <text encoding="base64">bWVzc2FnZSBQb3dlciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZS5sZXZlbAo=</text>
+        <text encoding="base64">CQlyZXQgOj0gQ2FsY3VsYXRlQmFzZVZhbHVlKG1heFZhbHVlLCBhLCBiLCBuLCBncm93dGhSYXRlLCBlZmZlY3RSYXRlLCBlLmxldmVsLCB1aW50MzIobWF4U3RlcCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWx1ZSA6PQo=</text>
+        <text encoding="base64">CQlsb2cuUHJpbnRsbihlLmxldmVsLCByZXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiBlLnBvd2VyCg==</text>
+        <text encoding="base64">CQlyZXQgOj0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>CalculateBaseValue(maxValue, a, b, n, growthRate, effectRate, e.level, uint32(maxStep))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
