@@ -69,6 +69,7 @@
         <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/rand_test.go" timestamp="1560739596823" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1560765570305" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/reward_usecase.go" timestamp="1560163514053">
         <mark key="[" line="65" column="4" />
       </file>
