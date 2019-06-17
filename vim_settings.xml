@@ -63,6 +63,9 @@
         <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/rand_test.go" timestamp="1560739596823" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/reward_usecase.go" timestamp="1560163514053">
+        <mark key="[" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_equipment_usecase.go" timestamp="1560476703557">
         <mark key="[" line="311" column="93" />
         <mark key="]" line="312" column="32" />
@@ -89,6 +92,9 @@
         <mark key="]" line="884" column="39" />
         <mark key="." line="884" column="39" />
         <mark key="^" line="884" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560757685329">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1560158076598">
         <mark key="[" line="119" column="0" />
