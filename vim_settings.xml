@@ -110,16 +110,16 @@
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1560492228280" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1560764619978">
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560762635391">
-        <mark key="'" line="538" column="4" />
-        <mark key="[" line="871" column="1" />
-        <mark key="]" line="871" column="5" />
-        <mark key="^" line="871" column="5" />
-        <mark key="." line="871" column="5" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560768377639">
+        <mark key="'" line="540" column="4" />
+        <mark key="[" line="820" column="0" />
+        <mark key="]" line="820" column="0" />
+        <mark key="^" line="903" column="0" />
+        <mark key="." line="820" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power.go" timestamp="1560755771332">
         <mark key="[" line="34" column="4" />
@@ -280,43 +280,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXNkLlBvd2VyID0K</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>currency</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXA8dWludDY0LHVpbnQ2ND4gbGlzdCA9IDE7Cg==</text>
+        <text encoding="base64">LyoqCiAqIOaxuua4iOOCv+OCpOODlwogKi8KbWVzc2FnZSBQYXltZW50VHlwZSB7CiAgZW51bSBFbnVtIHsKICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCiAgICBFbnRyeSA9IDE7IC8vLyDlj4LliqDloLHphawKICAgIFN1bW1vbiA9IDI7IC8vLyDlj6zllprloLHphawKICAgIEhlbHAgPSAzOyAvLy8g5pWR5o+05aCx6YWsCiAgICBDbGVhciA9IDQ7IC8vLyDjgq/jg6rjgqLloLHphawKICAgIFJhbmsgPSA1OyAvLy8g44Op44Oz44Kv5aCx6YWsCiAgICBEcm9wID0gNjsgLy8vIOODieODreODg+ODl+WgsemFrAogICAgUGVyc29uYWxFbnRyeSA9IDc7IC8vLyDlgIvkurrlj4LliqDloLHphawKICAgIEZpcnN0Q2xlYXIgPSA4OyAvLy8g5Yid44Kv44Oq44Ki5aCx6YWsCiAgICBQZXJzb25hbEFic2VudCA9IDk7IC8vLyDlgIvkurrmnKrlj4LliqDloLHphawKICAgIFJhbmtpbmcgPSAxMDsgLy8vIOODqeODs+OCreODs+OCsOWgsemFrAogIH0KfQoKLyoqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNkLlBvd2VyID0K</text>
+        <text encoding="base64">ICAgIE5vbmUgPSAwOyAvLy8g5Yid5pyf5YCkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGdlbmVyYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXNkLkN1cnJlbmN5LlRvdGFsQ29pbiA9IHNkLkN1cnJlbmN5LlBheUNvaW4gKyBzZC5DdXJyZW5jeS5GcmVlQ29pbgo=</text>
+      <register name="4" type="8">
+        <text>決済タイプ</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlGcmVlQ29pbjogdWludDMyKGNvaW5zLkZyZWVDb2luQSksCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlQYXlDb2luOiAgdWludDMyKGNvaW5zLlBhaWRDb2luKSwK</text>
+        <text encoding="base64">CXNkLlBvd2VyID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXNkLmtDdXJyZW5jeSA9ICZQcm90by5DdXJyZW5jeXsK</text>
+        <text encoding="base64">CWlmIGdlbmVyYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
