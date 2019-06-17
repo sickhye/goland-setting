@@ -126,12 +126,12 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/power_test.go" timestamp="1560753113615">
+      <file name="$USER_HOME$/go/src/virgo-server/app/power_test.go" timestamp="1560754406049">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="184" column="68" />
-        <mark key="]" line="184" column="47" />
-        <mark key="^" line="184" column="47" />
-        <mark key="." line="184" column="47" />
+        <mark key="[" line="117" column="29" />
+        <mark key="]" line="117" column="29" />
+        <mark key="^" line="117" column="29" />
+        <mark key="." line="117" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1560481299777">
         <mark key="[" line="58" column="0" />
@@ -256,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
