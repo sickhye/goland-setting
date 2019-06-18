@@ -60,6 +60,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_personal.go" timestamp="1560844004811" />
       <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1560158087356">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="18" column="27" />
@@ -85,7 +86,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.go" timestamp="1560826775309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/guild_usecase.go" timestamp="1560486731714">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/guild_usecase.go" timestamp="1560843599636">
         <mark key="'" line="49" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
