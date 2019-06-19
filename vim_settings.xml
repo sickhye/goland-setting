@@ -118,10 +118,11 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560923650124">
-        <mark key="[" line="1617" column="0" />
-        <mark key="]" line="1617" column="0" />
-        <mark key="." line="1617" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1560935363749">
+        <mark key="[" line="1578" column="28" />
+        <mark key="]" line="1578" column="45" />
+        <mark key="." line="1578" column="45" />
+        <mark key="^" line="1578" column="45" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power.go" timestamp="1560755771332">
         <mark key="[" line="34" column="4" />
@@ -282,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CrystalID</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>CrystalID</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -294,31 +295,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJpZCJ9LCBudWxsOiB0cnVlLAoJCQkJcnVsZXM6IG1hcFtzdHJpbmddKnJlbGF0aW9uUnVsZXsKCQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAibnBjX2x2IiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAoJCQkJfSwKCQkJfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEMgPSA2OyAvLy8gQ+ODqeODs+OCrwo=</text>
+        <text encoding="base64">ICByZXBlYXRlZCBSZXdhcmRJbmZvIG5nID0gMiA7IC8vLyDjgYvjgbDjgpPjgYTjgaPjgbHjgYTjgaflj5blvpflpLHmlZco5Luu77ya5LuV5qeY5qyh56ys44Gn44Gq44GP44Gq44KL44GL44KCKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEMgPSA2OyAvLy8gQ+ODqeODs+OCrwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEMgPSA2OyAvLy8gQ+ODqeODs+OCrwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAiY29tYm8iLCBjb2x1bW5zOiBbXXN0cmluZ3siaWQifX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+        <text encoding="base64">CQkJfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJjb21ib19pZCJ9LCBudWxsOiBmYWxzZSwK</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
