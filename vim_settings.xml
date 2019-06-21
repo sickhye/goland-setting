@@ -17,12 +17,12 @@
         <mark key="^" line="354" column="31" />
         <mark key="." line="474" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561095193347">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561110053940">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="506" column="48" />
-        <mark key="]" line="509" column="16" />
-        <mark key="." line="509" column="16" />
-        <mark key="^" line="509" column="16" />
+        <mark key="[" line="506" column="20" />
+        <mark key="]" line="506" column="21" />
+        <mark key="." line="506" column="21" />
+        <mark key="^" line="506" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561096113996">
         <mark key="[" line="38" column="12" />
@@ -66,12 +66,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1560842024921">
-        <mark key="'" line="1696" column="66" />
-        <mark key="[" line="347" column="70" />
-        <mark key="]" line="347" column="73" />
-        <mark key="^" line="347" column="73" />
-        <mark key="." line="347" column="73" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1561110340055">
+        <mark key="'" line="1702" column="66" />
+        <mark key="[" line="1789" column="0" />
+        <mark key="]" line="1789" column="0" />
+        <mark key="^" line="1789" column="46" />
+        <mark key="." line="1789" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1560425228185">
         <mark key="[" line="91" column="0" />
@@ -174,7 +174,12 @@
         <mark key="." line="119" column="21" />
         <mark key="^" line="119" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity.go" timestamp="1561106312895" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity.go" timestamp="1561110992909">
+        <mark key="[" line="193" column="64" />
+        <mark key="]" line="193" column="73" />
+        <mark key="." line="193" column="73" />
+        <mark key="^" line="193" column="73" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1560424204349">
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="22" />
@@ -316,11 +321,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
@@ -332,7 +337,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkJCQkK</text>
@@ -341,19 +346,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGF0YSA6PSBuZXcoaW5wdXQuQmF0dGxlUXVpdCkK</text>
+        <text encoding="base64">CQkJCQkJcGVyaW9kOiAgbmlsLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBAYXBpUGFyYW0ge2lkfSBwbGF5ZXJfZOODq+ODvOODoElECg==</text>
+        <text encoding="base64">CXNraXBDb2x1bW4gW11zdHJpbmcK</text>
       </register>
-      <register name="7" type="8">
-        <text>バトル強制終了</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXNraXAgIHNraXBUeXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSovCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8qCg==</text>
+        <text encoding="base64">CXNraXAgIHNraXBUeXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
