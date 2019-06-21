@@ -18,11 +18,11 @@
         <mark key="^" line="354" column="31" />
         <mark key="." line="474" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561084087176">
-        <mark key="[" line="165" column="17" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="153" column="12" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561086404888">
+        <mark key="[" line="157" column="52" />
+        <mark key="]" line="157" column="52" />
+        <mark key="." line="157" column="52" />
+        <mark key="^" line="157" column="52" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561017719165">
         <mark key="[" line="14" column="0" />
@@ -314,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>setLeader</text>
