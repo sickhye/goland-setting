@@ -157,10 +157,10 @@
         <mark key="^" line="119" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity.go" timestamp="1561340207154">
-        <mark key="[" line="258" column="30" />
-        <mark key="]" line="259" column="47" />
-        <mark key="." line="259" column="47" />
-        <mark key="^" line="259" column="47" />
+        <mark key="[" line="257" column="30" />
+        <mark key="]" line="258" column="47" />
+        <mark key="." line="258" column="47" />
+        <mark key="^" line="258" column="47" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/job.go" timestamp="1560424204349">
         <mark key="[" line="33" column="22" />
