@@ -18,12 +18,12 @@
         <mark key="." line="627" column="16" />
         <mark key="^" line="627" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561361924670">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561362763679">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="542" column="28" />
-        <mark key="]" line="542" column="43" />
-        <mark key="." line="542" column="43" />
-        <mark key="^" line="542" column="43" />
+        <mark key="[" line="541" column="32" />
+        <mark key="]" line="542" column="50" />
+        <mark key="." line="542" column="50" />
+        <mark key="^" line="542" column="50" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561348307163">
         <mark key="[" line="17" column="0" />
@@ -317,8 +317,8 @@
       <jump line="537" column="49" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cG93ZXIg</text>
+      <register name="&quot;" type="8">
+        <text>(v * power.CorrectionRate[k])</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cG93ZXIg</text>
@@ -329,17 +329,17 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJY2FzZSB1aW50MzIoUHJvdG8uTW9uc3RlckNhdGVnb3J5X05vcm1hbCk6CgkJCQltb25zdGVyQ2F0ZWdvcnkgPSBwb3dlci5TcGVjaWFsRWZmZWN0Tm9ybWFsTW9uc3Rlcgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCW8K</text>
+      <register name="1" type="8">
+        <text>(v * power.CorrectionRate[k])</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">CQkJCW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">awo=</text>
       </register>
-      <register name="4" type="8">
-        <text>DragonAtk</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="8">
         <text>DragonAtk</text>
@@ -350,11 +350,11 @@
       <register name="7" type="8">
         <text>DragonAtk</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCXRhcmdldFtwb3dlci5EcmFnb25BdGtdID0gZmxvYXQzMlRvRmxvYXQ2NChbXWZsb2F0MzJ7cmFyaXR5TXN0LlNwZWNpYWxFZmZlY3RSYWNlTWluLCByYXJpdHlNc3QuU3BlY2lhbEVmZmVjdFJhY2VNYXh9KQo=</text>
+      <register name="8" type="8">
+        <text>DragonAtk</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXRhcmdldFtwb3dlci5EcmFnb25BdGtdID0gZmxvYXQzMlRvRmxvYXQ2NChbXWZsb2F0MzJ7cmFyaXR5TXN0LlNwZWNpYWxFZmZlY3RSYWNlTWluLCByYXJpdHlNc3QuU3BlY2lhbEVmZmVjdFJhY2VNYXh9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
