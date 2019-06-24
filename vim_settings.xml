@@ -12,18 +12,18 @@
         <mark key="^" line="138" column="22" />
         <mark key="." line="519" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1561361308815">
-        <mark key="[" line="625" column="37" />
-        <mark key="]" line="627" column="16" />
-        <mark key="." line="627" column="16" />
-        <mark key="^" line="627" column="16" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1561368652951">
+        <mark key="[" line="235" column="20" />
+        <mark key="]" line="235" column="20" />
+        <mark key="." line="235" column="20" />
+        <mark key="^" line="235" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561362763679">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561369298735">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="541" column="32" />
-        <mark key="]" line="542" column="50" />
-        <mark key="." line="542" column="50" />
-        <mark key="^" line="542" column="50" />
+        <mark key="[" line="546" column="28" />
+        <mark key="]" line="565" column="18" />
+        <mark key="." line="565" column="18" />
+        <mark key="^" line="565" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561348307163">
         <mark key="[" line="17" column="0" />
@@ -51,8 +51,8 @@
         <mark key="." line="418" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_enhance.go" timestamp="1561346727915" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1560326973176">
-        <mark key="[" line="573" column="35" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1561369368495">
+        <mark key="[" line="1072" column="7" />
         <mark key="]" line="573" column="35" />
         <mark key="." line="573" column="35" />
         <mark key="^" line="573" column="35" />
@@ -63,11 +63,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1561001874698">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1561128032728">
         <mark key="'" line="1696" column="66" />
         <mark key="[" line="1783" column="24" />
@@ -75,23 +70,13 @@
         <mark key="^" line="1783" column="29" />
         <mark key="." line="1783" column="29" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1560425228185">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_personal.go" timestamp="1560844738581">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1560158087356">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="18" column="27" />
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1561345245426">
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1561369356748">
         <mark key="[" line="237" column="51" />
         <mark key="]" line="237" column="0" />
         <mark key="^" line="233" column="57" />
@@ -103,33 +88,13 @@
         <mark key="." line="200" column="28" />
         <mark key="^" line="200" column="28" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/misc/guild_member.go" timestamp="1560491391469">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/rune_usecase.go" timestamp="1560407652492">
         <mark key="[" line="884" column="39" />
         <mark key="]" line="884" column="39" />
         <mark key="." line="884" column="39" />
         <mark key="^" line="884" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/power/const.go" timestamp="1561014997757">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1560158076598">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/parameter.go" timestamp="1561358627617" />
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1560770945094">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1561115586436">
         <mark key="[" line="1579" column="28" />
         <mark key="]" line="1579" column="45" />
@@ -141,16 +106,6 @@
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/user/equipment.go" timestamp="1560412822866">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/master/job.go" timestamp="1561015763910">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/generate/struct/tpl/user_repository_implement.tpl" timestamp="1560228588276">
         <mark key="[" line="147" column="22" />
@@ -183,7 +138,7 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1561355939974">
+      <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1561368734876">
         <mark key="[" line="229" column="1" />
         <mark key="]" line="229" column="1" />
         <mark key="^" line="133" column="61" />
@@ -317,44 +272,44 @@
       <jump line="537" column="49" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>(v * power.CorrectionRate[k])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJbG9nLlByaW50bG4odG90YWxCYXNlUGFyYW1ldGVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG93ZXIg</text>
+        <text>mainEquipments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYXJpdHlNc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY2FzZSB1aW50MzIoUHJvdG8uTW9uc3RlckNhdGVnb3J5X05vcm1hbCk6CgkJCQltb25zdGVyQ2F0ZWdvcnkgPSBwb3dlci5TcGVjaWFsRWZmZWN0Tm9ybWFsTW9uc3Rlcgo=</text>
+        <text encoding="base64">CQkJCWVxdWlwbWVudFBhc3NpdmVTa2lsbCwgZXJyIDo9IGNvbnRyb2xsZXIuZXF1aXBtZW50SW50ZXJhY3Rvci5QYXNzaXZlU2tpbGxNYXAoY3R4LCBydW5uZXIsIG1haW5FcXVpcG1lbnRzKQoJCQkJaWYgZXJyICE9IG5pbCB7CgkJCQkJcmV0dXJuIGVycgoJCQkJfQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>(v * power.CorrectionRate[k])</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJbG9nLlByaW50bG4odG90YWxCYXNlUGFyYW1ldGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCW8K</text>
+        <text encoding="base64">CQkJCXN1YlBhc3NpdmVTa2lsbCA6PSBtYWtlKG1hcFt1aW50MzJddWludDMyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">CQkJCW1haW5QYXNzaXZlU2tpbGwgPSBhZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCXBhCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>DragonAtk</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlzdWJFcXVpcG1lbnRNYXBbZXF1aXBtZW50LklEXSA9IGVxdWlwbWVudAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>DragonAtk</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="7" type="8">
-        <text>DragonAtk</text>
+        <text>$..PassiveSkillMap(ctx, runner, equipment)</text>
       </register>
       <register name="8" type="8">
-        <text>DragonAtk</text>
+        <text>.PassiveSkillMap(ctx, runner, equipment)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXRhcmdldFtwb3dlci5EcmFnb25BdGtdID0gZmxvYXQzMlRvRmxvYXQ2NChbXWZsb2F0MzJ7cmFyaXR5TXN0LlNwZWNpYWxFZmZlY3RSYWNlTWluLCByYXJpdHlNc3QuU3BlY2lhbEVmZmVjdFJhY2VNYXh9KQo=</text>
+      <register name="9" type="8">
+        <text>(v * power.CorrectionRate[k])</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
