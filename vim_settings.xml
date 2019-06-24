@@ -12,17 +12,18 @@
         <mark key="^" line="138" column="22" />
         <mark key="." line="519" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1561354407030">
-        <mark key="[" line="530" column="17" />
-        <mark key="]" line="531" column="33" />
-        <mark key="^" line="531" column="33" />
-        <mark key="." line="531" column="33" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" timestamp="1561361308815">
+        <mark key="[" line="625" column="37" />
+        <mark key="]" line="627" column="16" />
+        <mark key="." line="627" column="16" />
+        <mark key="^" line="627" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561356482512">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561361924670">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="534" column="0" />
+        <mark key="[" line="542" column="28" />
+        <mark key="]" line="542" column="43" />
+        <mark key="." line="542" column="43" />
+        <mark key="^" line="542" column="43" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561348307163">
         <mark key="[" line="17" column="0" />
@@ -123,6 +124,7 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/power/parameter.go" timestamp="1561358627617" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1560770945094">
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
@@ -213,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="56" filename="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" />
-      <jump line="98" column="41" filename="$USER_HOME$/go/src/virgo-server/models/master/item.go" />
       <jump line="143" column="10" filename="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" />
       <jump line="170" column="4" filename="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" />
       <jump line="163" column="15" filename="$USER_HOME$/go/src/virgo-server/usecases/elixir_usecase.go" />
@@ -313,55 +313,57 @@
       <jump line="448" column="12" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
       <jump line="514" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" />
+      <jump line="532" column="99" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" />
+      <jump line="537" column="49" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJYWRkUGFzc2l2ZVNraWxsKGVsaXhpclBhc3NpdmUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG93ZXIg</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">cG93ZXIg</text>
       </register>
       <register name="/" type="4">
-        <text>setLeader</text>
+        <text encoding="base64">XDxyYXJpdHlNc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJdG90YWxCYXNlUGFyYW1ldGVyW2pvYi5Kb2JJRF1ba10gPSB0b3RhbEJhc2VQYXJhbWV0ZXJbam9iLkpvYklEXVtrXSArIHYK</text>
+        <text encoding="base64">CQkJY2FzZSB1aW50MzIoUHJvdG8uTW9uc3RlckNhdGVnb3J5X05vcm1hbCk6CgkJCQltb25zdGVyQ2F0ZWdvcnkgPSBwb3dlci5TcGVjaWFsRWZmZWN0Tm9ybWFsTW9uc3Rlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYWRkUGFzc2l2ZVNraWxsKGVsaXhpclBhc3NpdmUpCg==</text>
+        <text encoding="base64">CQkJCW8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+      <register name="4" type="8">
+        <text>DragonAtk</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJcGFzc2l2ZVNraWxsW2tdID0gdgo=</text>
+      <register name="5" type="8">
+        <text>DragonAtk</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
+      <register name="6" type="8">
+        <text>DragonAtk</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJcGFzc2l2ZVNraWxsW2tdID0gcGFzc2l2ZVNraWxsW2tdICsgdgo=</text>
+      <register name="7" type="8">
+        <text>DragonAtk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlpZiBfLCBvayA6PSBwYXNzaXZlU2tpbGxba107IG9rIHsK</text>
+        <text encoding="base64">CQkJCXRhcmdldFtwb3dlci5EcmFnb25BdGtdID0gZmxvYXQzMlRvRmxvYXQ2NChbXWZsb2F0MzJ7cmFyaXR5TXN0LlNwZWNpYWxFZmZlY3RSYWNlTWluLCByYXJpdHlNc3QuU3BlY2lhbEVmZmVjdFJhY2VNYXh9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWZvciBrLCB2IDo9IHJhbmdlIGFkZCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setLeader</last-search>
+      <last-search encoding="base64">XDxyYXJpdHlNc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>setLeader</last-pattern>
+      <last-pattern encoding="base64">XDxyYXJpdHlNc3RcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>setLeader</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Update</entry>
         <entry>now</entry>
         <entry>Map</entry>
         <entry>JobEquipmentDel</entry>
@@ -389,6 +390,7 @@
         <entry>sample</entry>
         <entry>param</entry>
         <entry>setLeader</entry>
+        <entry encoding="base64">XDxyYXJpdHlNc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/func (/func( controller *</entry>
