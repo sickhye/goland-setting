@@ -89,11 +89,11 @@
         <mark key="^" line="884" column="39" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/parameter.go" timestamp="1561358627617" />
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1561374329566">
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="18" />
-        <mark key="." line="60" column="18" />
-        <mark key="^" line="60" column="18" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" timestamp="1561428119991">
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="63" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1561115586436">
         <mark key="[" line="1579" column="28" />
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/input/elixir_input.go" />
       <jump line="47" column="0" filename="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" />
       <jump line="726" column="0" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" />
       <jump line="114" column="75" filename="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" />
@@ -270,46 +269,76 @@
       <jump line="74" column="38" filename="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" />
       <jump line="82" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" />
       <jump line="92" column="12" filename="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" />
+      <jump line="105" column="4" filename="$USER_HOME$/go/src/virgo-server/usecases/passive_skill_usecase.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWZvciBfLCBlIDo9IHJhbmdlIHRhcmdldFBhcmFtUG93ZXJQYXJhbWV0ZXJzTWFwW1Byb3RvLlRhcmdldFBhcmFtX0VudW0obXN0LlRhcmdldFBhcmFtKV0gewo=</text>
+        <text encoding="base64">CVByb3RvLlRhcmdldFBhcmFtX0RlYXRoUmVzaXN0OiAgICAgIHtwb3dlci5EZWF0aFJlc2lzdH0sCglQcm90by5UYXJnZXRQYXJhbV9TdG9uZVJlc2lzdDogICAgICB7cG93ZXIuU3RvbmVSZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fU2xlZXBSZXNpc3Q6ICAgICAge3Bvd2VyLlNsZWVwUmVzaXN0fSwKCVByb3RvLlRhcmdldFBhcmFtX1BvaXNvblJlc2lzdDogICAgIHtwb3dlci5Qb2lzb25SZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fQ3Vyc2VSZXNpc3Q6ICAgICAge3Bvd2VyLkN1cnNlUmVzaXN0fSwKCVByb3RvLlRhcmdldFBhcmFtX0NvbmZ1c2lvblJlc2lzdDogIHtwb3dlci5Db25mdXNpb25SZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fUGFyYWx5c2lzUmVzaXN0OiAge3Bvd2VyLlBhcmFseXNpc1Jlc2lzdH0sCglQcm90by5UYXJnZXRQYXJhbV9CbGluZFJlc2lzdDogICAgICB7cG93ZXIuQmxpbmRSZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fU2VhbFJlc2lzdDogICAgICAge3Bvd2VyLlNlYWxSZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fU3R1blJlc2lzdDogICAgICAge3Bvd2VyLlN0dW5SZXNpc3R9LAoJUHJvdG8uVGFyZ2V0UGFyYW1fV2Vha25lc3NSZXNpc3Q6ICAge3Bvd2VyLldlYWtuZXNzUmVzaXN0fSwKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYzMzNDcxMGMzYzBjOTU0MTM5MDBkNTg5YzAzZjhkNmNlZDk1MDk4Cg==</text>
+      <register name="1" type="8">
+        <text>Proto.TargetParam_DeathResist:      {
+Proto.TargetParam_StoneResist:      {
+Proto.TargetParam_SleepResist:      {
+Proto.TargetParam_PoisonResist:     {
+Proto.TargetParam_CurseResist:      {
+Proto.TargetParam_ConfusionResist:  {
+Proto.TargetParam_ParalysisResist:  {
+Proto.TargetParam_BlindResist:      {
+Proto.TargetParam_SealResist:       {
+Proto.TargetParam_StunResist:       {
+Proto.TargetParam_WeaknessResist:   {</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW1hc3RlckpvYkx2R3JvdXBSZXBvc2l0b3J5IHJlcG9zaXRvcnkuSU1hc3RlckpvYkx2R3JvdXBSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1hc3RlckpvYlJlcG9zaXRvcnkgICAgICAgIHJlcG9zaXRvcnkuSU1hc3RlckpvYlJlcG9zaXRvcnkK</text>
+        <text encoding="base64">CQlwb3dlci5BbGxBaWxtZW50UmVzaXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZXJKb2JSZXBvc2l0b3J5ICAgICAgICAgIHJlcG9zaXRvcnkuSVVzZXJKb2JSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">CQlwb3dlci5BbGxBaWxtZW50UmVzaXN0fSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="5" type="8">
+        <text>Proto.TargetParam_DragonResist:     {
+Proto.TargetParam_BeastResist:      {
+Proto.TargetParam_DevilResist:      {
+Proto.TargetParam_SaintResist:      {
+Proto.TargetParam_HumanResist:      {
+Proto.TargetParam_PvpResist:        {
+Proto.TargetParam_AllAilmentResist: {</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQlwb3dlci5BbGxSYWNlUmVzaXN0Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>Proto.TargetParam_DragonAtk:        {
+Proto.TargetParam_BeastAtk:         {
+Proto.TargetParam_DevilAtk:         {
+Proto.TargetParam_SaintAtk:         {
+Proto.TargetParam_HumanAtk:         {
+Proto.TargetParam_PvpAtk:           {</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYzMzNDcxMGMzYzBjOTU0MTM5MDBkNTg5YzAzZjhkNmNlZDk1MDk4Cg==</text>
+        <text encoding="base64">CQlwb3dlci5BbGxSYWNlQXRrCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQltYXN0ZXJKb2JMdkdyb3VwUmVwb3NpdG9yeTogbWFzdGVySm9iTHZHcm91cFJlcG9zaXRvcnksCg==</text>
+      <register name="9" type="8">
+        <text>Proto.TargetParam_FireResist:         {
+Proto.TargetParam_WaterResist:        {
+Proto.TargetParam_EarthResist:        {
+Proto.TargetParam_WindResist:         {
+Proto.TargetParam_ThunderResist:      {
+Proto.TargetParam_LightResist:        {
+Proto.TargetParam_DarknessResist:     {
+Proto.TargetParam_PhyResist:          {
+Proto.TargetParam_MagResist:          {</text>
       </register>
       <register name=":" type="4">
         <text>83,93s/^/power./g</text>
