@@ -23,8 +23,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1561432732886">
-        <mark key="[" line="272" column="7" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/elixir.spec.ts" timestamp="1561434645096">
+        <mark key="[" line="132" column="38" />
+        <mark key="]" line="132" column="38" />
+        <mark key="^" line="132" column="40" />
+        <mark key="." line="132" column="38" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1561424966659">
         <mark key="'" line="1696" column="66" />
@@ -77,9 +80,9 @@
         <mark key="." line="235" column="20" />
         <mark key="^" line="235" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561432557668">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561434494368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="526" column="20" />
+        <mark key="[" line="554" column="45" />
         <mark key="]" line="526" column="38" />
         <mark key="." line="526" column="38" />
         <mark key="^" line="526" column="38" />
@@ -310,8 +313,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/job_skill_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">LmZpbHRlcih4ID0+IHguZ2V0UmFuaygpID09IDEp</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -322,23 +325,23 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJcGFzc2l2ZVNraWxsTWFwW2UuSm9iSURdW2pvYlNraWxsTXN0LlBhc3NpdmVTa2lsbElEXSArPSAxCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">LmZpbHRlcih4ID0+IHguZ2V0UmFuaygpID09IDEp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cnIK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">cnIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -347,7 +350,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>83,93s/^/power./g</text>
