@@ -108,11 +108,13 @@
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561516997271">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/power.go" timestamp="1561522888692">
-        <mark key="'" line="255" column="4" />
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/power.go" timestamp="1561525867120">
+        <mark key="a" line="29" column="22" />
+        <mark key="'" line="296" column="4" />
+        <mark key="[" line="239" column="13" />
+        <mark key="]" line="241" column="25" />
+        <mark key="." line="241" column="25" />
+        <mark key="^" line="241" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -126,6 +128,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1561524868002" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_enhance.go" timestamp="1561346727915" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_shared.go" timestamp="1561518997867" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/equipment.spec.ts" timestamp="1561440925322">
@@ -385,44 +388,44 @@
       <jump line="558" column="16" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy9tYWluRXF1aXBwZWRSdW5lcyA6PSBtYWtlKFtdKnVzZXIuUnVuZSwgMCkK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>equipmentPassiveSkill</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBTbGljZVVsb2F0MzJUb0Zsb2F0NjQodiBbXWZsb2F0MzIpIFtdZmxvYXQ2NCB7Cg==</text>
+        <text encoding="base64">CQkJbWFpblBhc3NpdmVTa2lsbCA9IGludGVyYWN0b3JzLlBhc3NpdmVTa2lsbEludGVyYWN0b3IuTWVyZ2VQYXNzaXZlU2tpbGwobWFpblBhc3NpdmVTa2lsbCwgZXF1aXBtZW50UGFzc2l2ZVNraWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJLy9tYWluRXF1aXBwZWRSdW5lcyA6PSBtYWtlKFtdKnVzZXIuUnVuZSwgMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGVycgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsK</text>
+      <register name="3" type="8">
+        <text>interactors.PassiveSkillInteractor.MergePassiveSkill(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlydW5lTGlzdCwgZXJyIDo9IGludGVyYWN0b3JzLlJ1bmVJbnRlcmFjdG9yLkxpc3QoY3R4LCBydW5uZXIsIHBsYXllcklEKQo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">bnRlcmFjdG9ycy5QYXNzaXZlU2tpbGxJbnRlcmFjdG9yLk1lcmdlUGFzc2l2ZVNraWxsKG1haW5QYXNzaXZlU2tpbGwsIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJcmV0dXJuIGVycgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXN1YkVxdWlwbWVudHMgPSBhcHBlbmQoc3ViRXF1aXBtZW50cywgZXF1aXBtZW50KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsK</text>
+        <text encoding="base64">CQkJCWVxdWlwbWVudCA6PSBwb3dlckNvbGxlY3Rpb24uZXF1aXBtZW50TWFwW2VdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQllcXVpcG1lbnRMaXN0LCBlcnIgOj0gaW50ZXJhY3RvcnMuRXF1aXBtZW50SW50ZXJhY3Rvci5MaXN0KGN0eCwgcnVubmVyLCBwbGF5ZXJJRCkK</text>
+        <text encoding="base64">CQkJZm9yIF8sIGUgOj0gcmFuZ2Ugam9iRXF1aXBtZW50LlN1YkVxdWlwbWVudElEKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>231</text>
