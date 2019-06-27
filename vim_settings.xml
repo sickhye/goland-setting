@@ -108,12 +108,12 @@
         <mark key="." line="409" column="21" />
         <mark key="^" line="409" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561615735896">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1561623426054">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="498" column="13" />
-        <mark key="]" line="499" column="27" />
-        <mark key="." line="499" column="27" />
-        <mark key="^" line="499" column="27" />
+        <mark key="[" line="419" column="24" />
+        <mark key="]" line="419" column="30" />
+        <mark key="^" line="419" column="30" />
+        <mark key="." line="419" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -206,11 +206,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1561601441269">
-        <mark key="[" line="1508" column="54" />
-        <mark key="]" line="1508" column="14" />
-        <mark key="." line="1508" column="14" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1561623075795">
+        <mark key="[" line="1591" column="0" />
+        <mark key="]" line="1591" column="0" />
         <mark key="^" line="1508" column="14" />
+        <mark key="." line="1591" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1561596746297">
         <mark key="[" line="103" column="43" />
@@ -368,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>episode_id</text>
+        <text>reward</text>
       </register>
       <register name="-" type="4">
-        <text>episode_id</text>
+        <text>reward</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
@@ -380,31 +380,31 @@
         <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJpZCJ9LCBudWxsOiB0cnVlLAoJCQkJcnVsZXM6IG1hcFtzdHJpbmddKnJlbGF0aW9uUnVsZXsKCQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAicXVlc3QiLCBjb2x1bW5zOiBbXXN0cmluZ3siZXBpc29kZV9pZCJ9fSwKCQkJCX0sCgkJCX0sCgkJCXtjb2x1bW5zOiBbXXN0cmluZ3siY2hhcHRlcl9pZCJ9LCBudWxsOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJjaGFwdGVyX2lkIn0sIG51bGw6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb29tX2lkKTsK</text>
+        <text encoding="base64">CQkJLy8g44Oq44Ov44O844OJ5Yid5pyf5YyWCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250ZW50c19pZCwgYXJlYV9pZCwgc3RhZ2VfaWQpOwo=</text>
+        <text encoding="base64">CQkJcmV3YXJkIDo9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlZHVjZSgoYSwgYikgPT4gYSA+IGIgPyBhIDogYik7Cg==</text>
+        <text encoding="base64">CQkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAgIDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICAgIG5pbCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCh4ID0+IHguZ2V0SWQoKSkucmVkdWNlKChhLCBiKSA9PiBhID4gYiA/IGEgOiBiKTsK</text>
+        <text encoding="base64">CQkJCVhYWF9Ob1Vua2V5ZWRMaXRlcmFsOiAgIHN0cnVjdHt9e30sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9PiB4LmdldEFyZWFJZCgpID09IGFyZWFfaWQpCg==</text>
+        <text encoding="base64">CQkJCVN0b3JlZERhdGE6ICAgICAgICAgICAgIG5pbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhZ2VfaWQgPSBtYXN0ZXIuQWxsLmdldFN0YWdlTGlzdCgpLmZpbHRlcigK</text>
+        <text encoding="base64">CQkJCXZhciBuZ1Jld2FyZHNDb3VudCBpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJTmc6IHJlc3VsdFJld2FyZC5UcmFzaCwK</text>
       </register>
       <register name=":" type="4">
         <text>231</text>
