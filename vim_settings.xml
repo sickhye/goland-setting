@@ -162,11 +162,11 @@
         <mark key="]" line="231" column="0" />
         <mark key="." line="231" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1561627884469">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1561684611845">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
         <mark key="^" line="211" column="0" />
-        <mark key="." line="170" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1561530864070">
         <mark key="[" line="279" column="0" />
@@ -372,8 +372,8 @@
       <jump line="2" column="18" filename="$USER_HOME$/go/src/virgo-server/models/master/contents.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>新</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
         <text>新</text>
@@ -385,13 +385,13 @@
         <text encoding="base64">KiBAYXBpIHtwb3N0fSAvZGVidWcvYmF0dGxlL3N0YWdlL2NsZWFyIOODh+ODkOODg+OCsO+9nOOCueODhuODvOOCuOmAsuaNl+abtOaWsAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIGhpc3RvcnkuU3RhZ2VJRCA9PSAwIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -406,10 +406,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGJyLkVxKCJjb250ZW50c19pZCIsIG1jLmNvbnRlbnRzLklEKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
