@@ -6,10 +6,10 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1561599362460" />
-      <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1561687882732">
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1561693475908">
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/contents_input.go" timestamp="1561608904580">
         <mark key="[" line="9" column="0" />
