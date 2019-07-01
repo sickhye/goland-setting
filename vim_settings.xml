@@ -302,10 +302,10 @@
         <mark key="." line="65" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1561949599742">
-        <mark key="[" line="523" column="26" />
-        <mark key="]" line="523" column="32" />
-        <mark key="." line="523" column="32" />
-        <mark key="^" line="523" column="32" />
+        <mark key="[" line="524" column="26" />
+        <mark key="]" line="524" column="32" />
+        <mark key="." line="524" column="32" />
+        <mark key="^" line="524" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/Makefile" timestamp="1560411218963">
         <mark key="[" line="84" column="119" />
