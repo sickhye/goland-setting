@@ -5,7 +5,6 @@
       <mark key="I" line="191" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1561599362460" />
       <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1561694997085">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -151,11 +150,11 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1560158087356">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+      <file name="$USER_HOME$/go/src/virgo-server/models/misc/battle.go" timestamp="1561954333118">
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="54" column="34" />
+        <mark key="^" line="54" column="34" />
+        <mark key="." line="54" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/job.spec.ts" timestamp="1561613425950">
         <mark key="[" line="231" column="0" />
