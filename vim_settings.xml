@@ -29,12 +29,12 @@
         <mark key="^" line="132" column="40" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1561985281907">
-        <mark key="'" line="1731" column="66" />
-        <mark key="[" line="1008" column="82" />
-        <mark key="]" line="1008" column="59" />
-        <mark key="^" line="1008" column="59" />
-        <mark key="." line="1008" column="59" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1562037327276">
+        <mark key="'" line="1741" column="66" />
+        <mark key="[" line="1117" column="60" />
+        <mark key="]" line="1117" column="63" />
+        <mark key="^" line="1117" column="63" />
+        <mark key="." line="1117" column="63" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_personal.go" timestamp="1560844738581">
         <mark key="[" line="51" column="0" />
@@ -406,11 +406,11 @@
       <jump line="6" column="7" filename="$USER_HOME$/go/src/virgo-server/models/master/contents.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
