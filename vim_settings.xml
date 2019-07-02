@@ -387,8 +387,8 @@
       <jump line="203" column="22" filename="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCB3YXJlaG91c2VIaXN0b3J5VHlwZUdpdmUgPSAyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -400,22 +400,22 @@
         <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">ICAgIGxldCB3YXJlaG91c2VIaXN0b3J5VHlwZUdpdmUgPSAyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlSZXdhcmQgPSA0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlBY3Rpdml0eSA9IDM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlEb25hdGUgPSAxOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJld2FyZHMgPSBtYWtlKG1hcFtQcm90by5SZXdhcmRUeXBlX0VudW1dW111aW50MzIpCg==</text>
+        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
@@ -424,7 +424,7 @@
         <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBpbnRlcmFjdG9yLmNsZWFyKGN0eCwgcnVubmVyLCBwbGF5ZXJJRCwgc3RhZ2VJRCwgbWMpCg==</text>
+        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
