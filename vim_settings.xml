@@ -223,7 +223,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562058494983" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562060764968" />
       <file name="$USER_HOME$/go/src/virgo-server/models/master/job.go" timestamp="1561015763910">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
