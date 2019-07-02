@@ -94,10 +94,10 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1561615852319">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/battle.spec.ts" timestamp="1562068019083">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="45" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power_test.go" timestamp="1561096189398">
         <mark key="[" line="119" column="21" />
@@ -117,12 +117,12 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562057438286">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562067605075">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="504" column="70" />
-        <mark key="]" line="506" column="39" />
-        <mark key="^" line="506" column="39" />
-        <mark key="." line="506" column="39" />
+        <mark key="[" line="186" column="35" />
+        <mark key="]" line="186" column="16" />
+        <mark key="." line="186" column="16" />
+        <mark key="^" line="186" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -179,7 +179,7 @@
         <mark key="]" line="231" column="0" />
         <mark key="." line="231" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1562062675249" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1562066743044" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1561530864070">
         <mark key="[" line="279" column="0" />
         <mark key="]" line="279" column="0" />
@@ -210,8 +210,12 @@
         <mark key="." line="884" column="39" />
         <mark key="^" line="884" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1561952053261">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1562067556515">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="97" column="17" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/parameter.go" timestamp="1561449724635">
         <mark key="[" line="1" column="0" />
@@ -388,43 +392,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCB3YXJlaG91c2VIaXN0b3J5VHlwZUdpdmUgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldExlYWRlcklkKHBsYXllci5QbGF5ZXJJRCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">X2xpc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">CQkJZm9yIF8sIGUgOj0gcmFuZ2UgcmVxLk1lbWJlciB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB3YXJlaG91c2VIaXN0b3J5VHlwZUdpdmUgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldExlYWRlcklkKHBsYXllci5QbGF5ZXJJRCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlSZXdhcmQgPSA0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldE1lbWJlckxpc3QoW21lbWJlcl0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlBY3Rpdml0eSA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldE1lbWJlcklkTGlzdChbcGxheWVyLlBsYXllcklEXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBoaXN0b3J5Q2F0ZWdvcnlEb25hdGUgPSAxOwo=</text>
+        <text encoding="base64">CQlTdW1tYXJ5OiAgICAgIiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">CQlTdW1tYXJ5OiAgICAgIiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">KSBlcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">CUVudGVyKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">CQkJCWVyciA9IGNvbnRyb2xsZXIuYmF0dGxlSW50ZXJhY3Rvci5NZW1iZXJFbnRlcihjdHgsIHJ1bm5lciwgcmVxLlJvb21JZCwgZS5QbGF5ZXJJZCkKCQkJCWlmIGVyciAhPSBuaWwgewoJCQkJCXJldHVybiBlcnIKCQkJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJld2FyZHNbUHJvdG8uUmV3YXJkVHlwZV9DbGVhcl0gPSBbXXVpbnQzMnttYy5zdGFnZS5DbGVhclJld2FyZEdyb3VwSUR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
