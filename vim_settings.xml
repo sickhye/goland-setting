@@ -144,10 +144,10 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562150148513">
-        <mark key="[" line="80" column="35" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562150819667">
+        <mark key="[" line="505" column="42" />
+        <mark key="]" line="505" column="42" />
+        <mark key="." line="505" column="42" />
         <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_shared.go" timestamp="1561597008409">
@@ -411,11 +411,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -424,31 +424,31 @@
         <text encoding="base64">CQlpZiBtb25zdGVyRXhwIDwgMSB7CgkJCW1vbnN0ZXJTbGFpbkV4cCArPSBzbGFpbkNvdW50CgkJfSBlbHNlIHsKCQkJbW9uc3RlclNsYWluRXhwICs9IHVpbnQzMihtb25zdGVyRXhwKSAqIHNsYWluQ291bnQKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBsYXllcklEIHVpbnQ2NCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRka2trCg==</text>
+        <text encoding="base64">CWN0eCBjb250ZXh0LkNvbnRleHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSkgKGJlZm9yZSwgYWZ0ZXIgKkpvYkluZm8sIGx1cGkgdWludDY0LCBlcnIgZXJyb3IpIHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWRka2trCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQltb25zdGVyU2xhaW5MdXBpIDo9Cg==</text>
+        <text encoding="base64">CSkgKGJlZm9yZSwgYWZ0ZXIgKkpvYkluZm8sIGx1cGkgdWludDY0LCBlcnIgZXJyb3IpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBtb25zdGVyRXhwIDwgMSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJCQltb25zdGVyU2xhaW5MdXBpIDo9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlpZiBtb25zdGVyRXhwIDwgMSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">CQkJbW9uc3RlclNsYWluTHVwaSArPSBzbGFpbkNvdW50Cg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>levelDiffRate(userJob.Level, monster.Lv)</text>
-      </register>
-      <register name="9" type="8">
-        <text>levelDiffRate(userJob.Level, monster.Lv)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
