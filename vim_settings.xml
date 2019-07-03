@@ -125,12 +125,12 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562130699792">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562132738268">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="514" column="45" />
-        <mark key="]" line="514" column="45" />
-        <mark key="." line="514" column="45" />
-        <mark key="^" line="514" column="45" />
+        <mark key="[" line="554" column="30" />
+        <mark key="]" line="554" column="33" />
+        <mark key="." line="554" column="33" />
+        <mark key="^" line="554" column="33" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -200,7 +200,7 @@
         <mark key="." line="301" column="49" />
         <mark key="^" line="301" column="49" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1561530864070">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1562131464708">
         <mark key="[" line="279" column="0" />
         <mark key="]" line="279" column="0" />
         <mark key="^" line="278" column="22" />
@@ -411,11 +411,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQliZWZvcmVKb2JMZXZlbCA6PQo=</text>
+      <register name="&quot;" type="4">
+        <text>power</text>
       </register>
       <register name="-" type="4">
-        <text>afterLevel</text>
+        <text>power</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -423,32 +423,32 @@
       <register name="0" type="2">
         <text encoding="base64">CXJld2FyZHMuQ2xlYXJFeHAgPSBtYy5zdGFnZS5DbGVhckV4cAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQliZWZvcmVKb2JMZXZlbCA6PQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">JmFmdGVyQ2xlYXJQYXJhbQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="2" type="8">
+        <text>ret.Before</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgZXhwID4gMCB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">YmVmb3JlQ2xlYXJQYXJhbQoJCQkJCQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IG5hbWUgID0gCg==</text>
+        <text encoding="base64">CQkJCQlyZXQuQmVmb3JlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnRyb2xsZXIucGxheWVySW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlGaXJzdENsZWFyRXhwOiAwLAo=</text>
+        <text encoding="base64">CQkJCQkJWFhYX3NpemVjYWNoZTogICAgICAgIDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlDbGVhckV4cDogICAgICBtYy5zdGFnZS5DbGVhckV4cCwK</text>
+        <text encoding="base64">CQkJCQkJWFhYX3VucmVjb2duaXplZDogICAgIG5pbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJld2FyZHMuQ2xlYXJFeHAgPSBtYy5zdGFnZS5DbGVhckV4cAo=</text>
+        <text encoding="base64">CQkJCQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
