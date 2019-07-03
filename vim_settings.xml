@@ -125,11 +125,12 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562140431891">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562140433006">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="504" column="0" />
-        <mark key="]" line="504" column="0" />
-        <mark key="." line="504" column="0" />
+        <mark key="]" line="504" column="16" />
+        <mark key="." line="504" column="16" />
+        <mark key="^" line="504" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
