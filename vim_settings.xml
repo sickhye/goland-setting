@@ -125,12 +125,12 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562145513843">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562150119674">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-        <mark key="^" line="528" column="85" />
+        <mark key="[" line="524" column="85" />
+        <mark key="]" line="524" column="99" />
+        <mark key="^" line="524" column="99" />
+        <mark key="." line="524" column="99" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -144,11 +144,11 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562147729334">
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
-        <mark key="^" line="373" column="36" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562150148513">
+        <mark key="[" line="80" column="35" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_shared.go" timestamp="1561597008409">
         <mark key="[" line="437" column="45" />
@@ -415,40 +415,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYmVmb3JlLCBhZnRlciwgZXJyCg==</text>
+        <text encoding="base64">CQlpZiBtb25zdGVyRXhwIDwgMSB7CgkJCW1vbnN0ZXJTbGFpbkV4cCArPSBzbGFpbkNvdW50CgkJfSBlbHNlIHsKCQkJbW9uc3RlclNsYWluRXhwICs9IHVpbnQzMihtb25zdGVyRXhwKSAqIHNsYWluQ291bnQKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRka2trCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CSkgKGJlZm9yZSwgYWZ0ZXIgKkpvYkluZm8sIGx1cGkgdWludDY0LCBlcnIgZXJyb3IpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJKCkK</text>
+        <text encoding="base64">CQkJCQltb25zdGVyU2xhaW5MdXBpIDo9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMC4wMTY3Cg==</text>
+        <text encoding="base64">CQlpZiBtb25zdGVyRXhwIDwgMSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJbW9uc3RlclNsYWluTHVwaSArPSBzbGFpbkNvdW50Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>levelDiffRate(userJob.Level, monster.Lv)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlzd2l0Y2ggZGlmZiB7Cg==</text>
+      <register name="9" type="8">
+        <text>levelDiffRate(userJob.Level, monster.Lv)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
