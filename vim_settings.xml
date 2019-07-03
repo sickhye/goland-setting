@@ -125,12 +125,12 @@
         <mark key="^" line="217" column="76" />
         <mark key="." line="217" column="77" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562140433006">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562142668064">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="504" column="0" />
-        <mark key="]" line="504" column="16" />
-        <mark key="." line="504" column="16" />
-        <mark key="^" line="504" column="16" />
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/power/power.go" timestamp="1561449759619">
         <mark key="[" line="6" column="26" />
@@ -144,7 +144,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562139826746">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562143091762">
         <mark key="[" line="316" column="39" />
         <mark key="]" line="316" column="54" />
         <mark key="." line="316" column="54" />
@@ -295,11 +295,11 @@
         <mark key="^" line="65" column="26" />
         <mark key="." line="65" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1561949599742">
-        <mark key="[" line="524" column="26" />
-        <mark key="]" line="524" column="32" />
-        <mark key="." line="524" column="32" />
-        <mark key="^" line="524" column="32" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1562142682841">
+        <mark key="[" line="512" column="70" />
+        <mark key="]" line="512" column="74" />
+        <mark key="." line="512" column="74" />
+        <mark key="^" line="512" column="74" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/Makefile" timestamp="1561983313298">
         <mark key="[" line="84" column="119" />
@@ -412,10 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJCQk=</text>
+        <text>Clear</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCQk=</text>
+        <text>Clear</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
