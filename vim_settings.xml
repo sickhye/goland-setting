@@ -147,6 +147,12 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1562216266642">
+        <mark key="[" line="280" column="26" />
+        <mark key="]" line="280" column="26" />
+        <mark key="." line="280" column="26" />
+        <mark key="^" line="280" column="26" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/slice.go" timestamp="1561514029055">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -361,11 +367,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXBlYXRlZCB1aW50NjQgbWVtYmVyX2lkID0gNyBbZGVwcmVjYXRlZD10cnVlXTsgLy8vIG1lbWJlciBwbGF5ZXJfaWRzCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>失敗</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
