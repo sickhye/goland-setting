@@ -210,11 +210,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562151846053">
-        <mark key="[" line="1518" column="0" />
-        <mark key="]" line="1518" column="0" />
-        <mark key="." line="1518" column="0" />
-      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562230542125" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/generate/struct/tpl/user_repository_implement.tpl" timestamp="1560228588276">
         <mark key="[" line="147" column="22" />
         <mark key="]" line="147" column="22" />
@@ -367,11 +363,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+      <register name="&quot;" type="4">
+        <text>712000001</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>712000001</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
