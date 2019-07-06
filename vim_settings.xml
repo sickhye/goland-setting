@@ -92,10 +92,10 @@
         <mark key="." line="1045" column="14" />
         <mark key="^" line="1045" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562236801779">
-        <mark key="[" line="99" column="53" />
-        <mark key="]" line="99" column="78" />
-        <mark key="." line="99" column="78" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562393133793">
+        <mark key="[" line="99" column="55" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="99" column="55" />
         <mark key="^" line="99" column="78" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/user/job_skill.go" timestamp="1562377512611" />
@@ -104,6 +104,12 @@
         <mark key="]" line="16" column="87" />
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562393071059">
+        <mark key="[" line="1107" column="20" />
+        <mark key="]" line="1107" column="20" />
+        <mark key="^" line="1109" column="21" />
+        <mark key="." line="1107" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/master/crystal_skill.go" timestamp="1562386648469">
         <mark key="[" line="21" column="0" />
@@ -131,12 +137,12 @@
         <mark key="." line="54" column="32" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1562236730094">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="65" column="39" />
-        <mark key="^" line="65" column="39" />
-        <mark key="." line="65" column="39" />
+      <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1562393018667">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="66" column="39" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1562142682841">
         <mark key="[" line="512" column="70" />
@@ -248,17 +254,17 @@
       <jump line="2" column="15" filename="$USER_HOME$/go/src/virgo-server/models/master/crystal_skill_lv.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkic3RhdHVzIjogICAgIHVzZXIuQ3J5c3RhbFNraWxsQWN0aXZlT24sCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXBwLkVycigKCQkJYXBwLlByb2Nlc3NFcnJvciwKCQkJZm10LkVycm9yZigKCQkJCSJjcnlzdGFsX3NraWxsIGlzIG5vdCBleGlzdHMgY3J5c3RhbF9pZDolZCBza2lsbF9pZDolZCIsCgkJCQljcnlzdGFsSUQsCgkJCQlza2lsbElELAoJCQkpLAoJCSkK</text>
+        <text encoding="base64">CQlhcHAuU3RvcmVkQ3J5c3RhbFNraWxsOiAgICAgICBpbnRlcmFjdG9yLnVzZXJDcnlzdGFsU2tpbGxSZXBvc2l0b3J5LlByb3RvLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkic3RhdHVzIjogICAgIHVzZXIuQ3J5c3RhbFNraWxsQWN0aXZlT24sCg==</text>
