@@ -78,19 +78,18 @@
         <mark key="." line="262" column="61" />
         <mark key="^" line="262" column="61" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/time.go" timestamp="1562397740951">
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="156" column="8" />
+        <mark key="." line="156" column="8" />
+        <mark key="^" line="156" column="8" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/battle_usecase.go" timestamp="1562069454489">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="135" column="29" />
         <mark key="]" line="135" column="47" />
         <mark key="^" line="135" column="47" />
         <mark key="." line="135" column="47" />
-      </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1562145144563">
-        <mark key="a" line="1045" column="14" />
-        <mark key="[" line="1045" column="15" />
-        <mark key="]" line="1045" column="14" />
-        <mark key="." line="1045" column="14" />
-        <mark key="^" line="1045" column="14" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562393133793">
         <mark key="[" line="99" column="55" />
@@ -255,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhpc3RzIA==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhpc3RzIA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>app.Err</text>
