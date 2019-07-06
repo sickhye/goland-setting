@@ -20,12 +20,11 @@
         <mark key="^" line="135" column="47" />
         <mark key="." line="135" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562316466878">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="114" column="27" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562376744960">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="151" column="29" />
+        <mark key="^" line="151" column="29" />
+        <mark key="." line="151" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1562145144563">
         <mark key="a" line="1045" column="14" />
@@ -228,44 +227,44 @@
       <jump line="63" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>is_deleted</text>
       </register>
       <register name="-" type="4">
-        <text>Critical</text>
+        <text>is_deleted</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhcmVuYVJhbmtNc3QuQ3JpdGljYWwsCg==</text>
+        <text encoding="base64">CQkJCWRici5FcSgicGxheWVyX2lkIiwgcGxheWVySUQpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhcmVuYVJhbmtNc3QuSGVhbCwK</text>
+        <text encoding="base64">CQkJKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>:userCrystalSkillRepository</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbmFtZSAgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQljcnlzdGFsSUQgdWludDMyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiBza2lsbE1hcCwgbmlsCg==</text>
+        <text encoding="base64">CQlhcmVuYVJhbmsgdWludDMyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CUNyeXN0YWxMZXZlbChjdHggY29udGV4dC5Db250ZXh0LCBydW5uZXIgZGF0YWJhc2UuUnVubmVyLCBhcmVuYVBvaW50IHVpbnQzMikgKHJhbmsgdWludDMyLCBlcnIgZXJyb3IpCglDcnlzdGFsU2tpbGxQb2ludChjdHggY29udGV4dC5Db250ZXh0LCBydW5uZXIgZGF0YWJhc2UuUnVubmVyLCBhcmVuYVBvaW50IHVpbnQzMikgKHBvaW50IHVpbnQzMiwgZXJyIGVycm9yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
