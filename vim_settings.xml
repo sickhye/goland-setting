@@ -13,12 +13,12 @@
         <mark key="^" line="563" column="44" />
         <mark key="." line="563" column="44" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562390855664">
-        <mark key="'" line="82" column="58" />
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="0" />
-        <mark key="." line="439" column="0" />
-        <mark key="^" line="436" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562396599694">
+        <mark key="'" line="491" column="0" />
+        <mark key="[" line="583" column="58" />
+        <mark key="]" line="583" column="58" />
+        <mark key="." line="583" column="58" />
+        <mark key="^" line="583" column="57" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562314007159">
         <mark key="[" line="505" column="42" />
@@ -105,11 +105,11 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562393071059">
-        <mark key="[" line="1107" column="20" />
-        <mark key="]" line="1107" column="20" />
-        <mark key="^" line="1109" column="21" />
-        <mark key="." line="1107" column="20" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562396117301">
+        <mark key="[" line="915" column="15" />
+        <mark key="]" line="915" column="15" />
+        <mark key="^" line="915" column="15" />
+        <mark key="." line="915" column="15" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/master/crystal_skill.go" timestamp="1562386648469">
         <mark key="[" line="21" column="0" />
@@ -152,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="5" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
       <jump line="109" column="9" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
       <jump line="259" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
       <jump line="262" column="12" filename="$USER_HOME$/go/src/virgo-server/usecases/input/job_input.go" />
@@ -252,55 +251,56 @@
       <jump line="30" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" />
       <jump line="82" column="58" filename="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" />
       <jump line="2" column="15" filename="$USER_HOME$/go/src/virgo-server/models/master/crystal_skill_lv.go" />
+      <jump line="491" column="0" filename="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">ZXhpc3RzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">ZXhpc3RzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>app.Err</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhcHAuU3RvcmVkQ3J5c3RhbFNraWxsOiAgICAgICBpbnRlcmFjdG9yLnVzZXJDcnlzdGFsU2tpbGxSZXBvc2l0b3J5LlByb3RvLAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gYXBwLkVycigKCQkJYXBwLlBhcmFtRXJyb3IsCgkJCWZtdC5FcnJvcmYoImNyeXN0YWxfc2tpbGx2IGlzIG5vdCBleGlzdHMgY3J5c3RhbF9pZDolZCBza2lsbF9pZDolZCIsIGNyeXN0YWxTa2lsbCwgc2tpbGxJRCksCgkJKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkic3RhdHVzIjogICAgIHVzZXIuQ3J5c3RhbFNraWxsQWN0aXZlT24sCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlsb2cuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIHNraWxsSUQgIT0gbS5DcnlzdGFsU2tpbGxJRCB7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="8">
-        <text>skillID uint32, level uint32</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBtLkx2IDwgbGV2ZWwK</text>
+        <text encoding="base64">CW5vdyA6PSBhcHAuTm93KGN0eCkK</text>
       </register>
       <register name="9" type="8">
-        <text>回レベルか</text>
+        <text>user.CrystalSkillActiveOff</text>
       </register>
       <register name=":" type="4">
-        <text>151</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>app.Err</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>app.Err</last-pattern>
       <last-replace>\n</last-replace>
       <last-substitute>(</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>StoredData</entry>
         <entry>特効</entry>
         <entry>Atk</entry>
         <entry>&quot;,\&quot;</entry>
@@ -328,6 +327,7 @@
         <entry>ListByIDX</entry>
         <entry>(</entry>
         <entry>clear</entry>
+        <entry>app.Err</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Row/TreeLevel/g</entry>
@@ -348,8 +348,8 @@
         <entry>513,559s/(/(\n/g</entry>
         <entry>513,559s/(/\n/g</entry>
         <entry>231</entry>
-        <entry>w</entry>
         <entry>151</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
