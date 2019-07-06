@@ -20,11 +20,11 @@
         <mark key="^" line="135" column="47" />
         <mark key="." line="135" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562378386648">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562379343450">
         <mark key="'" line="189" column="6" />
-        <mark key="[" line="185" column="56" />
-        <mark key="]" line="185" column="56" />
-        <mark key="." line="185" column="56" />
+        <mark key="[" line="170" column="34" />
+        <mark key="]" line="170" column="34" />
+        <mark key="." line="170" column="34" />
         <mark key="^" line="183" column="59" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/job_controller.go" timestamp="1562145144563">
@@ -47,10 +47,11 @@
         <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/user/job_skill.go" timestamp="1562377512611" />
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/crystal_skill_usecase.go" timestamp="1562239626575">
-        <mark key="[" line="277" column="65" />
-        <mark key="]" line="277" column="66" />
-        <mark key="." line="277" column="66" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/crystal_skill_usecase.go" timestamp="1562379199239">
+        <mark key="[" line="16" column="82" />
+        <mark key="]" line="16" column="87" />
+        <mark key="^" line="16" column="87" />
+        <mark key="." line="16" column="87" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/master/crystal_skill.go" timestamp="1562314821988">
         <mark key="[" line="4" column="9" />
@@ -230,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>CrystalID</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>CrystalID</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -242,31 +243,31 @@
         <text encoding="base64">CQkJCXNraWxsTWFwW2NyeXN0YWxTa2lsbEx2LlBhc3NpdmVTa2lsbElEXSArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSkgKHNraWxsTWFwIG1hcFt1aW50MzJddWludDMyLCBlcnIgZXJyb3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlhcmVuYVJhbmsgdWludDMyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlydW5uZXIgZGF0YWJhc2UuUnVubmVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljdHggY29udGV4dC5Db250ZXh0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUFyZW5hUGFzc2l2ZVNraWxsTWFwKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUFyZW5hUmFuayhjdHggY29udGV4dC5Db250ZXh0LCBydW5uZXIgZGF0YWJhc2UuUnVubmVyLCBhcmVuYVBvaW50IHVpbnQzMikgKHJhbmsgdWludDMyLCBlcnIgZXJyb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWRici5FcSgic3RhdHVzIiwgdXNlci5DcnlzdGFsU2tpbGxBY3RpdmVPbiksCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
