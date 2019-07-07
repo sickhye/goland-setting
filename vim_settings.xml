@@ -19,12 +19,11 @@
         <mark key="^" line="291" column="67" />
         <mark key="." line="291" column="62" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562488274074">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562489836739">
         <mark key="'" line="873" column="25" />
-        <mark key="[" line="921" column="0" />
-        <mark key="]" line="921" column="0" />
-        <mark key="." line="921" column="0" />
-        <mark key="^" line="873" column="23" />
+        <mark key="[" line="935" column="0" />
+        <mark key="]" line="935" column="0" />
+        <mark key="." line="935" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_shared.go" timestamp="1562466953907" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/crystal_controller.go" timestamp="1562409293741">
@@ -271,43 +270,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oImludHJ1ZGVfdGFyZ2V0Iiwgam9iSUQsIGpvYkxldmVsLCBmcm9tTGV2ZWwsIHRvTGV2ZWwpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CW1pbkx2IDo9IGpvYkxldmVsIC0gKGxldmVsV2lkdGggKiByZXBlYXRDb3VudCkK</text>
+        <text encoding="base64">CWZvciBpIDo9IDE7IGkgPD0gaW50KHJlcGVhdENvdW50KTsgaSsrIHsKCQlmb3IgXywgZSA6PSByYW5nZSBsaXN0IHsKCQkJaWYgbGVuKHRhcmdldCkgPj0gdGFyZ2V0TGltaXQgewoJCQkJYnJlYWsgT3RoZXJSb2xlTE9PUAoJCQl9CgkJCWZyb21MZXZlbCA6PSBsZXZlbFdpZHRoKih1aW50MzIoaSktMSkgKyAxCgkJCXRvTGV2ZWwgOj0gbGV2ZWxXaWR0aCAqIHVpbnQzMihpKQoJCQlpZiBmcm9tTGV2ZWwgPD0gYWJzKGpvYkxldmVsLCBlLkxldmVsKSAmJgoJCQkJYWJzKGpvYkxldmVsLCBlLkxldmVsKSA8PSB0b0xldmVsIHsKCQkJCXRhcmdldCA9IGFwcGVuZCh0YXJnZXQsIGUpCgkJCX0KCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oImludHJ1ZGVfdGFyZ2V0Iiwgam9iSUQsIGpvYkxldmVsLCBmcm9tTGV2ZWwsIHRvTGV2ZWwpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGxpc3QpCg==</text>
+        <text encoding="base64">CQlsb2cuUHJpbnRsbihlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCJ0YXJnZXRfam9iX2lkIiwgdGFyZ2V0Sm9iSUQpCg==</text>
+        <text encoding="base64">CWZvciBfLCBlIDo9IHJhbmdlIHRhcmdldCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGxlYWRlciwgdGFyZ2V0TGlzdCkK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWxvZy5QcmludGxuKHJlcy5WaXJ0dWFsKQo=</text>
+        <text encoding="base64">CQkJCQlicmVhayBPdGhlclJvbGVMT09QCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>:= jobLevel - (levelWidth * repeatCount)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlqb2IK</text>
+        <text encoding="base64">CQkJCQlicmVhayBPdGhlclJvbGVMT09QCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>service.BattlePlayerCurrentJobID</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWlmIGxlbih0YXJnZXQpID49IHRhcmdldExpbWl0IHsK</text>
       </register>
-      <register name="9" type="8">
-        <text>req.OpponentId</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
