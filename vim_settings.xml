@@ -5,12 +5,11 @@
       <mark key="I" line="191" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562485721366">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562488178562">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="205" column="28" />
-        <mark key="]" line="205" column="37" />
-        <mark key="^" line="205" column="37" />
-        <mark key="." line="205" column="37" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/elixir_controller.go" timestamp="1562406444498" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562474078678">
@@ -20,12 +19,12 @@
         <mark key="^" line="291" column="67" />
         <mark key="." line="291" column="62" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562485763975">
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562488274074">
         <mark key="'" line="873" column="25" />
-        <mark key="[" line="892" column="17" />
-        <mark key="]" line="892" column="29" />
-        <mark key="." line="892" column="29" />
-        <mark key="^" line="892" column="29" />
+        <mark key="[" line="921" column="0" />
+        <mark key="]" line="921" column="0" />
+        <mark key="." line="921" column="0" />
+        <mark key="^" line="873" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/mission_usecase_guild_shared.go" timestamp="1562466953907" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/crystal_controller.go" timestamp="1562409293741">
@@ -271,44 +270,44 @@
       <jump line="872" column="25" filename="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>）</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oImludHJ1ZGVfdGFyZ2V0Iiwgam9iSUQsIGpvYkxldmVsLCBmcm9tTGV2ZWwsIHRvTGV2ZWwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>）</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJaWYgbGV2ZWxXaWR0aCAqICh1aW50MzIoaSktMSkgPD0gYWJzKGpvYkxldmVsLGUuTGV2ZWwpICYmCg==</text>
+        <text encoding="base64">CW1pbkx2IDo9IGpvYkxldmVsIC0gKGxldmVsV2lkdGggKiByZXBlYXRDb3VudCkK</text>
       </register>
-      <register name="1" type="8">
-        <text>service.BattlePlayerCurrentJobID</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJbG9nLlByaW50bG4oImludHJ1ZGVfdGFyZ2V0Iiwgam9iSUQsIGpvYkxldmVsLCBmcm9tTGV2ZWwsIHRvTGV2ZWwpCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>req.OpponentId</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWxvZy5QcmludGxuKGxpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlrawo=</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCJ0YXJnZXRfam9iX2lkIiwgdGFyZ2V0Sm9iSUQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCVZpcnR1YWw6ICAgICAgICAgICAgICBuaWwsCg==</text>
+        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGxlYWRlciwgdGFyZ2V0TGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
+        <text encoding="base64">CQkJCWxvZy5QcmludGxuKHJlcy5WaXJ0dWFsKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCg==</text>
+      <register name="6" type="8">
+        <text>:= jobLevel - (levelWidth * repeatCount)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCVhYWF9Ob1Vua2V5ZWRMaXRlcmFsOiBzdHJ1Y3R7fXt9LAo=</text>
+        <text encoding="base64">CQlqb2IK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCU1lcmNlbmFyeTogICAgICAgICAgICBuaWwsCg==</text>
+      <register name="8" type="8">
+        <text>service.BattlePlayerCurrentJobID</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCU9wcG9uZW50OiAgICAgICAgICAgICBuaWwsCg==</text>
+      <register name="9" type="8">
+        <text>req.OpponentId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
