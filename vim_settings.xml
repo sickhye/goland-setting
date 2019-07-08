@@ -8,10 +8,6 @@
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1562548471961" />
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562549193195">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="718" column="16" />
-        <mark key="]" line="718" column="16" />
-        <mark key="." line="718" column="16" />
-        <mark key="^" line="718" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562474078678">
         <mark key="'" line="969" column="40" />
