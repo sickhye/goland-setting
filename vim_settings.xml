@@ -6,7 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1562548471961" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562549193195">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562562044479">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562474078678">
