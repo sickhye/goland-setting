@@ -31,11 +31,11 @@
         <mark key="." line="276" column="45" />
         <mark key="^" line="262" column="51" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1562402289174">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="280" column="26" />
-        <mark key="." line="282" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1562567434350">
+        <mark key="[" line="547" column="0" />
+        <mark key="]" line="547" column="0" />
+        <mark key="^" line="279" column="26" />
+        <mark key="." line="547" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1562554966712">
         <mark key="[" line="156" column="45" />
@@ -49,6 +49,7 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/rand_test.go" timestamp="1562567622005" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1562549647710">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="263" column="47" />
@@ -82,12 +83,13 @@
         <mark key="." line="262" column="61" />
         <mark key="^" line="262" column="61" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/time.go" timestamp="1562397740951">
-        <mark key="[" line="158" column="11" />
-        <mark key="]" line="156" column="8" />
-        <mark key="." line="156" column="8" />
-        <mark key="^" line="156" column="8" />
+      <file name="$USER_HOME$/go/src/virgo-server/app/time.go" timestamp="1562568662534">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="159" column="22" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/lottery_test.go" timestamp="1562567873482" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562412105463">
         <mark key="[" line="197" column="13" />
         <mark key="]" line="197" column="23" />
@@ -124,6 +126,12 @@
         <mark key="^" line="217" column="75" />
         <mark key="." line="217" column="75" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/time_test.go" timestamp="1562569010533">
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="44" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/arena_input.go" timestamp="1562405820951">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="15" />
@@ -142,11 +150,11 @@
         <mark key="." line="54" column="32" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1562482430877">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/battle.go" timestamp="1562567237734">
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/context_stored.go" timestamp="1562401089379">
         <mark key="'" line="95" column="0" />
@@ -272,43 +280,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGFyZW5hRXhwLCBiYXR0bGUuSXNTdWNjZXNzKCkpCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHd0MSwgd3QyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljdHggY29udGV4dC5Db250ZXh0LAoJCXJ1bm5lciBkYXRhYmFzZS5SdW5uZXIsCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHQxLCB0MikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGFyZW5hRXhwLCBiYXR0bGUuSXNTdWNjZXNzKCkpCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHd0MSwgd3QyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGJlZm9yZUFyZW5hLCBhZnRlckFyZW5hKQo=</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHllYXIxLCB5ZWFyMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKGR0MSwgZHQyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHQxLCB0MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyA05pmC44Gr5YiH44KK5pu/44GICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgaW5mby5BcmVuYVRvdGFsUG9pbnQgPT0gMCB7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="7" type="8">
+        <text>, time.Local</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWJyZWFrCg==</text>
+      <register name="8" type="8">
+        <text>Deflection over 0.1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgaW5mby5BcmVuYVRvdGFsUG9pbnQgPT0gMCB7Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ZGVmbGVjdGlvbiA+PSBmbG9hdDY0KGV4cGVjdGVkQ291bnQpKjAuMQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
