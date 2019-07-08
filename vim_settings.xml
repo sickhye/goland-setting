@@ -6,15 +6,18 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" timestamp="1562548471961" />
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562562582005">
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562565963626">
         <mark key="'" line="0" column="0" />
+        <mark key="]" line="576" column="20" />
+        <mark key="^" line="576" column="20" />
+        <mark key="." line="576" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562562791693">
-        <mark key="'" line="975" column="40" />
-        <mark key="[" line="95" column="29" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="96" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562565502873">
+        <mark key="'" line="1001" column="40" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="^" line="411" column="24" />
+        <mark key="." line="402" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562489836739">
         <mark key="'" line="873" column="25" />
@@ -268,11 +271,11 @@
       <jump line="872" column="25" filename="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YmF0dGxlUmVzdWx0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGFyZW5hRXhwLCBiYXR0bGUuSXNTdWNjZXNzKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmF0dGxlUmVzdWx0IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
@@ -281,31 +284,31 @@
         <text encoding="base64">CQljdHggY29udGV4dC5Db250ZXh0LAoJCXJ1bm5lciBkYXRhYmFzZS5SdW5uZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUNhbGNBcmVuYUVhcgo=</text>
+        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGFyZW5hRXhwLCBiYXR0bGUuSXNTdWNjZXNzKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWsK</text>
+        <text encoding="base64">CQkJCWxvZy5QcmludGxuKGJlZm9yZUFyZW5hLCBhZnRlckFyZW5hKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">LCBtYXhWYWx1ZTogJnJhbmdlVmFsdWV7NX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">LCBtYXhWYWx1ZTogJnJhbmdlVmFsdWV7NX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbG9nLlByaW50bG4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJaWYgaW5mby5BcmVuYVRvdGFsUG9pbnQgPT0gMCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2cuUHJpbnRsbihlKQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciBfLCBlIDo9IHJhbmdlIHRhcmdldCB7Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJaWYgaW5mby5BcmVuYVRvdGFsUG9pbnQgPT0gMCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
