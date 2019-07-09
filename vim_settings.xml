@@ -105,11 +105,11 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562585188466">
-        <mark key="[" line="1563" column="31" />
-        <mark key="]" line="1563" column="31" />
-        <mark key="." line="1563" column="31" />
-        <mark key="^" line="1563" column="31" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562639709378">
+        <mark key="[" line="1484" column="24" />
+        <mark key="]" line="1484" column="24" />
+        <mark key="." line="1484" column="24" />
+        <mark key="^" line="1484" column="24" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/dicontainer/inject.go" timestamp="1562407097077">
         <mark key="[" line="62" column="23" />
