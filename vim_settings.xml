@@ -60,6 +60,7 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/rand_test.go" timestamp="1562567622005" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/player_input.go" timestamp="1562648032059">
         <mark key="[" line="138" column="11" />
         <mark key="]" line="138" column="19" />
@@ -84,6 +85,7 @@
         <mark key="]" line="167" column="23" />
         <mark key="." line="167" column="23" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/guild_personal_mission.spec.ts" timestamp="1562656518600" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/job_skill_usecase.go" timestamp="1562384150961">
         <mark key="[" line="325" column="0" />
         <mark key="]" line="326" column="23" />
@@ -96,6 +98,7 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="159" column="22" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/app/lottery_test.go" timestamp="1562567873482" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562412105463">
         <mark key="[" line="197" column="13" />
         <mark key="]" line="197" column="23" />
@@ -185,6 +188,12 @@
         <mark key="]" line="102" column="0" />
         <mark key="^" line="88" column="25" />
         <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/guild_weekly_mission.spec.ts" timestamp="1562656674016">
+        <mark key="[" line="102" column="30" />
+        <mark key="]" line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+        <mark key="." line="102" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -290,11 +299,11 @@
       <jump line="73" column="0" filename="$USER_HOME$/go/src/virgo-server/app/error.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>level</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
