@@ -18,12 +18,12 @@
         <mark key="^" line="200" column="25" />
         <mark key="." line="200" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562647192570">
-        <mark key="'" line="1001" column="40" />
-        <mark key="[" line="906" column="36" />
-        <mark key="]" line="897" column="37" />
-        <mark key="^" line="897" column="37" />
-        <mark key="." line="897" column="37" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562650027534">
+        <mark key="'" line="1020" column="40" />
+        <mark key="[" line="795" column="93" />
+        <mark key="]" line="752" column="23" />
+        <mark key="." line="752" column="23" />
+        <mark key="^" line="752" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1562578247545">
         <mark key="[" line="202" column="40" />
@@ -43,11 +43,10 @@
         <mark key="." line="276" column="45" />
         <mark key="^" line="262" column="51" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1562567434350">
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
-        <mark key="^" line="279" column="26" />
-        <mark key="." line="547" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/player_usecase.go" timestamp="1562649023306">
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="39" />
+        <mark key="." line="374" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/service/draft/value_constraints_rule.go" timestamp="1562554966712">
         <mark key="[" line="156" column="45" />
@@ -61,7 +60,12 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/rand_test.go" timestamp="1562567622005" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/input/player_input.go" timestamp="1562648032059">
+        <mark key="[" line="138" column="11" />
+        <mark key="]" line="138" column="19" />
+        <mark key="^" line="138" column="19" />
+        <mark key="." line="138" column="19" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/contents_usecase.go" timestamp="1562584379008">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="69" column="12" />
@@ -69,11 +73,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="74" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1562131464708">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="278" column="22" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/player_controller.go" timestamp="1562648089158">
+        <mark key="[" line="505" column="73" />
+        <mark key="]" line="505" column="73" />
+        <mark key="^" line="489" column="48" />
+        <mark key="." line="505" column="73" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/guild_yell_usecase.go" timestamp="1562575790254">
         <mark key="[" line="167" column="23" />
@@ -92,7 +96,6 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="159" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/app/lottery_test.go" timestamp="1562567873482" />
       <file name="$USER_HOME$/go/src/virgo-server/usecases/postdispatch_usecase.go" timestamp="1562412105463">
         <mark key="[" line="197" column="13" />
         <mark key="]" line="197" column="23" />
@@ -140,6 +143,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/player.spec.ts" timestamp="1562649142245">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="141" column="51" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/arena_controller.go" timestamp="1562578237560">
         <mark key="^" line="4" column="24" />
       </file>
@@ -165,11 +174,11 @@
         <mark key="]" line="319" column="31" />
         <mark key="." line="319" column="31" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1562641189139">
-        <mark key="[" line="395" column="86" />
-        <mark key="]" line="395" column="89" />
-        <mark key="." line="395" column="89" />
-        <mark key="^" line="395" column="89" />
+      <file name="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" timestamp="1562649247458">
+        <mark key="[" line="149" column="27" />
+        <mark key="]" line="149" column="33" />
+        <mark key="." line="149" column="33" />
+        <mark key="^" line="149" column="33" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/crystal_input.go" timestamp="1562406061289">
         <mark key="[" line="102" column="0" />
@@ -281,44 +290,44 @@
       <jump line="73" column="0" filename="$USER_HOME$/go/src/virgo-server/app/error.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>crystalID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>crystalID</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gRGVidWdBcmVuYVBvaW50U2V0IC4uLgp0eXBlIERlYnVnQXJlbmFQb2ludFNldCBzdHJ1Y3QgewoJVG90YWwgIHVpbnQzMgoJRGFpbHkgIHVpbnQzMgoJV2Vla2x5IHVpbnQzMgp9Cg==</text>
+        <text encoding="base64">CQkJdXNlQ3J5c3RhbFNraWxsUG9pbnQgKz0gY3J5c3RhbFNraWxsTXN0LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CeOBo2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBlcnIK</text>
+        <text encoding="base64">CWNyeXN0YWxTa2lsbExpc3QsIGVyciA6PSBpbnRlcmFjdG9yLnVzZXJDcnlzdGFsU2tpbGxSZXBvc2l0b3J5Lkxpc3QoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgZXJyICE9IG5pbCB7Cg==</text>
+        <text encoding="base64">CV9jcnlzdGFsU2tpbGxNYXBDb2xsZWN0aW9uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNyeXN0YWxTa2lsbE1zdCwgb2sgOj0gCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>not exists crystal_id:%d skill_id:%d</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgY3J5c3RhbFNraWxsUG9pbnQgPCB1c2VDcnlzdGFsU2tpbGxQb2ludCB7CgkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBtYy5Jcwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSkK</text>
+        <text encoding="base64">CQkJY3J5c3RhbFNraWxsUG9pbnQgLT0gY3J5c3RhbFNraWxsTXN0LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
