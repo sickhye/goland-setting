@@ -18,6 +18,13 @@
         <mark key="^" line="200" column="25" />
         <mark key="." line="200" column="25" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562644091926">
+        <mark key="'" line="1001" column="40" />
+        <mark key="[" line="757" column="38" />
+        <mark key="]" line="757" column="39" />
+        <mark key="^" line="757" column="39" />
+        <mark key="." line="757" column="39" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1562578247545">
         <mark key="[" line="202" column="40" />
         <mark key="]" line="202" column="16" />
@@ -275,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Get</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>Get</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
