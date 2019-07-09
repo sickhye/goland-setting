@@ -5,10 +5,11 @@
       <mark key="I" line="191" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1562575814585">
-        <mark key="[" line="696" column="27" />
-        <mark key="]" line="696" column="27" />
-        <mark key="." line="696" column="27" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/receive_reward.go" timestamp="1562638107729">
+        <mark key="[" line="340" column="6" />
+        <mark key="]" line="340" column="6" />
+        <mark key="." line="340" column="6" />
+        <mark key="^" line="340" column="6" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/battle_controller.go" timestamp="1562584739114">
         <mark key="'" line="0" column="0" />
@@ -281,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
