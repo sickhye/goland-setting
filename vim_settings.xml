@@ -31,6 +31,12 @@
         <mark key="." line="202" column="16" />
         <mark key="^" line="202" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/job_usecase.go" timestamp="1562664905054">
+        <mark key="'" line="873" column="25" />
+        <mark key="[" line="935" column="0" />
+        <mark key="]" line="935" column="0" />
+        <mark key="." line="935" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/friend_usecase.go" timestamp="1562576233709">
         <mark key="[" line="34" column="37" />
         <mark key="]" line="34" column="37" />
