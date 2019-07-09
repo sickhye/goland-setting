@@ -18,12 +18,12 @@
         <mark key="^" line="200" column="25" />
         <mark key="." line="200" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562650027534">
-        <mark key="'" line="1020" column="40" />
-        <mark key="[" line="795" column="93" />
-        <mark key="]" line="752" column="23" />
-        <mark key="." line="752" column="23" />
-        <mark key="^" line="752" column="23" />
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1562652063848">
+        <mark key="'" line="1017" column="40" />
+        <mark key="[" line="795" column="48" />
+        <mark key="]" line="795" column="81" />
+        <mark key="^" line="795" column="81" />
+        <mark key="." line="795" column="81" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1562578247545">
         <mark key="[" line="202" column="40" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>level</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbFdpZHRoXD4=</text>
@@ -303,31 +303,31 @@
         <text encoding="base64">CQkJdXNlQ3J5c3RhbFNraWxsUG9pbnQgKz0gY3J5c3RhbFNraWxsTXN0LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWxldmVsKysK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNyeXN0YWxTa2lsbExpc3QsIGVyciA6PSBpbnRlcmFjdG9yLnVzZXJDcnlzdGFsU2tpbGxSZXBvc2l0b3J5Lkxpc3QoCg==</text>
+        <text encoding="base64">CQkJaWYgZS5Ta2lsbElEID09IHNraWxsSUQgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CV9jcnlzdGFsU2tpbGxNYXBDb2xsZWN0aW9uLgo=</text>
+        <text encoding="base64">CQkJbGV2ZWwgOj0gZS5MZXZlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNyeXN0YWxTa2lsbE1zdCwgb2sgOj0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>not exists crystal_id:%d skill_id:%d</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgY3J5c3RhbFNraWxsUG9pbnQgPCB1c2VDcnlzdGFsU2tpbGxQb2ludCB7CgkJCX0K</text>
+        <text encoding="base64">CWNyeXN0YWxTa2lsbExpc3QsIGVyciA6PSBpbnRlcmFjdG9yLnVzZXJDcnlzdGFsU2tpbGxSZXBvc2l0b3J5Lkxpc3QoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CV9jcnlzdGFsU2tpbGxNYXBDb2xsZWN0aW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY3J5c3RhbFNraWxsUG9pbnQgLT0gY3J5c3RhbFNraWxsTXN0LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
+        <text encoding="base64">CWNyeXN0YWxTa2lsbE1zdCwgb2sgOj0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
