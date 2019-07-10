@@ -92,6 +92,11 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/crystal.spec.ts" timestamp="1562721092857">
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/models/master/contents.go" timestamp="1562463548842">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="11" column="64" />
