@@ -14,11 +14,11 @@
       <file name="$USER_HOME$/go/src/virgo-server/interfaces/controllers/account_controller.go" timestamp="1562746657054">
         <mark key="[" line="66" column="88" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1563241105418">
-        <mark key="[" line="1457" column="0" />
-        <mark key="]" line="1457" column="0" />
-        <mark key="^" line="1454" column="55" />
-        <mark key="." line="1457" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/service/draft/referential_integrity_rule.go" timestamp="1563257117784">
+        <mark key="[" line="1928" column="32" />
+        <mark key="]" line="1928" column="52" />
+        <mark key="^" line="1928" column="52" />
+        <mark key="." line="1928" column="52" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.2/authenticate.go" timestamp="1562746231622" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/crystal.spec.ts" timestamp="1562754989027">
@@ -244,11 +244,11 @@
       <jump line="167" column="37" filename="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+      <register name="&quot;" type="4">
+        <text>join_reward_group_id</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>join_reward_group_id</text>
       </register>
       <register name="/" type="4">
         <text>equipment</text>
