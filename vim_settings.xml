@@ -26,7 +26,6 @@
         <mark key="^" line="1928" column="52" />
         <mark key="." line="1928" column="52" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.2/authenticate.go" timestamp="1562746231622" />
       <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/crystal.spec.ts" timestamp="1563259405277">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
@@ -100,8 +99,8 @@
         <mark key="." line="975" column="53" />
         <mark key="^" line="975" column="53" />
       </file>
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1562727471863">
-        <mark key="[" line="1368" column="21" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/protobuf/all.proto" timestamp="1563266565748">
+        <mark key="[" line="1569" column="31" />
         <mark key="]" line="1368" column="21" />
         <mark key="." line="1368" column="21" />
         <mark key="^" line="1368" column="21" />
