@@ -250,8 +250,8 @@
       <jump line="167" column="37" filename="$USER_HOME$/go/src/virgo-server/infrastructures/server/api/api.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -263,31 +263,31 @@
         <text encoding="base64">CWlmIGNyeXN0YWxTa2lsbFBvaW50IDwgdXNlQ3J5c3RhbFNraWxsUG9pbnQrY3J5c3RhbFNraWxsTHYuQ3J5c3RhbFNraWxsUG9pbnQgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXJlbmFfcG9pbnQgPSA2NTU7Cg==</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXVzZUNyeXN0YWxTa2lsbFBvaW50ICs9IGNyeXN0YWxTa2lsbEx2LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>useCrystalSkillPoint+crystalSkillLv.CrystalSkillPoint</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJUmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl1c2VDcnlzdGFsU2tpbGxQb2ludCArPSBjcnlzdGFsU2tpbGxNc3QuQ3J5c3RhbFNraWxsUG9pbnQK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXJlbmFfcG9pbnQgPSA2NTU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWlmIGkgPT0gMSB7Cg==</text>
+        <text encoding="base64">CQkJCXVzZUNyeXN0YWxTa2lsbFBvaW50ICs9IGNyeXN0YWxTa2lsbEx2LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
