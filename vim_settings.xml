@@ -5,6 +5,12 @@
       <mark key="I" line="191" column="27" filename="$USER_HOME$/go/src/virgo-server/usecases/equipment_usecase_rune.go" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/go/src/virgo-server/usecases/arena_usecase.go" timestamp="1563259253806">
+        <mark key="'" line="1031" column="40" />
+        <mark key="[" line="690" column="0" />
+        <mark key="]" line="690" column="0" />
+        <mark key="." line="690" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/virgo-server/app/error.go" timestamp="1562753431874">
         <mark key="[" line="202" column="40" />
         <mark key="]" line="202" column="16" />
@@ -21,10 +27,10 @@
         <mark key="." line="1928" column="52" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.enish.jp/aquarius/server-sdk-go@v1.0.2/authenticate.go" timestamp="1562746231622" />
-      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/crystal.spec.ts" timestamp="1562754989027">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/go/src/virgo-server/sbin/e2e/src/crystal.spec.ts" timestamp="1563259405277">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
       </file>
       <file name="$USER_HOME$/go/src/virgo-server/usecases/input/battle_input.go" timestamp="1562672365658">
         <mark key="[" line="72" column="0" />
@@ -245,43 +251,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>join_reward_group_id</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>join_reward_group_id</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>equipment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXF1aXBtZW50LmdldFBhcmFtT3B0aW9uMSgpID09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGFmdGVyLmdldFBhcmFtT3B0aW9uMSgpKS5lcXVhbCgwKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoYWZ0ZXIuZ2V0UGFyYW1PcHRpb24xKCkpLnRvLm5vdC5lcXVhbCgwKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CWlmIGNyeXN0YWxTa2lsbFBvaW50IDwgdXNlQ3J5c3RhbFNraWxsUG9pbnQrY3J5c3RhbFNraWxsTHYuQ3J5c3RhbFNraWxsUG9pbnQgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXJlbmFfcG9pbnQgPSA2NTU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAicmFua2luZ19yZXdhcmQiLCBjb2x1bW5zOiBbXXN0cmluZ3siaWQifX0sCg==</text>
+        <text encoding="base64">CQkJCXVzZUNyeXN0YWxTa2lsbFBvaW50ICs9IGNyeXN0YWxTa2lsbEx2LkNyeXN0YWxTa2lsbFBvaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJe2NvbHVtbnM6IFtdc3RyaW5neyJyYW5raW5nX3Jld2FyZF9pZCJ9LCBudWxsOiBmYWxzZSwK</text>
+      <register name="5" type="8">
+        <text>useCrystalSkillPoint+crystalSkillLv.CrystalSkillPoint</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfSwK</text>
+        <text encoding="base64">CQkJCQl1c2VDcnlzdGFsU2tpbGxQb2ludCArPSBjcnlzdGFsU2tpbGxNc3QuQ3J5c3RhbFNraWxsUG9pbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlkZWZhdWx0UnVsZToge3RhYmxlOiAicmV3YXJkX2dyb3VwIiwgY29sdW1uczogW11zdHJpbmd7ImlkIn19LAo=</text>
+        <text encoding="base64">CQkJCWlmIGkgPT0gMSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzOiBtYXBbc3RyaW5nXSpyZWxhdGlvblJ1bGV7Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
